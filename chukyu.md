@@ -4,7 +4,6 @@ title: 「平成29年度音訳者講習（中級研修）」受講報告
 author: 水野光子
 date: 2017-10-21T09:00:00Z
 ---
-{:transliterated_header_ids}
 # 「平成29年度音訳者講習（中級研修）」受講報告
 {:.no_toc}
 
