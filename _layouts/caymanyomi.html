@@ -57,7 +57,10 @@
 </div> 
        {% endif %}
        <div class="site-footer-owner">文責： {{ page.author }}</div>
-         <span class="site-footer-credits">このページは<a href="https://pages.github.com">GitHub Pages</a>によって生成されました。</span>
+      <div>
+    	<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">ページ更新日： {{ page.date | date: "%Y年%m月%d日" }}</time>
+      </div>
+
        {% if page.imagefrom %}
 	  <div class="site-footer-credits">背景画像： <a href="{{ page.imagefromurl }}">{{ page.imagefrom }}</a></div>
         {% endif %}
