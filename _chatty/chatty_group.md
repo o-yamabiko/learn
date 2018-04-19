@@ -4,7 +4,7 @@ title: ChattyInfty3グループ作業指針
 author: 水野光子
 date: 2018-04-19T12:20:32Z
 iro: 1035DC
-gra: FDB5E1
+gra: FFF97D
 ---
 
 # ChattyInfty3グループ作業指針
