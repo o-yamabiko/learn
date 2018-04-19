@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 markdown: kramdown
+collections:
+  chatty:
+    output: true
+    permalink: :title.html
