@@ -3,7 +3,7 @@ layout: caymanyomi
 title: ChattyInfty3グループ作業指針
 author: 水野光子
 date: 2018-04-19T12:20:32Z
-iro: 0148BC
+iro: 3864AB
 gra: FFE2FD
 ---
 
