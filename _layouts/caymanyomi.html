@@ -58,7 +58,7 @@
        {% endif %}
        <div>文責： {{ page.author }}</div>
       <div>
-    	<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">ページ更新日： {{ page.date | date: "%Y年%m月%d日" }}</time>
+    	<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="pubdate">ページ更新日： {{ page.date | date: "%Y年%m月%d日" }}</time>
       </div>
 
        {% if page.imagefrom %}
