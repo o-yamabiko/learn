@@ -16,7 +16,7 @@
         文責： {{ page.author }}
       </div>
       <div>
-    	<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">ページ更新日： {{ page.date | date: "%Y年%m月%d日" }}</time>
+    	ページ更新日： <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y年%m月%d日" }}</time>
       </div>
     </footer>
   </body>
