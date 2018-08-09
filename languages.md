@@ -51,7 +51,7 @@ date: 2018-08-09T04:35:38Z
 
 外国籍の北区住民数の最近5年間の推移（各年1月1日現在）を表す折れ線グラフ：
 
-<img class="naka" src="../media/languages/population_c.png" alt="外国籍の北区住民数の最近5年間の推移" srcset="../media/languages/population_c.svg" />
+<img class="naka" src="learn/media/languages/population_c.png" alt="外国籍の北区住民数の最近5年間の推移" srcset="learn/media/languages/population_c.svg" />
 
 2014年には14558人だった。毎年増え続け、2018年に20954人になっている。
 
