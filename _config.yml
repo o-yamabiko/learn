@@ -4,3 +4,6 @@ collections:
   chatty:
     output: true
     permalink: :title.html
+  tejun:
+    output: true
+    permalink: :title.html
