@@ -7,3 +7,4 @@ collections:
   tejun:
     output: true
     permalink: :title.html
+
