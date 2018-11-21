@@ -5,6 +5,7 @@ author: 水野光子
 date: 2018-11-21T12:20:32Z
 iro: 0b8f7b
 gra: d6fcf7
+pdf: hensyu.pdf
 ---
 
 # やまびこ編集作業手順

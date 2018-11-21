@@ -50,6 +50,9 @@
   <body{% if page.oto %} onload="showtext()"{% endif %}>
    <div id="passage-text" class="passage">
     <section class="main-content" id="bun"{% if page.oto %} style="display:none"{% endif %}>
+       {% if page.pdf %}
+       <div style="position: absolute;top: 10em;left: auto;right: 3em;"><a href="/media/{{ page.pdf }}">印刷用 (pdf) ファイル</a></div>
+       {% endif %}
 
       {{ content }}
 
