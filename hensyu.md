@@ -157,7 +157,21 @@ USBメモリで受け取った場合は、以下の作業を飛ばして「4. �
 
 <!--supplimer ce ligne pour pdf
 --- -------------------------
+G   「写真3枚」
+    「1枚目」
+    ［キャプション］［説明］
+G   「2枚目」
+    ［キャプション］［説明］
+G   「3枚目」
+    ［キャプション］［説明］
+G   「写真終わり」
+--- -------------------------
 supplimer ce ligne pour pdf-->
+
+<!--supplimer ce ligne pour pdf
+\iffalse
+supplimer ce ligne pour pdf-->
+
 G   |「写真3枚」
     |「1枚目」
     |［キャプション］［説明］
@@ -166,8 +180,9 @@ G   |「2枚目」
 G   |「3枚目」
     |［キャプション］［説明］
 G   |「写真終わり」
+
 <!--supplimer ce ligne pour pdf
---- -------------------------
+\fi
 supplimer ce ligne pour pdf-->
 
 #### 箇条書きなどに付ける場合は、初めだけに付ける。
