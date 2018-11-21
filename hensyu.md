@@ -190,12 +190,31 @@ supplimer ce ligne pour pdf-->
 
 例（G: グループを付けるところ）：
 
-|G|［・内容1の冒頭］|
-| |［内容1の続き］|
-|G|［・内容2の冒頭］|
-| |［内容2の続き］|
-|G|［・内容3の冒頭］|
-| |［内容3の続き］|
+<!--supplimer ce ligne pour pdf
+--- -------------------------
+G   ［内容1の冒頭］
+    ［内容1の続き］
+G   ［内容2の冒頭］
+    ［内容2の続き］
+G   ［内容3の冒頭］
+    ［内容3の続き］
+--- -------------------------
+supplimer ce ligne pour pdf-->
+
+<!--supplimer ce ligne pour pdf
+\iffalse
+supplimer ce ligne pour pdf-->
+
+G   |［内容1の冒頭］
+    |［内容1の続き］
+G   |［内容2の冒頭］
+    |［内容2の続き］
+G   |［内容3の冒頭］
+    |［内容3の続き］
+
+<!--supplimer ce ligne pour pdf
+\fi
+supplimer ce ligne pour pdf-->
 
 ### 4.5. ページ付け
 
