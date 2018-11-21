@@ -2,7 +2,7 @@
 layout: caymanyomi
 title: やまびこ編集作業手順
 author: 水野光子
-date: 2018-04-19T12:20:32Z
+date: 2018-11-21T12:20:32Z
 iro: 1035DC
 gra: FEFBCB
 ---
