@@ -16,3 +16,5 @@ tex$1.md \
 --latex-engine=xelatex \
 --toc \
 -o media/$1.pdf
+rm tex$1.md
+
