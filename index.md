@@ -2,7 +2,7 @@
 layout: caymanyomi
 title: 音訳グループやまびこ 学習資料集
 date: 2018-11-21T12:20:32Z
-iro: e19a04
+iro: ca8900
 gra: ffe3a8
 ---
 
