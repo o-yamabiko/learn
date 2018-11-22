@@ -23,6 +23,10 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 1. デイジー編集作業手順（水野光子）  
    [画面で読む (html)](hensyu.html) | [印刷する (pdf)](media/hensyu.pdf)
 
+## 合成音声
+
+1. [ChattyInfty3グループ作業指針（水野光子）](chatty_group.html)
+
 ## 研修報告
 
 1. [「平成29年度音訳者講習（中級研修）」受講報告（水野光子）](chukyu.html)
