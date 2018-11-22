@@ -15,4 +15,4 @@ pandoc -N \
 tex$1.md \
 --latex-engine=xelatex \
 --toc \
--o $1.pdf
+-o media/$1.pdf
