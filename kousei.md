@@ -6,6 +6,7 @@ date: 2018-11-21T12:20:32Z
 iro: 0b4990
 gra: d6e7fb
 pdf: kousei.pdf
+version: 1
 ---
 
 # パソコンで校正する場合の作業手順

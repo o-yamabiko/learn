@@ -6,6 +6,7 @@ date: 2018-11-21T12:20:32Z
 iro: 900b58
 gra: fcd6ec
 pdf: onyaku.pdf
+version: 1
 ---
 
 # パソコンで音訳する場合の作業手順
