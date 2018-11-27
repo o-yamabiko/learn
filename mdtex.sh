@@ -6,6 +6,7 @@
 	-e 's/.*imgcaption=\"\(.*\)\".*/\1/' \
 	-e 's/.*imgtourl=\"\(.*\)\"/\\url{\1}/' \
 	-e 's/.*imgtitle=\".*/\\end{center}/' \
+	-e '/{:start=.*/d' \
 	-e '/<\!--faire le commentaire pour pdf.*/d' \
 	-e '/^.*supplimer ce ligne pour pdf.*$/d' \
 	-e '/^# .*$/d' \
