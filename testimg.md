@@ -106,17 +106,21 @@ USBメモリで受け取った場合は、以下の作業を飛ばして6.2に�
 2. 不要な音が入っていないか注意する。
 3. 急に声が大きくなったり小さくなったりしていないか注意する。  
     音量は -12dB（小）から -6dB（大）の間 に保つ。  
-    （図1：画面右端、縦バーに音量メモリがある。下が小、上が大。）  
+    （図1：画面右端、縦バーに音量メモリがある。下が小、上が大。）
+
     {% include image.html  
     img="media/prsp_dB.png"  
     imgcaption="図1：PRSPの画面 リンク付き"  
     imgtourl="https://o-yamabiko.github.io"  
-    imgtitle="図1：PRSPの画面 リンク付き" %}  
+    imgtitle="図1：PRSPの画面 リンク付き" %}
+
     {% include image.html  
     img="media/prsp_dB.png"  
     imgcaption="図1：PRSPの画面 リンクなし"  
     imgtitle="図1：PRSPの画面 リンクなし" %}  
     ![図1：PRSPの画面](media/prsp_dB.png)
+
+{:start="4"}
 4. マークを付ける。  
    読み直しが必要な個所や雑音が入っているような場合に、該当するフレーズにマークを付け、校正表に必要事項を記入する。
    - 付ける ― 該当するフレーズを選択した状態でMキーを押す。
