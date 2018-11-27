@@ -89,12 +89,11 @@ version: 1
 3. 音量や雑音に注意する。  
    音量は -12dB（小）から -6dB（大）の間 に保つ。  
    （図1：画面右端、縦バーに音量メモリがある。下が小、上が大。）
-{% include image.html
-img="media/prsp_dB.png"
-imgcaption="図1：PRSPの画面"
-imgtitle="図1：PRSPの画面" %}
-
-{:depth="2"}
+    {% include image.html
+    img="media/prsp_dB.png"
+    imgcaption="図1：PRSPの画面"
+    imgtitle="図1：PRSPの画面" %}
+    
    - 急に声が大きくなったり小さくなったりしないよう注意する。
    - ピッチを落として括弧（&emsp;&emsp;&emsp;）内を読むときは低くなりすぎないよう、不明瞭にならないよう注意する。
    - 文章の一部分を読み直すときは、声の調子や音量が前後の部分と変わらないよう注意する。
