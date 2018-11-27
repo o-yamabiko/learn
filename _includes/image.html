@@ -1,22 +1,11 @@
-<!-- _includes/image.html (see https://superdevresources.com/image-caption-jekyll/)
-format:
-{% include image.html
-            img="media/prsp_dB.png"
-            imgcaption="図1：PRSPの画面 リンク付き"
-            imgtourl="https://o-yamabiko.github.io"
-            imgtitle="図1：PRSPの画面 リンク付き" %}
-{% include image.html
-            img="media/prsp_dB.png"
-            imgcaption="図1：PRSPの画面 リンクなし"
-            imgtitle="図1：PRSPの画面 リンクなし" %}
--->
+<!-- _includes/image.html ( see https://superdevresources.com/image-caption-jekyll/ ) -->
 <div class="image-wrapper" >
     {% if include.imgtourl %}
     <a href="{{ include.imgtourl }}" title="{{ include.imgtitle }}" target="_blank">
     {% endif %}
         <img src="{{ site.url }}/learn/{{ include.img }}" alt="{{ include.imgtitle }}"/>
     {% if include.imgcaption %}
-        <p class="image-caption">{{ include.imgcaption }}</p>
+        <div class="image-caption">{{ include.imgcaption }}</div>
     {% endif %}
     {% if include.imgtourl %}
     </a>
