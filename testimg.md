@@ -107,18 +107,17 @@ USBメモリで受け取った場合は、以下の作業を飛ばして6.2に�
 3. 急に声が大きくなったり小さくなったりしていないか注意する。  
     音量は -12dB（小）から -6dB（大）の間 に保つ。  
     （図1：画面右端、縦バーに音量メモリがある。下が小、上が大。）
+{% include image.html
+img="media/prsp_dB.png"
+imgcaption="図1：PRSPの画面 リンク付き"
+imgtourl="https://o-yamabiko.github.io"
+imgtitle="図1：PRSPの画面 リンク付き" %}
+{% include image.html
+img="media/prsp_dB.png"
+imgcaption="図1：PRSPの画面 リンクなし"
+imgtitle="図1：PRSPの画面 リンクなし" %}
 
-    {% include image.html  
-    img="media/prsp_dB.png"  
-    imgcaption="図1：PRSPの画面 リンク付き"  
-    imgtourl="https://o-yamabiko.github.io"  
-    imgtitle="図1：PRSPの画面 リンク付き" %}
-
-    {% include image.html  
-    img="media/prsp_dB.png"  
-    imgcaption="図1：PRSPの画面 リンクなし"  
-    imgtitle="図1：PRSPの画面 リンクなし" %}  
-    ![図1：PRSPの画面](media/prsp_dB.png)
+![図1：PRSPの画面](media/prsp_dB.png)
 
 {:start="4"}
 4. マークを付ける。  
