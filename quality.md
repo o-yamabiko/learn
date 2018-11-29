@@ -44,7 +44,7 @@ The degree to which the totality of the individual requirements made on an audit
 [^Genuit1996]: Genuit, K.: Objective evaluation of acoustic quality based on a relative approach. *Proceedings of Internoise,* 96, pp.&nbsp;3233-3238. 1996.
 
 音質
-: 音質 (Sound Quality, SQ) は1つの製品の音に対する知覚的反応である。 その製品の音を許容できる度合いに対する、聞く人の反応を反映する。 許容度が高いほど、SQが高い。 (Lyon, 2000[^lyon2000].)
+: 音質 (Sound Quality, SQ) は1つの製品の音に対する知覚的反応である。 その製品の音の容認性に対する、聞く人の反応を反映する。 容認性が高いほど、SQが高い。 (Lyon, 2000[^lyon2000].)
 {::comment}
 Sound quality
 Sound Quality (SQ) is the perceptual reaction to the sound of a product that reflects the listener’s reaction to the acceptability of that sound for that product; the more acceptable, the greater the SQ.
@@ -63,7 +63,7 @@ Sound Quality (SQ) is the perceptual reaction to the sound of a product that ref
 
 ## 2. 音質に影響を与える要素は、どうやって測定するか？
 
-「音質 (sound quality)」がどういうものから構成されるかということについて、決定的な説明は存在しない[^coxSIRC]。
+音質がどういうものから構成されるかということについて、決定的な説明は存在しない[^coxSIRC]。
 
 [^coxSIRC]: [*Sound quality - making products sound better.* Trevor Cox, Acoustics Reserarch Centre, Salford Innovation Research Centre (SIRC), University of Salford, Manchester, 2018.](https://www.salford.ac.uk/research/sirc/research-groups/acoustics/psychoacoustics/sound-quality-making-products-sound-better)  
     Page "An introduction to Sound Quality testing. Defining sound quality."
