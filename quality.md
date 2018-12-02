@@ -149,7 +149,7 @@ USB接続のマイクをパソコンに繋げて録音する場合
 
 録音室1にある2つのマイクの仕様は以下のようになっている。
 
-項目 | DR-1 に繋げるマイク | パソコンに繋げるUSBマイク
+項目 | DR-1 用マイク | パソコン用USBマイク
 :--------|:--------|:---------
 型名 | [SHURE SM58](https://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone) | [CAD Audio U37](http://cadaudio.com/products/product-application/u37)
 構造 | ダイナミックマイク | コンデンサマイク
@@ -169,9 +169,11 @@ USBマイクの場合、アナログの電気信号を伝える部分はマイ�
 それに対して、 DR-1 や、オーディオ・インターフェイスを使う方法では、この部分の仕様に注意する必要がある。 ここでは以下の点に注目する。
 
 インピーダンス (Impedance)
-:   : 交流回路内の電圧/電流比。 インピーダンスが大きいほど微細な信号を伝えられるが、 ノイズも拾いやすくなる。
+: 交流回路内の電圧/電流比。 インピーダンスが大きいほど微細な信号を伝えられるが、 ノイズも拾いやすくなる。
+
     マイクの出力インピーダンス (Output Impedance)
     : 接続先の機械の入力インピーダンスの数分の1から数十分の1であれば良い。
+
     DR-1 や オーディオ・インターフェイスの入力インピーダンス (Input Impedance)
     : マイクの出力インピーダンスの数倍から数十倍であれば良い。
 
@@ -185,6 +187,7 @@ USBマイクの場合、アナログの電気信号を伝える部分はマイ�
 録音室1にある DR-1 とマイク SHURE SM58 の組み合わせと、音訳でよく使われているらしいオーディオ・インターフェイス Roland UA-1EX または Roland UA-1G にマイク SHURE SM58 を接続した場合について、わかる範囲で仕様を比較すると以下のようになる。
 
 項目 | [DR-1](http://www.plextalk.com/jp/support/dr1/specifications/) | [UA-1EX](https://www.roland.com/us/products/ua-1ex/specifications/) ; [UA-1G](https://www.roland.com/us/products/ua-1g/specifications/)
+:--------|:--------|:---------
 マイクの出力インピーダンス (O) | 300 Ω | 300 Ω
 入力インピーダンス (I) | 2.2kΩ | 不明
 上の2つの比 (I/O) | 7.3 | 不明
