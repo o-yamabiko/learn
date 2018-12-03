@@ -2,9 +2,9 @@
 layout: caymanyomi
 title: 音質を考慮した録音製作
 author: 水野光子
-date: 2018-11-29T12:20:32Z
-iro: cb581f
-gra: ffceb7
+date: 2018-12-03T12:20:32Z
+iro: 051973
+gra: 878787
 math: true
 ---
 
