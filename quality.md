@@ -166,56 +166,43 @@ USBマイクをパソコンに繋げて録音する場合
 このページの音声を再生するとき、イヤフォンやヘッドフォンで聞くと、違いがわかりやすくなる。
 {: .note}
 
-###### 1. 大きい声、感度低減なし
-{:.no_toc}
-
-<audio controls>
+大きい声、感度低減なし
+: <audio controls>
   <source src="media/quality/prsL_0.ogg" type="audio/ogg">
   <source src="media/quality/prsL_0.mp3" type="audio/mpeg">
-  お使いのブラウザでは表示できません。
-</audio>
+  お使いのブラウザでは表示できません。</audio>
 
 感度が高すぎて、部屋の反響が入っているように聞こえる。
 
-###### 2. 大きい声、感度を-10dBで低減
-{:.no_toc}
-
-<audio controls>
+大きい声、感度を-10dBで低減
+: <audio controls>
   <source src="media/quality/prsL_-10.ogg" type="audio/ogg">
   <source src="media/quality/prsL_-10.mp3" type="audio/mpeg">
-  お使いのブラウザでは表示できません。
-  </audio>
+  お使いのブラウザでは表示できません。</audio>
 
 反響が抑えられたように聞こえる。
 
-###### 3. 小さい声、感度低減なし
-{:.no_toc}
-
-<audio controls>
+小さい声、感度低減なし
+: <audio controls>
   <source src="media/quality/prsS_0.ogg" type="audio/ogg">
   <source src="media/quality/prsS_0.mp3" type="audio/mpeg">
-  お使いのブラウザでは表示できません。
-</audio>
+  お使いのブラウザでは表示できません。</audio>
 
 感度が高すぎて、口中音が目立つかもしれない。
 
-###### 3. 小さい声、感度を-10dBで低減
-{:.no_toc}
-
-<audio controls>
+小さい声、感度を-10dBで低減
+: <audio controls>
   <source src="media/quality/prsS_-10.ogg" type="audio/ogg">
   <source src="media/quality/prsS_-10.mp3" type="audio/mpeg">
-  お使いのブラウザでは表示できません。
-</audio>
+  お使いのブラウザでは表示できません。</audio>
 
 口中音が低減されたように聞こえる。
 
 ##### 機械を変えた録音例
 
-「SHURE SM58 + DR-1」の組み合わせと、 「CAD Audio U37 感度低減 + パソコンの PLEXTALK Recording Software Pro (PRS Pro)」の組み合わせで、1つの発話を同時に録音してみた。
+「SHURE SM58 + DR-1」の組み合わせと、 「CAD Audio U37 感度低減 + パソコンの PLEXTALK Recording Software Pro (PRS Pro)」の組み合わせで、1つの発話を同時に録音し、機械の違いによって録音がどう変わるか、比較する。
 
-###### 大きい声の録音
-{:.no_toc}
+まず、大きい声の録音を比較する。
 
 SHURE SM58 + DR-1
 : <audio controls>
@@ -244,10 +231,7 @@ CAD Audio U37 感度低減 + パソコン PRS Pro
 
 また、上の図の周波数の高い領域では、下の図に比べて、青っぽく暗い部分がやや多い。 これは、SHURE SM58 は CAD Audio U37 に比べて、高い周波数の音を拾いにくいということを反映している。
 
-次の「小さい声の録音」では、機械の違いがもっと鮮明になる。
-
-###### 小さい声の録音
-{:.no_toc}
+次に、小さい声の録音を比較する。
 
 SHURE SM58 + DR-1
 : <audio controls>
@@ -266,7 +250,7 @@ CAD Audio U37 感度低減 + パソコン PRS Pro
 
 ![パソコン, 小さい声の周波数スペクトル](media/quality/prsS.png){: .naka}
 
-言葉の子音や小さい声では、高い周波数の成分が相対的に強いので、機械の違いが鮮明になる。
+言葉の子音や小さい声では、高い周波数の成分が相対的に強いので、大きい声の録音より、機械の違いが鮮明になる。
 
 上の方がこもった音に聞こえる。 また、下の方は「サー」という環境音が大きめに聞こえる。 CAD Audio U37 は、小さい声を鮮明に取れるが、声以外の音も入りやすい。 大きい声で録音すれば、それ以外の音が相対的に小さくなるので、 余計な音が入りにくい。
 
@@ -448,6 +432,7 @@ MP3 8 kbps
 
 ビットレートが 32 kbps あたりから下の値では、元の音声との違いが感じられるようになる。 周波数成分の図を見ると、ビットレートが小さいほど、空白の部分が増えている。
 
+また、同じビットレートでも圧縮を重ねると、1回だけ圧縮したものとの違いが感じられるようになる。
 
 32 kbps での圧縮を20回重ねたもの
 : <audio controls>
@@ -456,7 +441,7 @@ MP3 8 kbps
 
 ![32 kbps での圧縮を20回繰り返したものの周波数スペクトル](media/quality/prsLrepeat20.png){: .naka}
 
-同じビットレートでも圧縮を重ねると、1回だけ圧縮したものとの違いが感じられる。
+
 
 ## 5. まとめ
 
