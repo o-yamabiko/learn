@@ -246,7 +246,9 @@ UA-1G の入力感度に幅があるのは、ダイヤルで調整できるか�
 
 一般的な再生環境では、 16 bit の量子化ビット数でも十分な精度があると考えられる[^bit]。
 
-[^bit]: [Monty (Montgomery, C.): *24/192 Music Downloads ...and why they make no sense.* xiph, 2012.](https://people.xiph.org/~xiphmont/demo/neil-young.html)
+[^bit]: [Monty (Montgomery, C.): *24/192 Music Downloads ...and why they make no sense.* xiph, 2012.](https://people.xiph.org/~xiphmont/demo/neil-young.html)  
+    日本語での記事は
+    [「192kHz/24bitのハイレゾ無圧縮音源は本当に聴き分けられるものなのか？」, Gigazine, 2014.](https://gigazine.net/news/20141203-hi-rez-audio/)
 
 音楽データを制作する際には、元のデータにいろいろな細工を重ねるので、誤差の蓄積を防ぐために、量子化ビット数をもっと高く取ったデータを編集する。 しかし、音訳のために録音した音声は、順番の入れ替え以外には、音声にエフェクトをかけるなどの細工をすることがない。 そのため、量子化ビット数を 16 bit より高くしておく意味がない。
 
