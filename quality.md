@@ -391,42 +391,42 @@ MP3方式では、人間の聴覚では再生音の劣化を感じにくいよ�
 
 ![圧縮前 PCM 22.05 kHz 16 bitの周波数スペクトル](media/quality/prsL.png){: .naka}
 
-MP3 128 kbps
+MP3, 128 kbps
 : <audio controls>
   <source src="media/quality/prsL128.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
 ![MP3 128 kbpsの周波数スペクトル](media/quality/prsL128.png){: .naka}
 
-MP3 64 kbps
+MP3, 64 kbps
 : <audio controls>
   <source src="media/quality/prsL64.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
 ![MP3 64 kbpsの周波数スペクトル](media/quality/prsL64.png){: .naka}
 
-MP3 32 kbps
+MP3, 32 kbps
 : <audio controls>
   <source src="media/quality/prsL32.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
 ![MP3 32 kbpsの周波数スペクトル](media/quality/prsL32.png){: .naka}
 
-MP3 16 kbps
+MP3, 16 kbps
 : <audio controls>
   <source src="media/quality/prsL16.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
 ![MP3 16 kbpsの周波数スペクトル](media/quality/prsL16.png){: .naka}
 
-MP3 8 kbps
+MP3, 8 kbps
 : <audio controls>
   <source src="media/quality/prsL8.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
 ![MP3 8 kbpsの周波数スペクトル](media/quality/prsL8.png){: .naka}
 
-ビットレートが 32 kbps あたりから下の値では、元の音声との違いが感じられるようになる。 周波数成分の図を見ると、ビットレートが小さいほど、空白の部分が増えている。
+ビットレートが 32 kbps あたりから下の値になると、元の音声との違いが感じられるようになる。 周波数成分の図を見ると、ビットレートが小さいほど、空白の部分が増えている。
 
 また、同じビットレートでも圧縮を重ねると、1回だけ圧縮したものとの違いが感じられるようになる。
 
