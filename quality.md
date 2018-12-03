@@ -333,7 +333,7 @@ MP3 16 kbps
 
 
 
-[^zenkoku]: [全国音訳ボランティアネットワーク 2018 シンポジウム 聴講報告](https://o-yamabiko.github.io/learn/zenkoku20181111.html)  
+[^zenkoku]: [「全国音訳ボランティアネットワーク 2018 シンポジウム 聴講報告」, 2018.](https://o-yamabiko.github.io/learn/zenkoku20181111.html)  
     「2.2. 音訳者に求められる技術. 録音機器の操作技術」の項。
 
 ## 注
