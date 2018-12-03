@@ -200,8 +200,7 @@ USBマイクをパソコンに繋げて録音する場合
 
 まず、大きい声の録音を比較する。
 
-1.
-SHURE SM58 + DR-1
+1.&nbsp;SHURE SM58 + DR-1
 : <audio controls>
   <source src="media/quality/dr1L.ogg" type="audio/ogg">
   <source src="media/quality/dr1L.mp3" type="audio/mpeg">
@@ -214,8 +213,7 @@ SHURE SM58 + DR-1
 横軸は左の0秒から右の5.5秒へ、時間の経過を表す。縦軸は周波数成分で、下は 0, 上は 11 kHz。色が赤く明るいほど、その周波数成分が強い。
 これ以降の図も同様。
 
-2.
-CAD Audio U37 感度低減 + パソコン PRS Pro
+2.&nbsp;CAD Audio U37 感度低減 + パソコン PRS Pro
 : <audio controls>
   <source src="media/quality/prsL.ogg" type="audio/ogg">
   <source src="media/quality/prsL.mp3" type="audio/mpeg">
@@ -231,8 +229,7 @@ CAD Audio U37 感度低減 + パソコン PRS Pro
 
 次に、小さい声の録音を比較する。
 
-1.
-SHURE SM58 + DR-1
+1.&nbsp;SHURE SM58 + DR-1
 : <audio controls>
   <source src="media/quality/dr1S.ogg" type="audio/ogg">
   <source src="media/quality/dr1S.mp3" type="audio/mpeg">
@@ -241,8 +238,7 @@ SHURE SM58 + DR-1
 ![DR-1, 小さい声の周波数スペクトル](media/quality/dr1S.png){: .naka}
 
 
-2.
-CAD Audio U37 感度低減 + パソコン PRS Pro
+2.&nbsp;CAD Audio U37 感度低減 + パソコン PRS Pro
 : <audio controls>
   <source src="media/quality/prsS.ogg" type="audio/ogg">
   <source src="media/quality/prsS.mp3" type="audio/mpeg">
