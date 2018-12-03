@@ -266,9 +266,11 @@ CAD Audio U37 感度低減 + パソコン PRS Pro
 
 ![パソコン, 小さい声の周波数スペクトル](media/quality/prsS.png){: srcset="media/quality/prsS.svg" .naka}
 
-言葉の子音や小さい声には、高周波数の成分が相対的に多く含まれるので、機械の違いが鮮明になる。
+言葉の子音や小さい声では、高周波数の成分が相対的に強いので、機械の違いが鮮明になる。
 
-上の方がこもった音に聞こえる。 また、下の方は「サー」という環境音が大きめに聞こえる。 CAD Audio U37 は、小さい声を鮮明に取れるが、声以外の音も入りやすい。 大きい声で録音すると、それ以外の音が相対的に小さくなるので、 余計な音が入りにくい。
+上の方がこもった音に聞こえる。 また、下の方は「サー」という環境音が大きめに聞こえる。 CAD Audio U37 は、小さい声を鮮明に取れるが、声以外の音も入りやすい。 大きい声で録音すれば、それ以外の音が相対的に小さくなるので、 余計な音が入りにくい。
+
+図で見ても、「セーサクワ」の「セ」や、「デシタ」の「シ」の子音を発音した時点での、周波数の高い部分の色が違うのがはっきりわかる。 下の図のほうが、その部分が赤く明るくなっている。
 
 
 #### 4.2.2. アナログの電気信号を伝える部分の仕様
@@ -396,22 +398,57 @@ PCM方式でデジタル化した音声データを MP3 方式で圧縮すると
 
 MP3方式では、人間の聴覚では再生音の劣化に気付きにくいように調整した方法でデータ圧縮することができる。 録音図書などの、人の話し声の録音データであれば、 32 kbps で圧縮しても違和感はない。
 
-{::comment}
-サンプル：
-圧縮前 PCM 22.05 kHz 16 bit
-MP3 256 kbps
-MP3 128 kbps
-MP3 64 kbps
-MP3 32 kbps
-MP3 16 kbps
-{:/comment}
-
 ただし、MP3方式は非可逆圧縮であり、情報の一部は確実に失われる。 MP3方式での圧縮を重ねれば、聞いて判別できるほどに再現性が低くなる。
 
-{::comment}
-サンプル：
+###### 聴き比べ
+
+実際に、圧縮した音声ファイルを聴き比べてみよう。
+
+圧縮前 PCM 22.05 kHz 16 bit
+: <audio controls>
+  <source src="media/quality/prsL.wav" type="audio/wav">
+  お使いのブラウザでは表示できません。</audio>
+
+![圧縮前 PCM 22.05 kHz 16 bitの周波数スペクトル](media/quality/prsL.png){: srcset="media/quality/prsL.svg" .naka}
+
+MP3 128 kbps
+: <audio controls>
+  <source src="media/quality/prsL128.mp3" type="audio/mpeg">
+  お使いのブラウザでは表示できません。</audio>
+
+![MP3 128 kbpsの周波数スペクトル](media/quality/prsL128.png){: srcset="media/quality/prsL128.svg" .naka}
+
+以下、64 kbps から 16 kbps までの周波数成分の図は省略。
+
+MP3 64 kbps
+: <audio controls>
+  <source src="media/quality/prsL64.mp3" type="audio/mpeg">
+  お使いのブラウザでは表示できません。</audio>
+
+MP3 32 kbps
+: <audio controls>
+  <source src="media/quality/prsL32.mp3" type="audio/mpeg">
+  お使いのブラウザでは表示できません。</audio>
+
+MP3 16 kbps
+: <audio controls>
+  <source src="media/quality/prsL16.mp3" type="audio/mpeg">
+  お使いのブラウザでは表示できません。</audio>
+
+MP3 8 kbps
+: <audio controls>
+  <source src="media/quality/prsL8.mp3" type="audio/mpeg">
+  お使いのブラウザでは表示できません。</audio>
+
+![MP3 8 kbpsの周波数スペクトル](media/quality/prsL8.png){: srcset="media/quality/prsL8.svg" .naka}
+
+
 32 kbps での圧縮を50回繰り返したもの
-{:/comment}
+: <audio controls>
+  <source src="media/quality/prsLrepeat50.mp3" type="audio/mpeg">
+  お使いのブラウザでは表示できません。</audio>
+
+![32 kbps での圧縮を50回繰り返したものの周波数スペクトル](media/quality/prsLrepeat50.png){: srcset="media/quality/prsLrepeat50.svg" .naka}
 
 
 ## 5. まとめ
