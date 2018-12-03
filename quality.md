@@ -170,28 +170,28 @@ USBマイクをパソコンに繋げて録音する場合
 : <audio controls>
   <source src="media/quality/prsL_0.ogg" type="audio/ogg">
   <source src="media/quality/prsL_0.mp3" type="audio/mpeg">
-  お使いのブラウザでは表示できません。</audio>
+  お使いのブラウザでは表示できません。</audio>  
     感度が高すぎて、部屋の反響が入っているように聞こえる。
 
 大きい声、感度を-10dBで低減
 : <audio controls>
   <source src="media/quality/prsL_-10.ogg" type="audio/ogg">
   <source src="media/quality/prsL_-10.mp3" type="audio/mpeg">
-  お使いのブラウザでは表示できません。</audio>
+  お使いのブラウザでは表示できません。</audio>  
     反響が抑えられたように聞こえる。
 
 小さい声、感度低減なし
 : <audio controls>
   <source src="media/quality/prsS_0.ogg" type="audio/ogg">
   <source src="media/quality/prsS_0.mp3" type="audio/mpeg">
-  お使いのブラウザでは表示できません。</audio>
+  お使いのブラウザでは表示できません。</audio>  
     感度が高すぎて、口中音が目立つかもしれない。
 
 小さい声、感度を-10dBで低減
 : <audio controls>
   <source src="media/quality/prsS_-10.ogg" type="audio/ogg">
   <source src="media/quality/prsS_-10.mp3" type="audio/mpeg">
-  お使いのブラウザでは表示できません。</audio>
+  お使いのブラウザでは表示できません。</audio>  
     口中音が低減されたように聞こえる。
 
 ##### 機械を変えた録音例
