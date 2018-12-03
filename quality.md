@@ -165,7 +165,7 @@ USBマイクをパソコンに繋げて録音する場合
 {: .note}
 
 1. 大きい声で、感度を低減しない場合  
-    <audio style="width: 20%" controls>  
+    <audio style="width: 8em;" controls>  
       <source src="media/quality/prsL_0.ogg" type="audio/ogg">  
       <source src="media/quality/prsL_0.mp3" type="audio/mpeg">  
       お使いのブラウザでは表示できません。  
