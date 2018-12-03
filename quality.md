@@ -225,9 +225,9 @@ SHURE SM58 + DR-1
 
 この音声の周波数成分を分析すると、以下の図のようになっている。
 
-![DR-1, 大きい声の周波数スペクトル](media/quality/dr1L.png){: srcset="media/quality/dr1L.svg" .naka}
+![DR-1, 大きい声の周波数スペクトル](media/quality/dr1L.png){: .naka}
 
-横軸は時間の経過、縦軸は周波数。色が赤く明るいほど、その周波数成分が強い。
+横軸は左の0秒から右の5.5秒へ、時間の経過を表す。縦軸は周波数成分で、下は 0, 上は 11 kHz。色が赤く明るいほど、その周波数成分が強い。
 これ以降の図も同様。
 
 CAD Audio U37 感度低減 + パソコン PRS Pro
@@ -236,7 +236,7 @@ CAD Audio U37 感度低減 + パソコン PRS Pro
   <source src="media/quality/prsL.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
-![パソコン, 大きい声の周波数スペクトル](media/quality/prsL.png){: srcset="media/quality/prsL.svg" .naka}
+![パソコン, 大きい声の周波数スペクトル](media/quality/prsL.png){: .naka}
 
 大きい声で録音する場合には、 どちらの機械を使っても、大して違いがない。
 
@@ -255,7 +255,7 @@ SHURE SM58 + DR-1
   <source src="media/quality/dr1S.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
-![DR-1, 小さい声の周波数スペクトル](media/quality/dr1S.png){: srcset="media/quality/dr1S.svg" .naka}
+![DR-1, 小さい声の周波数スペクトル](media/quality/dr1S.png){: .naka}
 
 
 CAD Audio U37 感度低減 + パソコン PRS Pro
@@ -264,7 +264,7 @@ CAD Audio U37 感度低減 + パソコン PRS Pro
   <source src="media/quality/prsS.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
-![パソコン, 小さい声の周波数スペクトル](media/quality/prsS.png){: srcset="media/quality/prsS.svg" .naka}
+![パソコン, 小さい声の周波数スペクトル](media/quality/prsS.png){: .naka}
 
 言葉の子音や小さい声では、高い周波数の成分が相対的に強いので、機械の違いが鮮明になる。
 
@@ -396,7 +396,7 @@ PCM方式でデジタル化した音声データを MP3 方式で圧縮すると
 ビットレート (Bitrate, bps)
 : アナログ信号1秒ぶんを記録するためのデジタル情報量。 ビットレートが大きいほど、圧縮の度合いが低く、失われる情報が少ない。
 
-MP3方式では、人間の聴覚では再生音の劣化に気付きにくいように調整した方法でデータ圧縮することができる。 録音図書などの、人の話し声の録音データであれば、 32 kbps で圧縮しても違和感はない。
+MP3方式では、人間の聴覚では再生音の劣化を感じにくいように調整した方法で、データ圧縮することができる。
 
 ただし、MP3方式は非可逆圧縮であり、情報の一部は確実に失われる。 MP3方式での圧縮を重ねれば、聞いて判別できるほどに再現性が低くなる。
 
@@ -409,47 +409,54 @@ MP3方式では、人間の聴覚では再生音の劣化に気付きにくい�
   <source src="media/quality/prsL.wav" type="audio/wav">
   お使いのブラウザでは表示できません。</audio>
 
-![圧縮前 PCM 22.05 kHz 16 bitの周波数スペクトル](media/quality/prsL.png){: srcset="media/quality/prsL.svg" .naka}
+![圧縮前 PCM 22.05 kHz 16 bitの周波数スペクトル](media/quality/prsL.png){:  .naka}
 
 MP3 128 kbps
 : <audio controls>
   <source src="media/quality/prsL128.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
-![MP3 128 kbpsの周波数スペクトル](media/quality/prsL128.png){: srcset="media/quality/prsL128.svg" .naka}
-
-以下、64 kbps から 16 kbps までの周波数成分の図は省略。
+![MP3 128 kbpsの周波数スペクトル](media/quality/prsL128.png){ .naka}
 
 MP3 64 kbps
 : <audio controls>
   <source src="media/quality/prsL64.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
+![MP3 64 kbpsの周波数スペクトル](media/quality/prsL64.png){ .naka}
+
 MP3 32 kbps
 : <audio controls>
   <source src="media/quality/prsL32.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
+
+![MP3 32 kbpsの周波数スペクトル](media/quality/prsL32.png){ .naka}
 
 MP3 16 kbps
 : <audio controls>
   <source src="media/quality/prsL16.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
+![MP3 16 kbpsの周波数スペクトル](media/quality/prsL16.png){ .naka}
+
 MP3 8 kbps
 : <audio controls>
   <source src="media/quality/prsL8.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
-![MP3 8 kbpsの周波数スペクトル](media/quality/prsL8.png){: srcset="media/quality/prsL8.svg" .naka}
+![MP3 8 kbpsの周波数スペクトル](media/quality/prsL8.png){: .naka}
+
+ビットレートが 32 kbps あたりから下の値では、元の音声との違いが感じられるようになる。 周波数成分の図を見ると、ビットレートが小さいほど、空白の部分が増えている。
 
 
-32 kbps での圧縮を50回繰り返したもの
+32 kbps での圧縮を20回重ねたもの
 : <audio controls>
-  <source src="media/quality/prsLrepeat50.mp3" type="audio/mpeg">
+  <source src="media/quality/prsLrepeat20.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
-![32 kbps での圧縮を50回繰り返したものの周波数スペクトル](media/quality/prsLrepeat50.png){: srcset="media/quality/prsLrepeat50.svg" .naka}
+![32 kbps での圧縮を20回繰り返したものの周波数スペクトル](media/quality/prsLrepeat20.png){: .naka}
 
+同じビットレートでも圧縮を重ねると、1回だけ圧縮したものとの違いが感じられる。
 
 ## 5. まとめ
 
