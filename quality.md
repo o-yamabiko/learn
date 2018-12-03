@@ -389,35 +389,35 @@ MP3方式では、人間の聴覚では再生音の劣化を感じにくいよ�
   <source src="media/quality/prsL.wav" type="audio/wav">
   お使いのブラウザでは表示できません。</audio>
 
-![圧縮前 PCM 22.05 kHz 16 bitの周波数スペクトル](media/quality/prsL.png){:  .naka}
+![圧縮前 PCM 22.05 kHz 16 bitの周波数スペクトル](media/quality/prsL.png){: .naka}
 
 MP3 128 kbps
 : <audio controls>
   <source src="media/quality/prsL128.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
-![MP3 128 kbpsの周波数スペクトル](media/quality/prsL128.png){ .naka}
+![MP3 128 kbpsの周波数スペクトル](media/quality/prsL128.png){: .naka}
 
 MP3 64 kbps
 : <audio controls>
   <source src="media/quality/prsL64.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
-![MP3 64 kbpsの周波数スペクトル](media/quality/prsL64.png){ .naka}
+![MP3 64 kbpsの周波数スペクトル](media/quality/prsL64.png){: .naka}
 
 MP3 32 kbps
 : <audio controls>
   <source src="media/quality/prsL32.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
-![MP3 32 kbpsの周波数スペクトル](media/quality/prsL32.png){ .naka}
+![MP3 32 kbpsの周波数スペクトル](media/quality/prsL32.png){: .naka}
 
 MP3 16 kbps
 : <audio controls>
   <source src="media/quality/prsL16.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
-![MP3 16 kbpsの周波数スペクトル](media/quality/prsL16.png){ .naka}
+![MP3 16 kbpsの周波数スペクトル](media/quality/prsL16.png){: .naka}
 
 MP3 8 kbps
 : <audio controls>
