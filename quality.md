@@ -159,59 +159,106 @@ USBマイクをパソコンに繋げて録音する場合
 ![マイク U37 のPADスイッチ](media/quality/mic_u37.png){: srcset="media/quality/mic_u37.svg" .migi}
 ただし、USBマイクの方は感度が高いので、再現性が高い反面、要らない音も正確に録音されてしまう。 初めて使う時は、感度を調整するスイッチを切り替えて、どちらのスイッチの方が望み通りの音を録音できるか、確認すると良い。
 
+##### PADスイッチを切り替えた録音例
+
 実際にスイッチを切り替えて、4種類の録音をしてみた。
 
 このページの音声を再生するとき、イヤフォンやヘッドフォンで聞くと、違いがわかりやすくなる。
 {: .note}
 
-1. 大きい声で、感度を低減しない場合  
-    <audio controls>  
-      <source src="media/quality/prsL_0.ogg" type="audio/ogg">  
-      <source src="media/quality/prsL_0.mp3" type="audio/mpeg">  
-      お使いのブラウザでは表示できません。  
-    </audio>  
-    感度が高すぎて、部屋の反響が入っているように聞こえる。
-2. 大きい声で、感度を-10dBで低減した場合  
-    <audio controls>  
-      <source src="media/quality/prsL_-10.ogg" type="audio/ogg">  
-      <source src="media/quality/prsL_-10.mp3" type="audio/mpeg">  
-      お使いのブラウザでは表示できません。  
-    </audio>  
-    反響が抑えられたように聞こえる。
-3. 小さい声で、感度を低減しない場合  
-    <audio controls>  
-      <source src="media/quality/prsS_0.ogg" type="audio/ogg">  
-      <source src="media/quality/prsS_0.mp3" type="audio/mpeg">  
-      お使いのブラウザでは表示できません。  
-    </audio>  
-    感度が高すぎて、口中音が目立つかもしれない。
-3. 小さい声で、感度を-10dBで低減した場合  
-    <audio controls>  
-      <source src="media/quality/prsS_-10.ogg" type="audio/ogg">  
-      <source src="media/quality/prsS_-10.mp3" type="audio/mpeg">  
-      お使いのブラウザでは表示できません。  
-    </audio>  
-    口中音が低減されたように聞こえる。
+###### 1. 大きい声、感度低減なし
+{:.no_toc}
 
-また、 「SHURE SM58 + DR-1」の組み合わせと、 「CAD Audio U37 感度低減 + パソコンの PLEXTALK Recording Software Pro (PRS Pro)」の組み合わせで、1つの発話を同時に録音してみたものが、以下の録音である。
+<audio controls>
+  <source src="media/quality/prsL_0.ogg" type="audio/ogg">
+  <source src="media/quality/prsL_0.mp3" type="audio/mpeg">
+  お使いのブラウザでは表示できません。
+</audio>
 
-1. 大きい声
-   - SHURE SM58 + DR-1  
-   <audio controls>  
-      <source src="media/quality/dr1L.ogg" type="audio/ogg">  
-      <source src="media/quality/dr1L.mp3" type="audio/mpeg">  
-      お使いのブラウザでは表示できません。  
-   </audio>  
-   この音声の周波数成分を分析すると、以下の図のようになっている。  
-   ![DR-1, 大きい声の周波数スペクトル](media/quality/dr1L.png){: srcset="media/quality/dr1L.svg" .naka}  
-   横軸は時間の経過、縦軸は周波数。色が明るいほど、その周波数成分が強い。  
-   これ以降の図も同様。  
-   - CAD Audio U37 感度低減 + パソコン PRS Pro  
-   ![パソコン, 大きい声の周波数スペクトル](media/quality/prsL.png){: srcset="media/quality/prsL.svg" .naka}
-2. 小さい声
-   - SHURE SM58 + DR-1  
-   ![DR-1, 小さい声の周波数スペクトル](media/quality/dr1S.png){: srcset="media/quality/dr1S.svg" .naka}
-   - CAD Audio U37 感度低減 + パソコン PRS Pro  
+感度が高すぎて、部屋の反響が入っているように聞こえる。
+
+###### 2. 大きい声、感度を-10dBで低減
+{:.no_toc}
+
+<audio controls>
+  <source src="media/quality/prsL_-10.ogg" type="audio/ogg">
+  <source src="media/quality/prsL_-10.mp3" type="audio/mpeg">
+  お使いのブラウザでは表示できません。
+  </audio>
+
+反響が抑えられたように聞こえる。
+
+###### 3. 小さい声、感度低減なし
+{:.no_toc}
+
+<audio controls>
+  <source src="media/quality/prsS_0.ogg" type="audio/ogg">
+  <source src="media/quality/prsS_0.mp3" type="audio/mpeg">
+  お使いのブラウザでは表示できません。
+</audio>
+
+感度が高すぎて、口中音が目立つかもしれない。
+
+###### 3. 小さい声、感度を-10dBで低減
+{:.no_toc}
+
+<audio controls>
+  <source src="media/quality/prsS_-10.ogg" type="audio/ogg">
+  <source src="media/quality/prsS_-10.mp3" type="audio/mpeg">
+  お使いのブラウザでは表示できません。
+</audio>
+
+口中音が低減されたように聞こえる。
+
+##### 機械を変えた録音例
+
+「SHURE SM58 + DR-1」の組み合わせと、 「CAD Audio U37 感度低減 + パソコンの PLEXTALK Recording Software Pro (PRS Pro)」の組み合わせで、1つの発話を同時に録音してみた。
+
+###### 1. 大きい声
+{:.no_toc}
+
+SHURE SM58 + DR-1
+: <audio controls>
+  <source src="media/quality/dr1L.ogg" type="audio/ogg">
+  <source src="media/quality/dr1L.mp3" type="audio/mpeg">
+  お使いのブラウザでは表示できません。
+</audio>
+
+この音声の周波数成分を分析すると、以下の図のようになっている。  
+![DR-1, 大きい声の周波数スペクトル](media/quality/dr1L.png){: srcset="media/quality/dr1L.svg" .naka}  
+横軸は時間の経過、縦軸は周波数。色が明るいほど、その周波数成分が強い。  
+これ以降の図も同様。
+
+CAD Audio U37 感度低減 + パソコン PRS Pro
+: <audio controls>
+  <source src="media/quality/prsL.ogg" type="audio/ogg">
+  <source src="media/quality/prsL.mp3" type="audio/mpeg">
+  お使いのブラウザでは表示できません。
+</audio>
+
+![パソコン, 大きい声の周波数スペクトル](media/quality/prsL.png){: srcset="media/quality/prsL.svg" .naka}
+
+
+###### 2. 小さい声
+{:.no_toc}
+
+SHURE SM58 + DR-1
+: <audio controls>
+  <source src="media/quality/dr1S.ogg" type="audio/ogg">
+  <source src="media/quality/dr1S.mp3" type="audio/mpeg">
+  お使いのブラウザでは表示できません。
+</audio>
+
+![DR-1, 小さい声の周波数スペクトル](media/quality/dr1S.png){: srcset="media/quality/dr1S.svg" .naka}
+
+
+CAD Audio U37 感度低減 + パソコン PRS Pro
+: <audio controls>
+  <source src="media/quality/prsS.ogg" type="audio/ogg">
+  <source src="media/quality/prsS.mp3" type="audio/mpeg">
+  お使いのブラウザでは表示できません。
+</audio>
+
    ![パソコン, 小さい声の周波数スペクトル](media/quality/prsS.png){: srcset="media/quality/prsS.svg" .naka}
 
 
