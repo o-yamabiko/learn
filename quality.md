@@ -221,8 +221,7 @@ SHURE SM58 + DR-1
 : <audio controls>
   <source src="media/quality/dr1L.ogg" type="audio/ogg">
   <source src="media/quality/dr1L.mp3" type="audio/mpeg">
-  お使いのブラウザでは表示できません。
-</audio>
+  お使いのブラウザでは表示できません。</audio>
 
 この音声の周波数成分を分析すると、以下の図のようになっている。  
 ![DR-1, 大きい声の周波数スペクトル](media/quality/dr1L.png){: srcset="media/quality/dr1L.svg" .naka}  
@@ -233,8 +232,7 @@ CAD Audio U37 感度低減 + パソコン PRS Pro
 : <audio controls>
   <source src="media/quality/prsL.ogg" type="audio/ogg">
   <source src="media/quality/prsL.mp3" type="audio/mpeg">
-  お使いのブラウザでは表示できません。
-</audio>
+  お使いのブラウザでは表示できません。</audio>
 
 ![パソコン, 大きい声の周波数スペクトル](media/quality/prsL.png){: srcset="media/quality/prsL.svg" .naka}
 
@@ -246,8 +244,7 @@ SHURE SM58 + DR-1
 : <audio controls>
   <source src="media/quality/dr1S.ogg" type="audio/ogg">
   <source src="media/quality/dr1S.mp3" type="audio/mpeg">
-  お使いのブラウザでは表示できません。
-</audio>
+  お使いのブラウザでは表示できません。</audio>
 
 ![DR-1, 小さい声の周波数スペクトル](media/quality/dr1S.png){: srcset="media/quality/dr1S.svg" .naka}
 
@@ -256,8 +253,7 @@ CAD Audio U37 感度低減 + パソコン PRS Pro
 : <audio controls>
   <source src="media/quality/prsS.ogg" type="audio/ogg">
   <source src="media/quality/prsS.mp3" type="audio/mpeg">
-  お使いのブラウザでは表示できません。
-</audio>
+  お使いのブラウザでは表示できません。</audio>
 
    ![パソコン, 小さい声の周波数スペクトル](media/quality/prsS.png){: srcset="media/quality/prsS.svg" .naka}
 
