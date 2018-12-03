@@ -214,7 +214,7 @@ USBマイクをパソコンに繋げて録音する場合
 
 「SHURE SM58 + DR-1」の組み合わせと、 「CAD Audio U37 感度低減 + パソコンの PLEXTALK Recording Software Pro (PRS Pro)」の組み合わせで、1つの発話を同時に録音してみた。
 
-###### 1. 大きい声
+###### 大きい声の録音
 {:.no_toc}
 
 SHURE SM58 + DR-1
@@ -223,9 +223,11 @@ SHURE SM58 + DR-1
   <source src="media/quality/dr1L.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
-この音声の周波数成分を分析すると、以下の図のようになっている。  
-![DR-1, 大きい声の周波数スペクトル](media/quality/dr1L.png){: srcset="media/quality/dr1L.svg" .naka}  
-横軸は時間の経過、縦軸は周波数。色が明るいほど、その周波数成分が強い。  
+この音声の周波数成分を分析すると、以下の図のようになっている。
+
+![DR-1, 大きい声の周波数スペクトル](media/quality/dr1L.png){: srcset="media/quality/dr1L.svg" .naka}
+
+横軸は時間の経過、縦軸は周波数。色が赤く明るいほど、その周波数成分が強い。
 これ以降の図も同様。
 
 CAD Audio U37 感度低減 + パソコン PRS Pro
@@ -236,8 +238,15 @@ CAD Audio U37 感度低減 + パソコン PRS Pro
 
 ![パソコン, 大きい声の周波数スペクトル](media/quality/prsL.png){: srcset="media/quality/prsL.svg" .naka}
 
+大きい声で録音する場合には、 どちらの機械を使っても、大して違いがない。
 
-###### 2. 小さい声
+しかし、注意深く聞いてみると、上の方が僅かにこもった音になっている。
+
+また、上の図の周波数の高い領域では、下の図に比べて、青っぽく暗い部分がやや多い。 これは、SHURE SM58 は CAD Audio U37 に比べて、高い周波数の音を拾いにくいということを反映している。
+
+次の「小さい声の録音」では、機械の違いがもっと鮮明になる。
+
+###### 小さい声の録音
 {:.no_toc}
 
 SHURE SM58 + DR-1
@@ -255,9 +264,11 @@ CAD Audio U37 感度低減 + パソコン PRS Pro
   <source src="media/quality/prsS.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
-   ![パソコン, 小さい声の周波数スペクトル](media/quality/prsS.png){: srcset="media/quality/prsS.svg" .naka}
+![パソコン, 小さい声の周波数スペクトル](media/quality/prsS.png){: srcset="media/quality/prsS.svg" .naka}
 
+言葉の子音や小さい声には、高周波数の成分が相対的に多く含まれるので、機械の違いが鮮明になる。
 
+上の方がこもった音に聞こえる。 また、下の方は「サー」という環境音が大きめに聞こえる。 CAD Audio U37 は、小さい声を鮮明に取れるが、声以外の音も入りやすい。 大きい声で録音すると、それ以外の音が相対的に小さくなるので、 余計な音が入りにくい。
 
 
 #### 4.2.2. アナログの電気信号を伝える部分の仕様
