@@ -165,7 +165,7 @@ USBマイクをパソコンに繋げて録音する場合
 {: .note}
 
 1. 大きい声で、感度を低減しない場合  
-    <audio style="width: 100%;" controls>  
+    <audio controls>  
       <source src="media/quality/prsL_0.ogg" type="audio/ogg">  
       <source src="media/quality/prsL_0.mp3" type="audio/mpeg">  
       お使いのブラウザでは表示できません。  
@@ -192,6 +192,27 @@ USBマイクをパソコンに繋げて録音する場合
       お使いのブラウザでは表示できません。  
     </audio>  
     口中音が低減されたように聞こえる。
+
+また、 「SHURE SM58 + DR-1」の組み合わせと、 「CAD Audio U37 感度低減 + パソコンの PLEXTALK Recording Software Pro (PRS Pro)」の組み合わせで、1つの発話を同時に録音してみたものが、以下の録音である。
+
+1. 大きい声
+   - SHURE SM58 + DR-1  
+   <audio controls>  
+      <source src="media/quality/dr1L.ogg" type="audio/ogg">  
+      <source src="media/quality/dr1L.mp3" type="audio/mpeg">  
+      お使いのブラウザでは表示できません。  
+   </audio>  
+   この音声の周波数成分を分析すると、以下の図のようになっている。  
+   ![DR-1, 大きい声の周波数スペクトル](media/quality/dr1L.png){: srcset="media/quality/dr1L.svg" .naka}  
+   横軸は時間の経過、縦軸は周波数。色が明るいほど、その周波数成分が強い。  
+   これ以降の図も同様。  
+   - CAD Audio U37 感度低減 + パソコン PRS Pro  
+   ![パソコン, 大きい声の周波数スペクトル](media/quality/prsL.png){: srcset="media/quality/prsL.svg" .naka}
+2. 小さい声
+   - SHURE SM58 + DR-1  
+   ![DR-1, 小さい声の周波数スペクトル](media/quality/dr1S.png){: srcset="media/quality/dr1S.svg" .naka}
+   - CAD Audio U37 感度低減 + パソコン PRS Pro  
+   ![パソコン, 小さい声の周波数スペクトル](media/quality/prsS.png){: srcset="media/quality/prsS.svg" .naka}
 
 
 
@@ -242,10 +263,10 @@ UA-1G の入力感度に幅があるのは、ダイヤルで調整できるか�
 
 デジタル化の方法は PCM (Pulse-code modulation) という方式に従っている。 この方式によるデジタル情報の精密さを表す指標は以下の2つである。
 
-サンプリング周波数 (Hz)
+サンプリング周波数 (Sampling rate, Hz)
 : アナログ信号1秒ぶんを区切る個数。サンプリング周波数が高いほど、録音の再現性が高い。
 
-量子化ビット数 (bit)
+量子化ビット数 (Quantization, bit)
 : 各時点のアナログ信号の大きさを、どの程度細かく区別するかの度合い。 量子化ビット数が大きいほど、録音の再現性が高い。
 
 
@@ -253,7 +274,7 @@ UA-1G の入力感度に幅があるのは、ダイヤルで調整できるか�
 
 サンプリング周波数については、以下のような定理が数学的に証明されている。
 
-標本化定理
+標本化定理 (Nyquist–Shannon sampling theorem)
 : 元のアナログ信号が含む周波数成分のうちの最も高い周波数成分の2倍よりも、サンプリング周波数の方が高ければ、そのデジタル情報から元のアナログ信号を完全に再現できる。
 
 人の話し声に含まれる主な周波数成分は、母音と子音で大きく異なる。
@@ -294,12 +315,16 @@ DR-1、オーディオ・インターフェイス Roland UA-1EX / UA-1G、USBマ
 サンプリング周波数 | 22.05 kHz | 96 or 44.1 kHz | 48 kHz
 量子化ビット数 | 16 bit | 24 or 16 bit | 16 bit
 
+
 UA-1EX や UA-1G で 96 kHz 24 bit にできるのは、特定のドライバをインストールしてある場合に限られる。
 {: .note}
 
-パソコンで PLEXTALK Recording Software Pro (PRS Pro) を使って録音する場合、設定できる上限は PCM 44.1 kHz 16 bit なので、 接続している機械の性能がこれより高くても意味がない。 さらに、 DAISY TOKYO が PCM 22.05 kHz で録音するように推奨しているので（『はじめてのDAISY』 p.&nbsp;10）、 それより高いサンプリング周波数に設定されることはパソコンでの録音でもほとんどない。 音楽CDの規格は 44.1 kHz 16 bit だから、 22.05 kHz で録音されるデイジー録音の再現性は、販売されている朗読CDよりも劣ることになる。
 
-しかし、標本化定理に従って計算したように、最高 10 kHz の周波数成分を含む話し声が完全に再現できるようにするためのサンプリング周波数は 20 kHz を超えていれば良い。 一般的なデイジー図書のサンプリング周波数 22.05 kHz は、話し声だけで構成される録音としては、十分な数値だと考えられる。
+量子化ビット数については、どの機械を使っても 16 bit になる。 これは、普通の環境で再生されたものを人が聞くという目的のためには十分な数値である。
+
+サンプリング周波数は、パソコンで PLEXTALK Recording Software Pro (PRS Pro) を使って録音する場合、設定できる上限が PCM 44.1 kHz なので、 接続している機械でこれより高く設定できても意味がない。 さらに、 DAISY TOKYO が PCM 22.05 kHz で録音するように推奨しているので（『はじめてのDAISY』 p.&nbsp;10）、 パソコンで音訳録音する際に、それより高いサンプリング周波数に設定することはほとんどない。 音楽CDの規格は 44.1 kHz 16 bit だから、 22.05 kHz で録音されるデイジー録音の再現性は、販売されている朗読CDよりも劣ることになる。
+
+しかし、標本化定理に従って計算したように、最高 10 kHz の周波数成分を含む話し声が完全に再現できるようにするためのサンプリング周波数は、 20 kHz を超えていれば良い。 一般的なデイジー図書のサンプリング周波数 22.05 kHz は、話し声だけで構成される録音としては、十分な数値だと考えられる。
 
 {::comment}
 48 kHz で録音したサンプルを作る？
