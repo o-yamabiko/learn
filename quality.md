@@ -160,28 +160,28 @@ USBマイクをパソコンに繋げて録音する場合
 
 実際にスイッチを切り替えて、4種類の録音をしてみた。
 
-1. 大きい声で、感度の低減無し  
+1. 大きい声で、感度を低減しない場合  
     <audio controls>  
       <source src="media/quality/prsL_0.ogg" type="audio/ogg">  
       <source src="media/quality/prsL_0.mp3" type="audio/mpeg">  
       お使いのブラウザでは表示できません。  
     </audio>  
-    感度が高すぎて、部屋の反響が入っている。
-2. 大きい声で、感度を-10dBで低減  
+    感度が高すぎて、部屋の反響が入っているように聞こえる。
+2. 大きい声で、感度を-10dBで低減した場合  
     <audio controls>  
       <source src="media/quality/prsL_-10.ogg" type="audio/ogg">  
       <source src="media/quality/prsL_-10.mp3" type="audio/mpeg">  
       お使いのブラウザでは表示できません。  
     </audio>  
     反響が抑えられたように聞こえる。
-3. 小さい声で、感度の低減無し  
+3. 小さい声で、感度を低減しない場合  
     <audio controls>  
       <source src="media/quality/prsS_0.ogg" type="audio/ogg">  
       <source src="media/quality/prsS_0.mp3" type="audio/mpeg">  
       お使いのブラウザでは表示できません。  
     </audio>  
     感度が高すぎて、口中音が目立つかもしれない。
-3. 小さい声で、感度を-10dBで低減  
+3. 小さい声で、感度を-10dBで低減した場合  
     <audio controls>  
       <source src="media/quality/prsS_-10.ogg" type="audio/ogg">  
       <source src="media/quality/prsS_-10.mp3" type="audio/mpeg">  
