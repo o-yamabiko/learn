@@ -65,7 +65,7 @@ Sound Quality (SQ) is the perceptual reaction to the sound of a product that ref
 
 音質がどういうものから構成されるかということについて、決定的な説明は存在しない[^coxSIRC]。
 
-[^coxSIRC]: [*Sound quality - making products sound better.* Trevor Cox, Acoustics Reserarch Centre, Salford Innovation Research Centre (SIRC), University of Salford, Manchester, 2018.](https://www.salford.ac.uk/research/sirc/research-groups/acoustics/psychoacoustics/sound-quality-making-products-sound-better)  
+[^coxSIRC]: [Cox, T.: *Sound quality - making products sound better.* Acoustics Reserarch Centre, Salford Innovation Research Centre (SIRC), University of Salford, Manchester, 2018.](https://www.salford.ac.uk/research/sirc/research-groups/acoustics/psychoacoustics/sound-quality-making-products-sound-better)  
     Page "An introduction to Sound Quality testing. Defining sound quality."
 
 
@@ -140,7 +140,7 @@ USBマイクをパソコンに繋げて録音する場合
 マイクは音をアナログの電気信号に変換するが、その際に再現性に影響を与える仕様のうち、ここでは以下の2つの点に注目する。
 
 周波数特性 (Frequency Response)
-: 低音から高音まで一定の音圧を与えたときに、このマイクで拾える音の周波数の範囲。 範囲が広いほど再現性が高い。
+: マイクの振動板に低音（低周波数）から高音（高周波数）まで一定の音圧を与えたときに、このマイクで拾える音の周波数の範囲。 範囲が広いほど再現性が高い。
 
 感度 (Sensitivity)
 : マイクの振動板に特定の音圧を与えたときに出力される信号の振幅。 dBV という単位なら負の数で表され、0に近いほど感度が高い。  
@@ -149,8 +149,7 @@ USBマイクをパソコンに繋げて録音する場合
 
 録音室1にある2つのマイクの仕様は以下のようになっている。
 
-項目 | DR-1 用マイク | パソコン用USBマイク
-:--------|:--------|:---------
+機器 | DR-1 用マイク | パソコン用USBマイク
 型名 | [SHURE SM58](https://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone) | [CAD Audio U37](http://cadaudio.com/products/product-application/u37)
 構造 | ダイナミックマイク | コンデンサマイク
 周波数特性 | 50 Hz から 15 kHz | 20 Hz から 20 kHz
@@ -158,7 +157,7 @@ USBマイクをパソコンに繋げて録音する場合
 
 どちらも一般向けの（プロ用ではない）マイクとしては標準的な仕様であり、特に高性能でも低性能でもない。
 
-ただ、上記の数値を比較すれば、録音室1の DR-1 に繋げるマイクよりもパソコンに繋げる USBマイクのほうが、再現性を下げる要素が少ないことがわかる。
+ただ、上記の数値を比較すれば、録音室1の DR-1 用マイクよりもパソコン用USBマイクのほうが、再現性を下げる要素が少ないことがわかる。
 
 
 
@@ -169,8 +168,7 @@ USBマイクの場合、アナログの電気信号を伝える部分はマイ�
 それに対して、 DR-1 や、オーディオ・インターフェイスを使う方法では、この部分の仕様に注意する必要がある。 ここでは以下の点に注目する。
 
 インピーダンス (Impedance)
-: 交流回路内の電圧/電流比。 インピーダンスが大きいほど微細な信号を伝えられるが、 ノイズも拾いやすくなる。
-
+: 交流回路内の電圧/電流比。 インピーダンスが大きいほど微細な信号を伝えられるが、 電気的ノイズも拾いやすくなる。 一般に、マイクの出力インピーダンスと、その接続先の入力インピーダンスが、以下のような組み合わせになるようにすれば、アナログの電気信号を伝える経路で失われる情報が少ない。
 
     マイクの出力インピーダンス (Output Impedance)
     : 接続先の機械の入力インピーダンスの数分の1から数十分の1であれば良い。
@@ -185,10 +183,9 @@ USBマイクの場合、アナログの電気信号を伝える部分はマイ�
 : 受け取ることができる入力信号レベルの範囲。 マイクの感度より高い仕様（よりゼロに近い値）であれば、マイクからの信号を漏らさずに受け取ることができる。
 
 
-録音室1にある DR-1 とマイク SHURE SM58 の組み合わせと、音訳でよく使われているらしいオーディオ・インターフェイス Roland UA-1EX または Roland UA-1G にマイク SHURE SM58 を接続した場合について、わかる範囲で仕様を比較すると以下のようになる。
+録音室1にある DR-1 とマイク SHURE SM58 の組み合わせと、それと同じ型のマイクを音訳でよく使われているらしいオーディオ・インターフェイス Roland UA-1EX か UA-1G に接続した場合について、わかる範囲で仕様を比較すると以下のようになる。
 
-項目 | [DR-1](http://www.plextalk.com/jp/support/dr1/specifications/) | [UA-1EX](https://www.roland.com/us/products/ua-1ex/specifications/) ; [UA-1G](https://www.roland.com/us/products/ua-1g/specifications/)
-:--------|:--------|:---------
+機器 | [DR-1](http://www.plextalk.com/jp/support/dr1/specifications/) | [UA-1EX](https://www.roland.com/us/products/ua-1ex/specifications/) ; [UA-1G](https://www.roland.com/us/products/ua-1g/specifications/)
 マイクの出力インピーダンス (O) | 300 Ω | 300 Ω
 入力インピーダンス (I) | 2.2kΩ | 不明
 上の2つの比 (I/O) | 7.3 | 不明
@@ -199,8 +196,9 @@ USBマイクの場合、アナログの電気信号を伝える部分はマイ�
 
 
 UA-1G の入力感度に幅があるのは、ダイヤルで調整できるから。
+{: .note}
 
-どちらの機器も、一般向けのオーディオ機器として標準的な機能はあるが、再現性を落とさないための仕様は特に無い。 DR-1 の入力感度は、UA-1EX や UA-1G よりは低いが、そもそもマイクの感度がそこそこなので、このマイクを使う限りは適合している。
+どちらの機器も、一般向けのオーディオ機器として標準的な性能はあるが、再現性を落とさないための仕様は特に無い。 DR-1 の入力感度は、UA-1EX や UA-1G よりは低いが、そもそもマイクの感度がそこそこなので、このマイクを使う限りは適合している。
 
 
 #### デジタル化の仕様
@@ -215,45 +213,79 @@ UA-1G の入力感度に幅があるのは、ダイヤルで調整できるか�
 量子化ビット数 (bit)
 : 量子化ビット数が大きいほど、録音の再現性が高い。
 
-また、デジタル化した音声データを MP3 方式で圧縮すると、データの一部が簡略化される。 圧縮の程度の指標として、ビットレートがある。
+##### どの程度の数値が良いか？
 
-ビットレート (bps)
-: 1秒あたりに読み取られるデジタル情報量。 ビットレートが大きいほど、圧縮の度合いが低く、失われる情報が少ない。
+###### サンプリング周波数
 
-MP3方式では、人間の聴覚では再生音の劣化に気付きにくいように調整した方法でデータ圧縮することができる。 それでも、非可逆圧縮であり、情報の一部は確実に失われている。 MP3方式での圧縮を重ねれば、聞いて判別できるほどに再現性が低くなる。
+サンプリング周波数については、以下のような定理が数学的に証明されている。
 
-32 kbps – 一般的に話し声のみで許容される  
-256 kbps – よく使用される高品質のビットレート  
-320 kbps – MP3標準でサポートされている最高レベル
+標本化定理
+: 元のアナログ信号が含む周波数成分のうちの最も高い周波数成分の2倍よりも、サンプリング周波数の方が高ければ、そのデジタル情報から元のアナログ信号を完全に再現できる。
+
+人の話し声に含まれる主な周波数の範囲は、母音と子音で大きく異なる。
+母音は 500 Hz から 1 kHz 前後の周波数が主体となる。 子音が含む周波数はもっと高く、高いものでは 5 kHz 付近の周波数が主体となる子音もある[^siin]。
+
+[^siin]:
+    [Mannell, R.: *Speech Spectra and Spectrograms.* Macquarie University, 2008.](http://clas.mq.edu.au/speech/acoustics/speech_spectra/index.html) Page "6. Some consonant spectra. c. Fricatives."  
+    日本語の音声については、  
+    [『言語について』 補聴器サービス, 2010.](http://ha-service.jp/gengo.html)  
+    個人が趣味で公開している研究成果もある。  
+    [Nakayama, T.: 『音声認識～周波数スペクトルで音素を判別』 2012.](http://www.geocities.jp/myonsei/index.html) 「子音の音声認識」のページ。
+
+
+母音と子音を合わせた話し声に含まれる全ての周波数成分の範囲は、およそ 100 Hz から10 kHzの間に収まると言われている。 これを完全に再現できるようにデジタル化するためには、 標本化定理によって、 20 kHz より高いサンプリング周波数が必要になる。
+
+
+###### 量子化ビット数
+
+
+
+###### 実際に使用している機械の仕様
+
+DR-1、オーディオ・インターフェイス Roland UA-1EX / UA-1G、USBマイク CAD Audio U37 のデジタル化の仕様は、それぞれ以下のようになっている。
+
+機器 | [DR-1](http://www.plextalk.com/jp/support/dr1/specifications/) | [UA-1EX](https://www.roland.com/us/products/ua-1ex/specifications/) ; [UA-1G](https://www.roland.com/us/products/ua-1g/specifications/) | [U37](http://cadaudio.com/products/product-application/u37)
+サンプリング周波数 | 22.05 kHz | 96 or 44.1 kHz | 48 kHz
+量子化ビット数 | 16 bit | 24 or 16 bit | 16 bit
+
+UA-1EX や UA-1G で 96 kHz 24 bit にできるのは、特定のドライバをインストールしてある場合に限られる。
+{: .note}
+
+パソコンで PLEXTALK Recording Software Pro (PRS Pro) を使って録音する場合、設定できる上限は PCM 44.1 kHz 16 bit なので、 接続している機械の性能がこれより高くても意味がない。 さらに、 DAISY TOKYO が PCM 22.05 kHz で録音するように推奨しているので（『はじめてのDAISY』 p.&nbsp;10）、 それより高いサンプリング周波数に設定されることはパソコンでの録音でもほとんどない。 音楽CDの規格は 44.1 kHz 16 bit だから、 22.05 kHz で録音されるデイジー録音の再現性は、販売されている朗読CDよりも劣ることになる。
+
+しかし、標本化定理に従って計算したように、最高 10 kHz の周波数を含む話し声が完全に再現できるようにするためのサンプリング周波数は 20 kHz 以上であれば良い。 推奨されているサンプリング周波数 22.05 kHz は、話し声だけで構成される録音としては、十分な数値だと考えられる。
 
 {::comment}
+48 kHz で録音したサンプルを作る？
+{:/comment}
 
 
-PRSProの入ったパソコンに繋げられているマイク
-CAD Audio U37
-Frequency Response : 20Hz – 20kHz
-Sensitivity : -40dBV @ 1Pa
-Encoding : 16 bit resolution, 48K sampling rate （デイジー製作で要求されているより多くの情報を伝えることができる）
-PAD (Passive Attenuation Device) : -10dB （入力信号を下げたいときに使用するスイッチ）
-Roll Off : Reduce Proximity Effect
+##### データ圧縮方式の仕様
 
+録音デイジーのデータは、多くの場合 MP3 方式で圧縮されたものが利用者に届く。
 
+PCM方式でデジタル化した音声データを MP3 方式で圧縮すると、データの一部が簡略化される。 圧縮の程度の指標として、ビットレートがある。
 
-Roland UA-1EXの場合 最大96kHz／24ビット。ただしWDM／ASIO 2.0使用時。OS標準ドライバ使用時は、最大44.1kHz／16ビットとなります。また、96kHz／24ビット時はハーフ・デュープレックス仕様のため、録音と再生を同時に行うことはできません。
-Roland UA-1Gの場合 最大96kHz／24ビットのオーディオ・フォーマットに対応。サンプリング周波数96kHz を選んだときには、同時に録音と再生はできません。
-入力端子の形状から、明らかに不均衡タイプ
+ビットレート (Bitrate, bps)
+: 音声1秒あたりを記録するためのデジタル情報量。 ビットレートが大きいほど、圧縮の度合いが低く、失われる情報が少ない。
 
-DR-1
-録音音声フォーマット（DAISY形式）
-PCM 22.05kHz モノラル、
-MP3 64kbps モノラル、
-MP3 48kbps モノラル、
-MP3 32kbps モノラル
-（PCM 22.05kHz で作成すると決まっているので、これの設定はパソコン録音の場合でも同じ。 MP3に圧縮するときに、この数値が大きいほうが、捨てる情報が少ないので、再現性が落ちにくい。）
-CDの規格は、44.1KHz/16bit
+MP3方式では、人間の聴覚では再生音の劣化に気付きにくいように調整した方法でデータ圧縮することができる。 録音図書などの、人の話し声の録音データであれば、 32 kbps で圧縮しても違和感はない。 
 
-PADスイッチ
-入力信号を下げたいときに使用
+{::comment}
+サンプル：
+圧縮前 PCM 22.05 kHz 16 bit
+MP3 256 kbps
+MP3 128 kbps
+MP3 64 kbps
+MP3 32 kbps
+MP3 16 kbps
+{:/comment}
+
+ただし、MP3方式は非可逆圧縮であり、情報の一部は確実に失われる。 MP3方式での圧縮を重ねれば、聞いて判別できるほどに再現性が低くなる。
+
+{::comment}
+サンプル：
+32 kbps での圧縮を50回繰り返したもの
 {:/comment}
 
 
