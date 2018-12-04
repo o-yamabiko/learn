@@ -157,8 +157,8 @@ USBマイクをパソコンに繋げて録音する場合
 
 感度が高いと再現性が高くなるが、環境音や口中音など、要らない音も明瞭に録音される。
 
-![マイクのPADやGAIN](media/quality/mic.png){: srcset="media/quality/mic.svg" .naka}
 USBマイクやオーディオ・インターフェイスには、 PAD (Passive Attenuation Device, 減衰器) を操作するスイッチや GAIN （増幅度）を調整するダイヤルが付いていることがある。 本来これらは、アナログ信号の大きさを機械の許容範囲内に収めるための仕組みだが、これを調整することによって要らない音が低減されることもある。
+![マイクのPADやGAIN](media/quality/mic.png){: srcset="media/quality/mic.svg" .naka}
 
 ##### 4.2.1.1. PADスイッチを切り替えた録音例
 
