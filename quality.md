@@ -155,9 +155,10 @@ USBマイクをパソコンに繋げて録音する場合
 
 それぞれ、一般向けの（プロ用ではない）マイクとしては標準的な仕様である。 この2つの機種を比較する限り、ダイナミックマイクよりもコンデンサマイクのほうが、再現性を下げる要素が少ないことがわかる。
 
-ただし、コンデンサマイクは感度が高いので、再現性が高い反面、環境音や口中音など、要らない音も正確に録音されてしまう。  
-USBマイクやオーディオ・インターフェイスに、 PAD (Passive Attenuation Device, 減衰器) を操作するスイッチや GAIN （増幅度）を調整するダイヤルが付いている場合は、それを調整すると、要らない音が軽減されることがある。
+感度が高いと再現性が高くなるが、環境音や口中音など、要らない音も明瞭に録音される。
+
 ![マイクのPADやGAIN](media/quality/mic.png){: srcset="media/quality/mic.svg" .naka}
+USBマイクやオーディオ・インターフェイスには、 PAD (Passive Attenuation Device, 減衰器) を操作するスイッチや GAIN （増幅度）を調整するダイヤルが付いていることがある。 本来これらは、アナログ信号の大きさを機械の許容範囲内に収めるための仕組みだが、これを調整することによって要らない音が低減されることもある。
 
 ##### PADスイッチを切り替えた録音例
 
@@ -166,28 +167,28 @@ USBマイクやオーディオ・インターフェイスに、 PAD (Passive Att
 このページの音声を再生するとき、イヤフォンやヘッドフォンで聞くと、違いがわかりやすくなる。
 {: .note}
 
-大きい声、感度低減なし
+大きい声、PADスイッチ 0
 : <audio controls>
   <source src="media/quality/prsL_0.ogg" type="audio/ogg">
   <source src="media/quality/prsL_0.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>  
-    感度が高すぎて、部屋の反響が入っているように聞こえる。
+    部屋の反響が入っているように聞こえる。
 
-大きい声、感度を-10dBで低減
+大きい声、PADスイッチ -10
 : <audio controls>
   <source src="media/quality/prsL_-10.ogg" type="audio/ogg">
   <source src="media/quality/prsL_-10.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>  
     反響が抑えられたように聞こえる。
 
-小さい声、感度低減なし
+小さい声、PADスイッチ 0
 : <audio controls>
   <source src="media/quality/prsS_0.ogg" type="audio/ogg">
   <source src="media/quality/prsS_0.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>  
-    感度が高すぎて、口中音が目立つかもしれない。
+    口中音が目立つかもしれない。
 
-小さい声、感度を-10dBで低減
+小さい声、PADスイッチ -10
 : <audio controls>
   <source src="media/quality/prsS_-10.ogg" type="audio/ogg">
   <source src="media/quality/prsS_-10.mp3" type="audio/mpeg">
