@@ -202,7 +202,7 @@ USBマイクやオーディオ・インターフェイスには、 PAD (Passive 
 音声に添えて、その音声の周波数成分のグラフを表示する。
 グラフは静止画として載せるが、本来は以下のように音声と連動している。
 
-<video class="naka" controls>
+<video width="320" height="auto" controls>
 <source src="media/quality/48000.mp4" type="video/mp4">
 お使いのブラウザでは表示できません。</video>
 
