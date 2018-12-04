@@ -216,8 +216,6 @@ USBマイクやオーディオ・インターフェイスには、 PAD (Passive 
   <source src="media/quality/dr1L.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
-この音声の周波数成分を分析すると、以下の図のようになっている。
-
 ![DR-1, 大きい声の周波数スペクトル](media/quality/dr1L.png){: .naka}
 
 
