@@ -377,6 +377,9 @@ UA-1EX や UA-1G で 96 kHz 24 bit にできるのは、特定のドライバを
 DR-1 では 22.05 kHz, PRS Pro では 44.1 kHz までしかサンプリング周波数を上げることができないが、 USBマイク CAD Audio U37 は 48 kHz で録音する性能がある。
 まず別のソフトウェアを使って 48 kHz で録音し、そのデータを 44.1 kHz から 8 kHz まで、いくつかのサンプリング周波数に変換したものを聴き比べてみよう。
 
+以下のグラフでは、サンプリング周波数の違いにより、縦軸の最大値も異なることに注意。
+{: .note}
+
 48 kHz
 : <audio controls>
   <source src="media/quality/48000.ogg" type="audio/ogg">
