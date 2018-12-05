@@ -50,7 +50,7 @@ Sound quality
 Sound Quality (SQ) is the perceptual reaction to the sound of a product that reflects the listener’s reaction to the acceptability of that sound for that product; the more acceptable, the greater the SQ.
 {:/comment}
 
-[^lyon2000]: Lyon, R.&nbsp;H.: *Designing for Product Sound Quality,* p.&nbsp;8. Marcel Dekker Inc. New York, 2000.
+[^lyon2000]: Lyon, R.&nbsp;H.: *Designing for Product Sound Quality.* Marcel Dekker Inc. New York, 2000. p.&nbsp;8.
 
 
 上のどの定義にも共通する点は、音質が、
