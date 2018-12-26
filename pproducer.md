@@ -2,7 +2,7 @@
 layout: caymanyomi
 title: PLEXTALK Producer と ChattyInfty3 の比較
 author: 水野光子
-date: 2017-09-05T09:00:00Z
+date: 2018-12-26T07:25:00Z
 iro: 005f1a
 gra: f4ffd7
 ---
