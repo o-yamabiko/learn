@@ -25,6 +25,7 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 ## 合成音声
 
+1. [PLEXTALK Producer と ChattyInfty3 の比較（水野光子）](pproducer.html)
 1. [ChattyInfty3グループ作業指針（水野光子）](chatty_group.html)
 
 ## 研修・講演等の報告
