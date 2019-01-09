@@ -1,3 +1,6 @@
+---
+layout: caymanyomi
+title: 日本語 OCR のお試し版比較
 author: 水野光子
 date: 2017-08-09T09:00:00Z
 iro: 01764A
