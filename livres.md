@@ -10,8 +10,9 @@ gra: feffcf
 # 日本国内の資料のうち、 障害者向け資料が作られているものの割合
 
 国立国会図書館サーチを利用した調査（2019年4月2日現在）。障碍者向け資料は、同じ原本から異なる製作者が作製したものを重複して数えている。墨字の原本が存在しないものも数えている。
-
-  <img class='zoom scrolling-wrapper' src="media/livres/livres.png" alt="グラフ：日本国内の資料のうち、 障害者向け資料が作られているものの割合" >
+<div class="scrolling-wrapper">
+  <img class='zoom' src="media/livres/livres.png" alt="グラフ：日本国内の資料のうち、 障害者向け資料が作られているものの割合" width="1000px" height="auto">
+</div>
 
 <div class="tablewidth" markdown="1">
 
