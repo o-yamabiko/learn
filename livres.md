@@ -27,7 +27,7 @@ gra: feffcf
   <div id="caption">グラフ：日本国内の資料のうち、障害者向け資料が作られているものの割合</div>
 </div>
 
-<div class="tablewidth">
+<div class="tablewidth" markdown="1">
 
 日本十進分類区分|障碍者向け資料の無い図書|点字・大活字|録音図書・デイジー図書
 :---|---:|---:|---:
