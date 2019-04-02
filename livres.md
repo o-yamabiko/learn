@@ -13,8 +13,8 @@ hscroll: true
 
 国立国会図書館サーチを利用した調査（2019年4月2日現在）。障碍者向け資料は、同じ原本から異なる製作者が作製したものを重複して数えている。墨字の原本が存在しないものも数えている。
 
-<div style="width: 100%; overflow-x: scroll;" class="hscroll">
-<div style="width: 1830px; height: 570px;">
+<div style="width: 100%; overflow-x: scroll;">
+<div style="width: 1830px; height: 570px;" class="hscroll">
   <img src="media/livres/livres.png" alt="グラフ：日本国内の資料のうち、 障害者向け資料が作られているものの割合" width="1828" height="567" />
 </div>
 </div>
