@@ -24,7 +24,7 @@ gra: feffcf
   <img class="modal-content" id="img01">
 
   <!-- Modal Caption (Image Text) -->
-  <div id="caption">グラフ：日本国内の資料のうち、 障害者向け資料が作られているものの割合</div>
+  <div id="modal-content-caption">グラフ：日本国内の資料のうち、 障害者向け資料が作られているものの割合</div>
 </div>
 
 <div class="tablewidth" markdown="1">
