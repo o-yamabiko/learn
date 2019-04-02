@@ -22,8 +22,8 @@ gra: feffcf
   <!-- The Close Button -->
   <span class="close">
 
-  <!-- Modal Content (The Image) -->
-  <img class="modal-content" id="img01">
+   <!-- Modal Content (The Image) -->
+   <img class="modal-content" id="img01">
 
 </span>
 
