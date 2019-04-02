@@ -120,7 +120,7 @@ gra: feffcf
 総数|11966392|345309|505506
 
 </div>
-<script src="wheelzoom.js"></script>
+<script src="../js/wheelzoom.js"></script>
 <script>
 wheelzoom(document.querySelector('img.zoom'));
 </script>
