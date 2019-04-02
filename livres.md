@@ -11,6 +11,8 @@ gra: feffcf
 
 国立国会図書館サーチを利用した調査（2019年4月2日現在）。障碍者向け資料は、 同じ原本から異なる製作者が作ったものを重複して数えている。
 
+グラフをタップまたはクリックすると拡大。
+
  <!-- Trigger the Modal -->
 <img id="myImg" src="media/livres/livres.png" alt="グラフ：日本国内の資料のうち、 障害者向け資料が作られているものの割合" srcset="media/livres/livres.svg" style="width:100%;max-width:300px">
 
