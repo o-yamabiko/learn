@@ -11,12 +11,20 @@ gra: feffcf
 
 国立国会図書館サーチを利用した調査（2019年4月2日現在）。障碍者向け資料は、同じ原本から異なる製作者が作ったものを重複して数えている。
 
-<a class="lightbox" href="#graph">
-   <img src="media/livres/livres.png" alt="グラフ：日本国内の資料のうち、障害者向け資料の割合" srcset="media/livres/livres.svg" />
-</a> 
-<div class="lightbox-target" id="graph">
-   <img src="media/livres/livres.png" alt="グラフ：日本国内の資料のうち、障害者向け資料の割合" srcset="media/livres/livres.svg" />
-   <a class="lightbox-close" href="#"></a>
+ <!-- Trigger the Modal -->
+<img id="myImg" src="media/livres/livres.png" alt="グラフ：日本国内の資料のうち、障害者向け資料の割合" srcset="media/livres/livres.svg" style="width:100%;max-width:300px">
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="img01">
+
+  <!-- Modal Caption (Image Text) -->
+  <div id="caption">グラフ：日本国内の資料のうち、障害者向け資料の割合</div>
 </div>
 
 日本十進分類区分|障碍者向け資料の無い図書|点字・大活字|録音図書・デイジー図書
@@ -123,5 +131,27 @@ gra: feffcf
 99 その他の諸言語文学|6393|188|161
 総数|11966392|345309|505506
 
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById('myImg');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = this.src;
+  captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() { 
+  modal.style.display = "none";
+}
+</script>
 
 
