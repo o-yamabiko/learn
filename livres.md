@@ -19,11 +19,9 @@ gra: feffcf
 <!-- The Modal -->
 <div id="myModal" class="modal">
 
-  <!-- The Close Button -->
-  <span class="close">&times;</span>
 
   <!-- Modal Content (The Image) -->
-  <img class="modal-content" id="img01">
+  <img class="modal-content close" id="img01">
 
   <!-- Modal Caption (Image Text) -->
   <div id="modal-content-caption">グラフ：日本国内の資料のうち、 障害者向け資料が作られているものの割合</div>
