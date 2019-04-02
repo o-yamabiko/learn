@@ -1,18 +1,18 @@
 ---
 layout: caymanyomi
-title: 日本国内の資料のうち、障害者向け資料の割合
+title: 日本国内の資料のうち、障害者向け資料が作られているものの割合
 author: 水野光子
 date: 2019-04-02T14:41:32Z
 iro: cb5300
 gra: feffcf
 ---
 
-# 日本国内の資料のうち、障害者向け資料の割合
+# 日本国内の資料のうち、障害者向け資料が作られているものの割合
 
 国立国会図書館サーチを利用した調査（2019年4月2日現在）。障碍者向け資料は、同じ原本から異なる製作者が作ったものを重複して数えている。
 
  <!-- Trigger the Modal -->
-<img id="myImg" src="media/livres/livres.png" alt="グラフ：日本国内の資料のうち、障害者向け資料の割合" srcset="media/livres/livres.svg" style="width:100%;max-width:300px">
+<img id="myImg" src="media/livres/livres.png" alt="グラフ：日本国内の資料のうち、障害者向け資料が作られているものの割合" srcset="media/livres/livres.svg" style="width:100%;max-width:300px">
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
@@ -24,7 +24,7 @@ gra: feffcf
   <img class="modal-content" id="img01">
 
   <!-- Modal Caption (Image Text) -->
-  <div id="caption">グラフ：日本国内の資料のうち、障害者向け資料の割合</div>
+  <div id="caption">グラフ：日本国内の資料のうち、障害者向け資料が作られているものの割合</div>
 </div>
 
 日本十進分類区分|障碍者向け資料の無い図書|点字・大活字|録音図書・デイジー図書
