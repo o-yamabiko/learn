@@ -16,9 +16,9 @@ math: false
 
 このような問題があるので、以下に表示している障碍者向け資料件数は、実際に利用者にとって有用な資料件数より多めに出ている。
 
-## グラフ：日本十進分類区分の[国立国会図書館サーチ](https://iss.ndl.go.jp/)結果件数（2019年4月2日現在、数値は下記の表）から算出した、 障害者向け資料件数の割合
+- グラフ：日本十進分類区分の[国立国会図書館サーチ](https://iss.ndl.go.jp/)結果件数（2019年4月2日現在、数値は下記の表）から算出した、 障害者向け資料件数の割合
 
-<a href="./media/livres/livres.png" style="font-size:small;text-align:right;">グラフのみを表示</a>
+<a href="./media/livres/livres.png" class="migi">グラフのみを表示</a>
 
 <div id="hscroll">
 <div style="width: 1830px;">
@@ -26,7 +26,7 @@ math: false
 </div>
 </div>
 
-## 表：日本十進分類区分の[国立国会図書館サーチ](https://iss.ndl.go.jp/)結果件数（2019年4月2日現在）
+- 表：日本十進分類区分の[国立国会図書館サーチ](https://iss.ndl.go.jp/)結果件数（2019年4月2日現在）
 
 <div class="tablewidth" markdown="1">
 
