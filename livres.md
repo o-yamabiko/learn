@@ -24,8 +24,8 @@ math: false
 </div>
 
 <div id="hscroll">
-<div style="width: 1830px;">
-<img src="media/livres/livres.png" alt="グラフ：日本国内の資料のうち、 障害者向け資料が作られているものの割合" width="1830" srcset="media/livres/livres.svg" >
+<div style="width: 2000px;">
+<img src="media/livres/livres.png" alt="グラフ：日本国内の資料のうち、 障害者向け資料が作られているものの割合" width="2000" srcset="media/livres/livres.svg" >
 </div>
 </div>
 
@@ -139,8 +139,4 @@ math: false
 総数|11966392|345309|505506
 
 </div>
-<script src="../js/wheelzoom.js"></script>
-<script>
-wheelzoom(document.querySelector('img.zoom'));
-</script>
 
