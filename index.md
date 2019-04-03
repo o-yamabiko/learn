@@ -25,17 +25,18 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 ## 合成音声
 
-1. [PLEXTALK Producer と ChattyInfty3 の比較（水野光子）](pproducer.html)
 1. [ChattyInfty3グループ作業指針（水野光子）](chatty_group.html)
+1. [PLEXTALK Producer と ChattyInfty3 の比較（水野光子）](pproducer.html)
 
 ## 研修・講演等の報告
 
-1. [「平成29年度音訳者講習（中級研修）」受講報告（水野光子）](chukyu.html)
 1. [「全国音訳ボランティアネットワーク 2018 シンポジウム」聴講報告（水野光子）](zenkoku20181111.html)
+1. [「平成29年度音訳者講習（中級研修）」受講報告（水野光子）](chukyu.html)
 
 ## その他
 
-1. [日本語 OCR のお試し版比較（水野光子）](ocr.html)
-1. [やまびこホームページの多言語版（水野光子）](languages.html)
+1. [日本国内の資料のうち、 障碍者向け資料が作られているものの割合（水野光子）](livres.html)
 1. [音質を考慮した録音製作（水野光子）](quality.html)
+1. [やまびこホームページの多言語版（水野光子）](languages.html)
+1. [日本語 OCR のお試し版比較（水野光子）](ocr.html)
 

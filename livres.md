@@ -1,6 +1,6 @@
 ---
 layout: caymanyomi
-title: 日本国内の資料のうち、 障害者向け資料が作られているものの割合
+title: 日本国内の資料のうち、 障碍者向け資料が作られているものの割合
 author: 水野光子
 date: 2019-04-02T14:41:32Z
 iro: cb5300
@@ -8,7 +8,7 @@ gra: feffcf
 math: false
 ---
 
-# 日本国内の資料のうち、 障害者向け資料が作られているものの割合
+# 日本国内の資料のうち、 障碍者向け資料が作られているものの割合
 
 国立国会図書館サーチを利用した調査（2019年4月2日現在）。障碍者向け資料については、同じ原本から異なる製作者が作ったものを重複して数えている。また、墨字の原本が存在しないものも数えている。
 
@@ -17,7 +17,7 @@ math: false
 こういう重複があるので、以下に表示している障碍者向け資料件数は、実際に利用者にとって有用な件数より多めに出ている。
 
 グラフ：
-: 日本十進分類区分の[国立国会図書館サーチ](https://iss.ndl.go.jp/)結果件数（2019年4月2日現在、数値は下記の表）から算出した、 障害者向け資料件数の割合
+: 日本十進分類区分の[国立国会図書館サーチ](https://iss.ndl.go.jp/)結果件数（2019年4月2日現在、数値は下記の表）から算出した、 障碍者向け資料件数の割合
 
 <div style="text-align:right; font-size:small;">
 <a href="./media/livres/livres.png">グラフのみを表示</a>
@@ -28,7 +28,7 @@ math: false
 
 <div id="hscroll">
 <div style="width: 2000px;">
-<img src="media/livres/livres.png" alt="グラフ：日本国内の資料のうち、 障害者向け資料が作られているものの割合" width="2000" srcset="media/livres/livres.svg" >
+<img src="media/livres/livres.png" alt="グラフ：日本国内の資料のうち、 障碍者向け資料が作られているものの割合" width="2000" srcset="media/livres/livres.svg" >
 </div>
 </div>
 
