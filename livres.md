@@ -19,7 +19,7 @@ math: false
 グラフ：
 : 日本十進分類区分の[国立国会図書館サーチ](https://iss.ndl.go.jp/)結果件数（2019年4月2日現在、数値は下記の表）から算出した、 障害者向け資料件数の割合
 
-<div style="text-align:right;">
+<div style="text-align:right; font-size:small;">
 <a href="./media/livres/livres.png">グラフのみを表示</a>
 </div>
 
