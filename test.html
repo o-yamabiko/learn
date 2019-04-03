@@ -9,18 +9,19 @@
     <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js?ver=1.3.2'></script>
     <script type='text/javascript' src='../js/jquery-mousewheel-3.1.13/jquery.mousewheel.min.js'></script>
     <script>
-    $(document).ready(function () {
-      $('.hscroll').mousewheel(function(e, delta) {
-          this.scrollLeft -= (delta * 40);
-          e.preventDefault();
-      });
+$(document).ready(function () {
+    $('.hscroll').mousewheel(function(e, delta) {
+        this.scrollLeft -= (delta * 40);
+        e.preventDefault();
+    });
+    
     });
     </script>
   </head>
 
   <body>
   <div style="max-width: 100%; overflow: scroll; width: 100%; display: block;" class="hscroll">
-  <img src="media/livres/livres.png" alt="グラフ：日本国内の資料のうち、 障害者向け資料が作られているものの割合" height="100%" />
+  <img src="media/livres/livres.png" alt="グラフ：日本国内の資料のうち、 障害者向け資料が作られているものの割合" width="1830" >
 </div>
 
   </body>
