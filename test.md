@@ -35,7 +35,7 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 ## その他
 
-{% assign subpage = site.pages | where: 'chatty', 'ocr' %}
+{% assign subpage = site.pages | where: 'layout', 'caymanyomi' %}
 {% for item in subpage %}
    {{ item.title }}
 {% endfor %}
