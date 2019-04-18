@@ -4,4 +4,7 @@ collections:
   chatty:
     output: true
     permalink: :title.html
+  post:
+    output: true
+    permalink: :title.html
 
