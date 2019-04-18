@@ -35,7 +35,7 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 ## その他
 
-{% assign subpage = site.pages | where: 'docid', 'misc' %}
+{% assign subpage = site.pages | where: 'category', 'misc' %}
 {% for item in subpage %}
 1. [{{ item.title }}]({{ item.url }})（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author}}）
 {% endfor %}

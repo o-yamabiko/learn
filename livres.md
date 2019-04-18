@@ -1,6 +1,6 @@
 ---
 layout: caymanyomi
-docid: misc
+category: misc
 docid: livres
 title: 日本国内の資料のうち、 障碍者向け資料が作られているものの割合
 author: 水野光子

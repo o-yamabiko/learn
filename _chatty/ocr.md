@@ -1,6 +1,6 @@
 ---
 layout: caymanyomi
-docid: misc
+category: misc
 docid: ocr
 title: 日本語 OCR のお試し版比較
 author: 水野光子

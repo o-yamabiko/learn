@@ -1,6 +1,6 @@
 ﻿---
 layout: caymanyomi
-docid: misc
+category: misc
 docid: quality
 title: 音質を考慮した録音製作
 author: 水野光子

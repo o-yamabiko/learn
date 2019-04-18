@@ -1,6 +1,6 @@
 ---
 layout: print_noindex
-docid: misc
+category: misc
 docid: languages
 author: 水野光子
 date: 2018-08-09T04:35:38Z
