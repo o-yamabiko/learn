@@ -35,7 +35,7 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 ## その他
 
-1. [{% assign subpage = site.pages | where: 'kensaku' %}
+1. [{% assign subpage = site.pages | where: 'section', 'kensaku' %}
 {% for item in subpage %}
    {{ item.title }}
 {% endfor %}]({{ site.baseurl }}{% post_url kensaku %})
