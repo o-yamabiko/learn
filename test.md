@@ -35,6 +35,11 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 ## その他
 
+1. [{% assign subpage = site.pages | where: 'kensaku' %}
+{% for item in subpage %}
+   {{ item.title }}
+{% endfor %}]({{ site.baseurl }}{% post_url kensaku %})
+1. [{% post_title kensaku %}]({{ site.baseurl }}{% post_url kensaku %})
 1. [音訳版の自主製作に適した図書の探し方（水野光子）](kensaku.html)
 1. [日本国内の資料のうち、 障碍者向け資料が作られているものの割合（水野光子）](livres.html)
 1. [音質を考慮した録音製作（水野光子）](quality.html)
