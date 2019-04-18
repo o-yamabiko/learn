@@ -37,7 +37,7 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 {% assign subpage = site.pages | where: 'layout', 'caymanyomi' %}
 {% for item in subpage %}
-   {{ item.title }}
+1. [{{ item.title }}（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author}}）]({{ item.url }})
 {% endfor %}
 
 1. [音訳版の自主製作に適した図書の探し方（水野光子）](kensaku.html)
