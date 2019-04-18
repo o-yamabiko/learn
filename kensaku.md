@@ -3,12 +3,19 @@ layout: caymanyomi
 title: 自主製作に適した図書の探し方
 author: 水野光子
 date: 2019-04-18T11:59:32Z
-iro: c400b8
-gra: ffccfc
+iro: 003517
+gra: a9f7fe
 math: false
 ---
 
 # 自主製作に適した図書の探し方
+{:.no_toc}
+
+## 目次
+{:.no_toc}
+
+* TOC
+{:toc}
 
 ## 1. 自主製作を目指す分野を絞り込む
 
