@@ -1,6 +1,7 @@
 ---
 layout: caymanyomi
-docid: misc; kensaku
+docid: misc
+docid: kensaku
 title: 音訳版の自主製作に適した図書の探し方
 author: 水野光子
 date: 2019-04-18T11:59:32Z
