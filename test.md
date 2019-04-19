@@ -18,9 +18,8 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 {% assign subpage = (site.post | sort: 'date') | where: 'category', 'daisy' %}
 {% for item in subpage %}
-{{ item.title }}（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author }}）  
+1. {{ item.title }}（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author }}）  
 [画面で読む (html)](.{{ item.url }}) | [印刷する (pdf)](media{{ item.id }}.pdf)
-
 {% endfor %}
 
 ## 合成音声
@@ -32,24 +31,15 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 ## 研修・講演等の報告
 
-{% assign subpage = site.post | where: 'category', 'report' %}
-
+{% assign subpage = (site.post | sort: 'date') | reverse | where: 'category', 'report' %}
 {% for item in subpage %}
-1. [{{ item.title }}]({{ item.url }})（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author}}）
-{% endfor %}
-
-## test
-
-{% assign sorted = (site.post | sort: 'date') | reverse %}
-
-{% for item in sorted %}
 1. [{{ item.title }}]({{ item.url }})（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author}}）
 {% endfor %}
 
 ## その他
 
-{% assign subpage = (site.pages | sort: 'date') | reverse %}
+{% assign subpage = (site.post | sort: 'date') | reverse | where: 'category', 'misc' %}
 {% for item in subpage %}
-1. [{{ item.title }}]({{ item.url }})（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author}}）{{ item.id }}
+1. [{{ item.title }}]({{ item.url }})（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author}}）
 {% endfor %}
 
