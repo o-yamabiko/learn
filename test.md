@@ -33,9 +33,15 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 ## 研修・講演等の報告
 
 {% assign subpage = site.post | where: 'category', 'report' %}
-{% assign sorted = (subpage | sort: 'date') | reverse %}
 
 {% for item in subpage %}
+1. [{{ item.title }}]({{ item.url }})（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author}}）
+{% endfor %}
+
+
+{% assign sorted = (site.post | sort: 'date') | reverse %}
+
+{% for item in sorted %}
 1. [{{ item.title }}]({{ item.url }})（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author}}）
 {% endfor %}
 
