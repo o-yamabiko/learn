@@ -18,7 +18,8 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 {% assign subpage = (site.post | sort: 'date') | where: 'category', 'daisy' %}
 {% for item in subpage %}
-1. {{ item.title }}（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author }}）  
+1. {{ item.title }}  
+<span style="font-size:small;">（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author }}）</span>  
 [画面で読む (html)](.{{ item.url }}) | [印刷する (pdf)](media{{ item.id }}.pdf)
 {% endfor %}
 
@@ -26,20 +27,23 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 {% assign subpage = (site.post | sort: 'date') | reverse | where: 'category', 'ai' %}
 {% for item in subpage %}
-1. [{{ item.title }}]({{ item.url }})（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author}}）
+1. [{{ item.title }}]({{ item.url }})  
+<span style="font-size:small;">（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author }}）</span>
 {% endfor %}
 
 ## 研修・講演等の報告
 
 {% assign subpage = (site.post | sort: 'date') | reverse | where: 'category', 'report' %}
 {% for item in subpage %}
-1. [{{ item.title }}]({{ item.url }})（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author}}）
+1. [{{ item.title }}]({{ item.url }})  
+<span style="font-size:small;">（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author }}）</span>
 {% endfor %}
 
 ## その他
 
 {% assign subpage = (site.post | sort: 'date') | reverse | where: 'category', 'misc' %}
 {% for item in subpage %}
-1. [{{ item.title }}]({{ item.url }})（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author}}）
+1. [{{ item.title }}]({{ item.url }})  
+<span style="font-size:small;">（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author }}）</span>
 {% endfor %}
 
