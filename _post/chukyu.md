@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: caymanyomi
 category: report
 docid: chukyu
 title: 「平成29年度音訳者講習（中級研修）」受講報告
