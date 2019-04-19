@@ -27,7 +27,7 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 {% assign subpage = (site.post | sort: 'date') | reverse | where: 'category', 'ai' %}
 {% for item in subpage %}
-1. [{{ item.title }}]({{ item.url }})  
+1. [{{ item.title }}](.{{ item.url }})  
 <span style="font-size:small;">（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author }}）</span>
 {% endfor %}
 
@@ -35,7 +35,7 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 {% assign subpage = (site.post | sort: 'date') | reverse | where: 'category', 'report' %}
 {% for item in subpage %}
-1. [{{ item.title }}]({{ item.url }})  
+1. [{{ item.title }}](.{{ item.url }})  
 <span style="font-size:small;">（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author }}）</span>
 {% endfor %}
 
@@ -43,7 +43,7 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 {% assign subpage = (site.post | sort: 'date') | reverse | where: 'category', 'misc' %}
 {% for item in subpage %}
-1. [{{ item.title }}]({{ item.url }})  
+1. [{{ item.title }}](.{{ item.url }})  
 <span style="font-size:small;">（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author }}）</span>
 {% endfor %}
 
