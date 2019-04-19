@@ -2,6 +2,7 @@
 layout: print_noindex
 category: misc
 docid: languages
+title: やまびこホームページの多言語版
 author: 水野光子
 date: 2018-08-09T04:35:38Z
 ---

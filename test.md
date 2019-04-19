@@ -16,10 +16,10 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 ## デイジー作業手順
 
-{% assign subpage = (site.post | sort: 'date') | reverse | where: 'category', 'ai' %}
+{% assign subpage = (site.post | sort: 'date') | reverse | where: 'category', 'daisy' %}
 {% for item in subpage %}
 1. {{ item.title }}（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author}}）  
-[画面で読む (html)]({{ item.url }}) | [印刷する (pdf)](media/{{ item.docid }}.pdf)
+[画面で読む (html)]({{site.url}}{{ item.url }}) | [印刷する (pdf)](media/{{ item.id }}.pdf)
 {% endfor %}
 
 ## 合成音声
