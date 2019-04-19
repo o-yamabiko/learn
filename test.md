@@ -48,8 +48,8 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 
 ## その他
 
-{% assign subpage = (site.post | sort: 'date') | reverse | where: 'category', 'misc' %}
+{% assign subpage = (site.pages | sort: 'date') | reverse %}
 {% for item in subpage %}
-1. [{{ item.title }}]({{ item.url }})（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author}}）
+1. [{{ item.title }}]({{ item.url }})（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author}}）{{ item.id }}
 {% endfor %}
 
