@@ -35,7 +35,7 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 {% assign subpage = site.post | where: 'category', 'report' %}
 {% assign sorted = (subpage | sort: 'date') | reverse %}
 
-{% for item in sorted %}
+{% for item in subpage %}
 1. [{{ item.title }}]({{ item.url }})（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author}}）
 {% endfor %}
 
