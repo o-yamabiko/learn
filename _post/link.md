@@ -52,9 +52,9 @@ math: false
   法解釈・内容面の問い合わせ先として、文化庁著作権課著作権登録係（電話）03-5253-4111（内線2849）が案内されています。
 - [セミナー・シンポジウムなどについて | 文化庁](http://www.bunka.go.jp/seisaku/chosakuken/seminar/)  
   一般向けセミナーの実施計画のリストもあります。
-- [著作権法の一部を改正する法律（平成30年法律第30号）について | 文化庁](http://www.bunka.go.jp/seisaku/chosakuken/hokaisei/h30_hokaisei/)
-- [著作権 | 文化庁](http://www.bunka.go.jp/seisaku/chosakuken/index.html)
-- [著作権法 | 電子政府の総合窓口e-Gov イーガブ](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=345AC0000000048)
+- [著作権法の一部を改正する法律（平成30年法律第30号）について | 文化庁](http://www.bunka.go.jp/seisaku/chosakuken/hokaisei/h30_hokaisei/) 
+- [著作権 | 文化庁](http://www.bunka.go.jp/seisaku/chosakuken/index.html) 
+- [著作権法 | 電子政府の総合窓口e-Gov イーガブ](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=345AC0000000048) 
 
 
 ### 個人情報保護法
