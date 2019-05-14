@@ -94,7 +94,7 @@ math: false
 - [プレクストーク » PLEXTALK Producer｜シナノケンシ株式会社](http://www.plextalk.com/jp/products/producer/)  
   45000円＋税。
 
-### マルチメディアデイジー図書、テキストデイジー図書、音声デイジー図書の再生
+### デイジー図書の再生
 
 - [ChattyBooks （マルチメディアDAISY/EPUB3プレイヤー）｜サクセスネット（特定非営利活動法人サイエンス・アクセシビリティ・ネット）](https://www.sciaccess.net/jp/ChattyBooks/index.html)  
   Windowsで使えるデイジープレイヤーアプリ。  
