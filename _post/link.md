@@ -73,20 +73,19 @@ math: false
 
 金額は単体で割引の無い場合の購入価格です。
 
-### 音声デイジー版の作成
+### 音声デイジー図書の作成
 
 - [Obi: DAISY/Accessible EPUB 3 production tool | DAISY Consortium](http://www.daisy.org/project/obi)  
   無料。
 - [プレクストーク » PRS Pro｜シナノケンシ株式会社](http://www.plextalk.com/jp/products/prspro/)  
   18000円＋税。
 
-### マルチメディアデイジー版、テキストデイジー版、音声デイジー版、epub3（イーパブスリー）版の作成
+### マルチメディアデイジー図書、テキストデイジー図書、音声デイジー図書、epub3（イーパブスリー）図書の作成
 
 - [ChattyInfty｜サクセスネット（特定非営利活動法人サイエンス・アクセシビリティ・ネット）](https://www.sciaccess.net/jp/ChattyInfty/index.html)  
   45000円＋税。  
   基本的には合成音声によるデイジー版作成に利用。  
   フレーズを選択して人の声を録音する機能はありますが、フレーズ間の移動をしながら連続録音することはできません。 ただし、以下に挙げるTobiと併用すれば、フレーズ間の移動をしながら、簡単に人の声で連続録音することが可能です。
-
 
 以下の2つは文書編集機能がほとんど無いので、上記のChattyInftyやMicrosoft Wordなどの文書作成アプリを使って、まずepubやxmlなどの形式で文書を完成させ、それをインポートして録音を始めるとやりやすいです。
 
@@ -95,7 +94,7 @@ math: false
 - [プレクストーク » PLEXTALK Producer｜シナノケンシ株式会社](http://www.plextalk.com/jp/products/producer/)  
   45000円＋税。
 
-### マルチメディアデイジー、テキストデイジー、音声デイジー再生
+### マルチメディアデイジー図書、テキストデイジー図書、音声デイジー図書の再生
 
 - [ChattyBooks （マルチメディアDAISY/EPUB3プレイヤー）｜サクセスネット（特定非営利活動法人サイエンス・アクセシビリティ・ネット）](https://www.sciaccess.net/jp/ChattyBooks/index.html)  
   Windowsで使えるデイジープレイヤーアプリ。  
