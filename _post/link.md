@@ -6,7 +6,7 @@ title: 外部リンク集
 author: 水野光子
 date: 2019-05-14T14:24:00Z
 iro: ff1362
-gra: ddf4ff
+gra: fff3dd
 math: false
 ---
 
