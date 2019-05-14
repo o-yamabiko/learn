@@ -42,19 +42,19 @@ math: false
 
 ### 著作権法
 
-- [読み聞かせ著作権 | ガイドライン | 社団法人　日本書籍出版協会](http://www.jbpa.or.jp/guideline/readto.html)  
+- [読み聞かせ著作権｜ガイドライン｜社団法人　日本書籍出版協会](http://www.jbpa.or.jp/guideline/readto.html)  
   録音図書をイベントなどで一般向けに展示する場合には、原本著作権者の許可を得る必要があります。 リンク先には「著作物利用許可申請書」の書式ファイルもあります。
 - [講習会報告『「著作権法」と音訳者活動』 ─ もう一度、確認してみませんか ─-東京音訳グループ連絡会](http://blog.canpan.info/on89/archive/115)
   佐藤聖一講師による講演（2017-02-16、飯田橋セントラルプラザ）のレジュメ。  
   音訳グループやまびこから参加した受講者が講演内容を文字化しましたが、著作権者である講師の許可を得ていないのでここには載せません。 詳細は[音訳グループやまびこのウェブサイト管理者](mailto:ymbk2016ml@gmail.com?Subject=2017-02-16講演内容の文字化について)にお尋ねください。
-- [視覚障害者等のための複製・公衆送信が認められる者の一覧 | 一般社団法人 授業目的公衆送信補償金等管理協会](https://sartras.or.jp/dai37jyo/)  
+- [視覚障害者等のための複製・公衆送信が認められる者の一覧｜一般社団法人 授業目的公衆送信補償金等管理協会](https://sartras.or.jp/dai37jyo/)  
   音訳グループやまびこは、一覧の上から2番めに掲載されています。  
   法解釈・内容面の問い合わせ先として、文化庁著作権課著作権登録係（電話）03-5253-4111（内線2849）が案内されています。
-- [セミナー・シンポジウムなどについて | 文化庁](http://www.bunka.go.jp/seisaku/chosakuken/seminar/)  
-  一般向けセミナーの実施計画のリストもあります。
-- [著作権法の一部を改正する法律（平成30年法律第30号）について | 文化庁](http://www.bunka.go.jp/seisaku/chosakuken/hokaisei/h30_hokaisei/) 
-- [著作権 | 文化庁](http://www.bunka.go.jp/seisaku/chosakuken/index.html) 
-- [著作権法 | 電子政府の総合窓口e-Gov イーガブ](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=345AC0000000048) 
+- [セミナー・シンポジウムなどについて｜文化庁](http://www.bunka.go.jp/seisaku/chosakuken/seminar/)  
+  一般向けセミナーの実施計画のリストもあります。 
+- [著作権法の一部を改正する法律（平成30年法律第30号）について｜文化庁](http://www.bunka.go.jp/seisaku/chosakuken/hokaisei/h30_hokaisei/) 
+- [著作権｜文化庁](http://www.bunka.go.jp/seisaku/chosakuken/index.html) 
+- [著作権法｜電子政府の総合窓口e-Gov イーガブ](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=345AC0000000048) 
 
 
 ### 個人情報保護法
@@ -63,7 +63,7 @@ math: false
 
 - [個人情報保護（METI/経済産業省）](https://www.meti.go.jp/policy/it_policy/privacy/)より、特に以下の部分：
   - [「個人情報」の「取扱いのルール」が改正されます！（パンフレット）（PDF形式：19,330KB）](http://www.meti.go.jp/policy/it_policy/privacy/downloadfiles/01kaiseikojinjohopamphlet.pdf)
-- [法令･ガイドライン等 | 個人情報保護委員会](https://www.ppc.go.jp/personalinfo/legal/)より、特に以下の部分：
+- [法令･ガイドライン等｜個人情報保護委員会](https://www.ppc.go.jp/personalinfo/legal/)より、特に以下の部分：
   - [個人情報の保護に関する法律についてのガイドライン（通則編） (PDF : 592KB)](https://www.ppc.go.jp/files/pdf/190123_guidelines01.pdf)
   - [「個人情報の保護に関する法律についてのガイドライン」及び「個人データの漏えい等の事案が発生した場合等の対応について」に関するＱ＆Ａ (PDF : 1363KB)](https://www.ppc.go.jp/files/pdf/181225_APPI_QA.pdf)
   - 「お役立ちツール 中小企業向け」の「自己点検チェックリスト」
@@ -77,12 +77,12 @@ math: false
 
 - [Obi: DAISY/Accessible EPUB 3 production tool | DAISY Consortium](http://www.daisy.org/project/obi)  
   無料。
-- [プレクストーク » PRS Pro | シナノケンシ株式会社](http://www.plextalk.com/jp/products/prspro/)  
+- [プレクストーク » PRS Pro｜シナノケンシ株式会社](http://www.plextalk.com/jp/products/prspro/)  
   18000円＋税。
 
 ### マルチメディアデイジー版、テキストデイジー版、音声デイジー版、epub3（イーパブスリー）版の作成
 
-- [ChattyInfty | サクセスネット（特定非営利活動法人サイエンス・アクセシビリティ・ネット）](https://www.sciaccess.net/jp/ChattyInfty/index.html)  
+- [ChattyInfty｜サクセスネット（特定非営利活動法人サイエンス・アクセシビリティ・ネット）](https://www.sciaccess.net/jp/ChattyInfty/index.html)  
   45000円＋税。  
   基本的には合成音声によるデイジー版作成に利用。  
   フレーズを選択して人の声を録音する機能はありますが、フレーズ間の移動をしながら連続録音することはできません。 ただし、以下に挙げるTobiと併用すれば、フレーズ間の移動をしながら、簡単に人の声で連続録音することが可能です。
@@ -92,15 +92,15 @@ math: false
 
 - [Tobi: an authoring tool for DAISY and EPUB 3 talking books | DAISY Consortium](http://www.daisy.org/project/tobi)  
   無料。
-- [プレクストーク » PLEXTALK Producer | シナノケンシ株式会社](http://www.plextalk.com/jp/products/producer/)  
+- [プレクストーク » PLEXTALK Producer｜シナノケンシ株式会社](http://www.plextalk.com/jp/products/producer/)  
   45000円＋税。
 
 ### マルチメディアデイジー、テキストデイジー、音声デイジー再生
 
-- [ChattyBooks （マルチメディアDAISY/EPUB3プレイヤー） | サクセスネット（特定非営利活動法人サイエンス・アクセシビリティ・ネット）](https://www.sciaccess.net/jp/ChattyBooks/index.html)  
+- [ChattyBooks （マルチメディアDAISY/EPUB3プレイヤー）｜サクセスネット（特定非営利活動法人サイエンス・アクセシビリティ・ネット）](https://www.sciaccess.net/jp/ChattyBooks/index.html)  
   Windowsで使えるデイジープレイヤーアプリ。  
   非営利目的で利用する場合に限り無償。
-- [ChattyBooks Online Servce | サクセスネット（特定非営利活動法人サイエンス・アクセシビリティ・ネット）](https://chattybooks.sciaccess.net/)  
+- [ChattyBooks Online Servce｜サクセスネット（特定非営利活動法人サイエンス・アクセシビリティ・ネット）](https://chattybooks.sciaccess.net/)  
   iOSで使えるデイジープレイヤーアプリ。  
   非営利目的で利用する場合に限り無償。
 - [Kota Daisy Reader – Google Play](https://play.google.com/store/apps/details?id=com.daisy.reader)  
@@ -112,10 +112,10 @@ math: false
 
 ### OCR （オーシーアール、 optical character recognition / reader）
 
-- [文字認識・OCRソフト | e.Typist v.15.0 （株式会社NTTデータNJK）](https://mediadrive.jp/products/et/index.html)  
+- [文字認識・OCRソフト｜e.Typist v.15.0 （株式会社NTTデータNJK）](https://mediadrive.jp/products/et/index.html)  
   58カ国語版 19800円＋税。  
   日英のみ版 12190円＋税。
-- [日本語・英語活字カラーOCRソフト「読取革命Ver.15」 | パナソニック ソリューションテクノロジー株式会社 | Panasonic](https://www.panasonic.com/jp/company/pstc/products/yomikaku.html)  
+- [日本語・英語活字カラーOCRソフト「読取革命Ver.15」｜パナソニック ソリューションテクノロジー株式会社｜Panasonic](https://www.panasonic.com/jp/company/pstc/products/yomikaku.html)  
   12190円＋税。
 
 試用報告については[日本語 OCR のお試し版比較](https://o-yamabiko.github.io/learn/ocr.html)をご参照ください。
