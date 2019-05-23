@@ -18,7 +18,7 @@ math: false
 
 以下のグラフをクリックするとpdf形式のグラフをダウンロードできる。
 
-<a href="media/bibliotheques/bibliotheques.pdf"><img src="media/bibliotheques/bibliotheques.png" alt="グラフ：東京都23区の区立図書館のデイジー版アップロード状況" srcset="media/bibliotheques/bibliotheques.svg" class="naka" /></a>
+<a href="media/bibliotheques/bibliotheques.pdf"><img src="media/bibliotheques/bibliotheques.png" alt="グラフ：東京都23区の区立図書館のデイジー版アップロード状況" srcset="media/bibliotheques/bibliotheques.svg" class="fullw" /></a>
 
 グラフの各項目の内訳は以下の通り。
 
