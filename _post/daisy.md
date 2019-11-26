@@ -154,9 +154,7 @@ DAISY 2002 や DAISY 3 の仕様は DAISY 2.02 と大きく異なるため、録
 
 Bの配布用のフレームワークについては、 DAISY Consortium の2010年10月の役員会で、独自の開発をやめることが決まった[^planet2010]。 International Digital Publishing Forum （IDPF, 国際デジタル出版フォーラム）が開発中の電子書籍の規格 EPUB 3 （2011年10月に正式に勧告）が DAISYのための要求をすべて満たすことがわかったからである。
 
-[^planet2010]: "From The Editor" in [Planet 2010-10 - DAISY Consortium](https://web.archive.org/web/20170705172803/http://www.daisy.org/planet-2010-10)
-: "DAISY = Accessibility, Will EPUB3 = Accessibility?" in [Planet 2010-11 - DAISY Consortium](https://web.archive.org/web/20181109153300/http://www.daisy.org/planet-2010-11)
-: "DAISY 4/EPUB3: What Does It All Mean?" in [Planet 2010-12 - DAISY Consortium](https://web.archive.org/web/20190513231151/http://www.daisy.org/planet-2010-12)
+[^planet2010]: "From The Editor" in [Planet 2010-10 - DAISY Consortium](https://web.archive.org/web/20170705172803/http://www.daisy.org/planet-2010-10) <br /> "DAISY = Accessibility, Will EPUB3 = Accessibility?" in [Planet 2010-11 - DAISY Consortium](https://web.archive.org/web/20181109153300/http://www.daisy.org/planet-2010-11) <br /> "DAISY 4/EPUB3: What Does It All Mean?" in [Planet 2010-12 - DAISY Consortium](https://web.archive.org/web/20190513231151/http://www.daisy.org/planet-2010-12)
 
 
 ここで注意すべきなのは、 EPUB 3 規格が DAISY の要求する機能をすべて含んでいるからと言って、 EPUB 3 に準拠すれば必ずアクセシブルな書籍になるとは限らないということだ。
