@@ -61,7 +61,7 @@ DAISYプロジェクトは、コンピュータで扱える形式で録音図書
 - しおりを挟むことができ、各しおりを検索できるようにする。
 - 録音図書の文中に下線を引いたりメモを書き込んだりできるようにする。
 
-その成果として1994年、オーストリアのウィーンでInternational Conference on Computers for Handicapped Persons (ICCHP, 障害者のためのコンピュータに関する国際会議) が開かれた際に、DAISYプロジェクトが紹介され、その中で開発された Windows 用のDAISY再生機のプロトタイプが発表された[^icchp1994]。
+その成果として1994年、オーストリアのウィーンで International Conference on Computers for Handicapped Persons (ICCHP, 障害者のためのコンピュータに関する国際会議) が開かれた際に、DAISYプロジェクトが紹介され、その中で開発された Windows 用のDAISY再生機のプロトタイプが発表された[^icchp1994]。
 
 [^icchp1994]: [Kjell Hansson, Lars Sönnebo, Jan Lindholm: Digital Talking Books - A Report from a Practical, Ongoing Project. in <i>dblp: Computers for Handicapped Persons, 4th International Conference, ICCHP'94, Vienna, Austria, September 14-16, 1994, Proceedings.</i> pp. 262-268.](https://dblp.org/rec/html/conf/icchp/1994)
 
@@ -72,7 +72,7 @@ DAISYのような情報システムの開発はスウェーデン以外でも関
 文献の相互利用をする可能性を考えれば、各国で独自の情報システムを開発するよりも、DAISYに使われる技術の工業規格を作り、それを世界共通で利用できるようにするほうが良い。
 
 1995年、 SLB/IFLA のメンバー有志がカナダのトロントに集まってデジタル録音図書に関連する技術について意見交換をした[^kawamura2006]。
-その際に、1990年台初頭から支援技術製品の開発を始めていた日本のシナノケンシ株式会社が[^plextalk]、録音図書CD再生機のアイディアについてスウェーデンのDAISY開発スタッフと話す機会もあった[^history]。
+その際に、1990年台初頭から支援技術製品の開発を始めていた日本のシナノケンシ株式会社が[^plextalk]、録音図書CD再生機のアイディアについてスウェーデンのDAISY開発スタッフと交流する機会もあった[^history]。
 この会議の結論として、 Labyrinten Data AB やシナノケンシ株式会社にも協力を要請し、デジタル録音図書の国際規格を開発しようという結論が出た。
 
 [^kawamura2006]: [Hiroshi Kawamura: DAISY, a better way to read, a better way to publish - a contribution of libraries serving persons with print disabilities. in <i>Programme and Proceedings - IFLA/WLIC Seoul, Korea, 2006.</i>](https://archive.ifla.org/IV/ifla72/Programme2006.htm)
