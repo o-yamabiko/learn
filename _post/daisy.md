@@ -172,7 +172,12 @@ Aの書籍の作成・図書館間の相互交換用のフレームワークに�
 
 現在のところ、 EPUB 3 規格は、書籍の販売や閲覧環境も含めて広く利用され、成功を納めている。ただし、その書籍の多くはアクセシビリティを考慮しない作りのまま流通している。多くの出版社が Ace by DAISY を利用するようになれば、この状況が改善されていくだろう。
 
-ZedAI は、初版が勧告されてから7年も経った。DAISYコンソーシアムが開発しているツール DAISY Pipeline 2 は ZedAI といくつかの形式間の変換に対応しているが[^dp2]、 ZedAI 自体がメインに利用されて各種書籍が続々と作成されるまでには、至っていないように見受けられる。
+ZedAI は、初版が勧告されてから7年経った。
+ZedAI を適用した点字用フォーマットの解説も出版された[^braillexml]。
+DAISYコンソーシアムが開発しているツール DAISY Pipeline 2 は ZedAI といくつかの形式間の変換に対応している[^dp2]。
+しかし、 ZedAI 自体がメインに利用されて各種書籍が続々と作成されるまでには至っていないように見受けられる。
+
+[^braillexml]: [XML-Based Formats and Tools to Produce Braille Documents | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-642-31522-0_75)
 
 [^dp2]: [Command Line](https://daisy.github.io/pipeline/Get-Help/User-Guide/Command-Line/)
 
