@@ -126,7 +126,7 @@ DAISY 2.02 [^daisy202] とそれ以降のバージョンの仕様は、録音図
 
 このように、2001年以降のDAISYは "Audio-based" 「音声を基盤とする」という表現に収まりきらない情報システムになってきたので、 DAISYコンソーシアムの2001年11月の役員会で、DAISYの正式名称を **Digital Accessible Information SYstem** （デジタルでアクセシブルな情報システム）に変更することが決まった[^planet200812]。
 
-[^planet200812]: "Dear DAISY" in [Planet 2008-12 | DAISY Consortium](https://web.archive.org/web/20170705161836/http://www.daisy.org/planet-2008-12)
+[^planet200812]: "Dear DAISY" in [Planet 2008-12 - DAISY Consortium](https://web.archive.org/web/20170705161836/http://www.daisy.org/planet-2008-12)
 
 ### DAISY 2002, DAISY 3
 
