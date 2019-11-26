@@ -112,7 +112,7 @@ DAISY 2.02 [^daisy202] とそれ以降のバージョンの仕様は、録音図
 
 [^daisy202]: [DAISY 2 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/daisy-2/)
 
-[^typeofdtb]: 1.3 Types of DTB in [DAISY Format 2.02 Specification - The DAISY Consortium](https://daisy.org/activities/standards/daisy/daisy-2/daisy-format-2-02-specification/)
+[^typeofdtb]: "1.3 Types of DTB" in [DAISY Format 2.02 Specification - The DAISY Consortium](https://daisy.org/activities/standards/daisy/daisy-2/daisy-format-2-02-specification/)
 
 
 1. 書籍全体は音声データであり、タイトルだけは文字データも付いている形式。目次の検索などはできない。
