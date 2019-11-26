@@ -1,7 +1,7 @@
 ---
 layout: caymanyomi
-category: daisy
-docid: misc
+category: misc
+docid: daisy
 title: DAISYとは
 author: 水野光子
 date: 2019-11-26T12:20:32Z
