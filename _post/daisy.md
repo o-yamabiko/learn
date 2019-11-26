@@ -13,7 +13,7 @@ math: true
 # DAISYとは
 {:.no_toc}
 
-[このページの内容を要約したpdfファイルがあります。](/learn/media/daisy20191125.pdf)
+[このページの内容を要約したpdfファイルがあります。](/learn/media/daisy/daisy20191125.pdf)
 
 ## 目次
 {:.no_toc}
