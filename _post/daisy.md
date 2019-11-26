@@ -7,6 +7,7 @@ author: 水野光子
 date: 2019-11-26T12:20:32Z
 iro: 21358b
 gra: a0aad6
+pdf: daisy20191125.pdf
 math: true
 ---
 
