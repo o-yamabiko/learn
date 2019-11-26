@@ -140,7 +140,7 @@ DAISY 2.02 との大きな違いは、より新しい W3C の規格に適合す�
 
 DAISY 2002 や DAISY 3 の仕様は DAISY 2.02 と大きく異なるため、録音図書の作成・再生環境を新たに対応させる必要がある。再生環境は DAISY 3 に対応したものがすでに多くの種類作られている[^kzakzadaisyepub]。また、マルチメディアデイジー図書作成環境も DAISY 3 に対応している。しかし、音声デイジー図書作成環境については、日本で普及している PLEXTALK 製品 (DR-1 や PRS Pro) が DAISY 3 に対応していない。
 
-### DAISYの未来
+### ZedAI と EPUB 3
 
 その後、書籍の作成側と利用側とで必要な機能が異なることから、両方の機能を合わせ持つ仕様を開発するのは困難であると認識されるようになり、2009年6月以降は以下の2つのフレームワークに分けて開発されることになった[^planet200906]。
 
@@ -167,6 +167,26 @@ Bの配布用のフレームワークについては、 DAISY Consortium の2010
 Aの書籍の作成・図書館間の相互交換用のフレームワークについては、2012年7月に DAISYコンソーシアムとNISO が共同で ANSI/NISO Z39.98-2012, Authoring and Interchange Framework for Adaptive XML Publishing Specification （通称 ZedAI、適応型XML出版のための書籍作成と相互交換のフレームワークの仕様） を勧告した[^zedai]。 EPUB 3 は、 ZedAI に従う形式から変換して得られるいろいろな配布用形式のうちの一つになっている。
 
 [^zedai]: [Z39.98-2012 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/z39-98-2012/)
+
+## DAISYの未来
+
+現在のところ、 EPUB 3 規格は、書籍の販売や閲覧環境も含めて広く利用され、成功を納めている。ただし、その書籍の多くはアクセシビリティを考慮しない作りのまま流通している。多くの出版社が Ace by DAISY を利用するようになれば、この状況が改善されていくだろう。
+
+ZedAI は、初版が勧告されてから7年も経った。DAISYコンソーシアムが開発しているツール DAISY Pipeline 2 は ZedAI といくつかの形式間の変換に対応しているが[^dp2]、 ZedAI 自体がメインに利用されて各種書籍が続々と作成されるまでには、至っていないように見受けられる。
+
+[^dp2]: [Command Line](https://daisy.github.io/pipeline/Get-Help/User-Guide/Command-Line/)
+
+ZedAI は XMLエディタさえあれば対応可能な規格ではあるが、録音操作のできるDAISYアプリ Tobi [^tobi] のような既存のアプリと連携し、それらを統合するような、使いやすいGUIを持つ ZedAI 書籍作成アプリは開発されていないようだ。
+
+[^tobi]: [Tobi - The DAISY Consortium](https://daisy.org/info-help/guidance-training/tags/tobi/)
+
+DAISYコンソーシアムは、あまり熱心に ZedAI を広めようとしていないのかもしれない。2015年頃までは存在していたらしい ZedAI の wiki も消され、代わりになるようなサイトも見つからない[^zportal]。
+
+[^zportal]: [ZedAI UserPortal - zedwiki](https://web.archive.org/web/20150426003353/http://www.daisy.org/zw/Main_Page)
+
+DAISYコンソーシアムの活動は、書籍作成側の規格 ZedAI を利用することよりも、 EPUB 3 というすでに広く利用されている電子書籍のアクセシビリティを強化する方向へシフトしているようである。
+
+ZedAI は忘れ去られる運命なのかもしれないが、もし広く運用されるならば、以下のような利用方法が考えられる。
 
 各図書館は、 ZedAI に従う図書を作成・保管しておけば、必要に応じて録音図書や点字図書などに変換して配布できる。図書館間で書籍の相互利用をするためには、 ZedAIに従うデータを送信し、それを受け取った図書館が利用者にとって最適な配布データに変換すれば良い。
 
