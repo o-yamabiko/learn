@@ -152,14 +152,14 @@ DAISY 2002 や DAISY 3 の仕様は DAISY 2.02 と大きく異なるため、録
 <li> 利用者のニーズに合わせて変換した後の、配布用のフレームワーク</li>
 </ol>
 
-Bの配布用のフレームワークについては、 DAISY Consortium の2010年10月の役員会で、独自の開発をやめることが決まった[^planet2010]。 International Digital Publishing Forum （IDPF, 国際デジタル出版フォーラム）が開発中の電子書籍の規格 EPUB 3 （2011年10月に正式に勧告）が DAISYのための要求をすべて満たすことがわかったからである。
+Bの配布用のフレームワークについては、 DAISYコンソーシアム の2010年10月の役員会で、独自の開発をやめることが決まった[^planet2010]。 International Digital Publishing Forum （IDPF, 国際デジタル出版フォーラム）が開発中の電子書籍の規格 EPUB 3 （2011年10月に正式に勧告）が DAISYのための要求をすべて満たすことがわかったからである。
 
 [^planet2010]: "From The Editor" in [Planet 2010-10 - DAISY Consortium](https://web.archive.org/web/20170705172803/http://www.daisy.org/planet-2010-10) <br /> "DAISY = Accessibility, Will EPUB3 = Accessibility?" in [Planet 2010-11 - DAISY Consortium](https://web.archive.org/web/20181109153300/http://www.daisy.org/planet-2010-11) <br /> "DAISY 4/EPUB3: What Does It All Mean?" in [Planet 2010-12 - DAISY Consortium](https://web.archive.org/web/20190513231151/http://www.daisy.org/planet-2010-12)
 
 
 ここで注意すべきなのは、 EPUB 3 規格が DAISY の要求する機能をすべて含んでいるからと言って、 EPUB 3 に準拠すれば必ずアクセシブルな書籍になるとは限らないということだ。
 
-そのため DAISY Consortium は2018年に、 EPUB 3 に準拠する形式で製作した書籍がアクセシブルであるかをチェックするためのアプリ「Ace by DAISY」を開発し、2019年にはそのGUI版も作った。このアプリの開発に対して、 DAISY Consortium は2019年 Digital Book World, Outstanding Achievement Award （電子書籍ワールド、傑出した業績賞）を受賞している[^dbw2019]。
+そのため DAISYコンソーシアム は2018年に、 EPUB 3 に準拠する形式で製作した書籍がアクセシブルであるかをチェックするためのアプリ「Ace by DAISY」を開発し、2019年にはそのGUI版も作った。このアプリの開発に対して、 DAISYコンソーシアム は2019年 Digital Book World, Outstanding Achievement Award （電子書籍ワールド、傑出した業績賞）を受賞している[^dbw2019]。
 
 [^dbw2019]: [Digital Book World Awards 2019 - The DAISY Consortium](https://daisy.org/news-events/news/digital-book-world-awards-2019/)
 
