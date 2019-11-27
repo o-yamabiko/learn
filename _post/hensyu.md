@@ -4,7 +4,7 @@ category: daisy
 docid: hensyu
 title: デイジー編集作業手順
 author: 水野光子
-date: 2018-11-21T12:20:32Z
+date: 2019-11-27T23:09:32Z
 iro: 0b8f7b
 gra: d6fcf7
 pdf: hensyu.pdf
