@@ -72,8 +72,8 @@ DAISYのような情報システムの開発はスウェーデン以外でも関
 文献の相互利用をする可能性を考えれば、各国で独自の情報システムを開発するよりも、DAISYに使われる技術の工業規格を作り、それを世界共通で利用できるようにするほうが良い。
 
 1995年、 SLB/IFLA のメンバー有志がカナダのトロントに集まってデジタル録音図書に関連する技術について意見交換をした[^kawamura2006]。
-その際に、1990年台初頭から支援技術製品の開発を始めていた日本のシナノケンシ株式会社が[^plextalk]、録音図書CD再生機のアイディアについてスウェーデンのDAISY開発スタッフと交流する機会もあった[^history]。
-この会議の結論として、 Labyrinten Data AB やシナノケンシ株式会社にも協力を要請し、デジタル録音図書の国際規格を開発しようという結論が出た。
+その際に、1990年台初頭から支援技術製品の開発を始めていた日本のシナノケンシ株式会社が[^plextalk]、録音図書CD再生機のアイディアについてスウェーデンのDAISY開発スタッフと話し合う機会もあった[^history]。
+この会議の結論として、 Labyrinten Data AB やシナノケンシ株式会社にも協力を要請し、デジタル録音図書の国際規格を開発しようということになった。
 
 [^kawamura2006]: [Hiroshi Kawamura: DAISY, a better way to read, a better way to publish - a contribution of libraries serving persons with print disabilities. in <i>Programme and Proceedings - IFLA/WLIC Seoul, Korea, 2006.</i>](https://archive.ifla.org/IV/ifla72/Programme2006.htm)
 
