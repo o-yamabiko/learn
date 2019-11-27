@@ -164,7 +164,7 @@ Bの配布用のフレームワークについては、 DAISY Consortium の2010
 [^dbw2019]: [Digital Book World Awards 2019 - The DAISY Consortium](https://daisy.org/news-events/news/digital-book-world-awards-2019/)
 
 
-Aの書籍の作成・図書館間の相互交換用のフレームワークについては、2012年7月に DAISYコンソーシアムとNISO が共同で ANSI/NISO Z39.98-2012, Authoring and Interchange Framework for Adaptive XML Publishing Specification （通称 ZedAI、適応型XML出版のための書籍作成と相互交換のフレームワークの仕様） を勧告した[^zedai]。 EPUB 3 は、 ZedAI に従う形式から変換して得られるいろいろな配布用形式のうちの一つになっている。
+Aの書籍の作成・図書館間の相互交換用のフレームワークについては、2012年7月に DAISYコンソーシアムとNISO が共同で ANSI/NISO Z39.98-2012, Authoring and Interchange Framework for Adaptive XML Publishing Specification （通称 <ruby>ZedAI<rt>ゼッド エイアイ</rt></ruby>、適応型XML出版のための書籍作成と相互交換のフレームワークの仕様） を勧告した[^zedai]。 EPUB 3 は、 ZedAI に従う形式から変換して得られるいろいろな配布用形式のうちの一つになっている。
 
 [^zedai]: [Z39.98-2012 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/z39-98-2012/)
 
