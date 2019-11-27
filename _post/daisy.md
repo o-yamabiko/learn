@@ -177,7 +177,7 @@ ZedAI を適用した点字用フォーマットの解説も出版された[^bra
 DAISYコンソーシアムが開発しているツール DAISY Pipeline 2 は ZedAI といくつかの形式間の変換に対応している[^dp2]。
 しかし、 ZedAI 自体がメインに利用されて各種書籍が続々と作成されるまでには至っていないように見受けられる。
 
-[^braillexml]: [XML-Based Formats and Tools to Produce Braille Documents | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-642-31522-0_75)
+[^braillexml]: [XML-Based Formats and Tools to Produce Braille Documents - SpringerLink](https://link.springer.com/chapter/10.1007/978-3-642-31522-0_75)
 
 [^dp2]: [Command Line](https://daisy.github.io/pipeline/Get-Help/User-Guide/Command-Line/)
 
