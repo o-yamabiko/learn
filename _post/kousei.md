@@ -4,11 +4,11 @@ category: daisy
 docid: kousei
 title: パソコンで校正する場合の作業手順
 author: 三島惠、機械操作については水野光子
-date: 2018-11-21T12:20:32Z
+date: 2019-11-27T23:34:32Z
 iro: 0b4990
 gra: d6e7fb
 pdf: kousei.pdf
-version: 1
+version: 1.1
 ---
 
 # パソコンで校正する場合の作業手順
@@ -31,7 +31,7 @@ version: 1
 
 1. 原本
 2. USBメモリまたはCFカード
-3. DAISY音訳表
+3. DAISY音訳票
 4. 調査票
 5. その他（写真説明原稿等）
 
