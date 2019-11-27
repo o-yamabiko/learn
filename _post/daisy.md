@@ -181,7 +181,8 @@ DAISYコンソーシアムが開発しているツール DAISY Pipeline 2 は Ze
 
 [^dp2]: [Command Line](https://daisy.github.io/pipeline/Get-Help/User-Guide/Command-Line/)
 
-ZedAI は XMLエディタさえあれば対応可能な規格ではあるが、録音操作のできるDAISYアプリ Tobi [^tobi] のような既存のアプリと連携し、それらを統合するような、使いやすいGUIを持つ ZedAI 書籍作成アプリは開発されていないようだ。
+ZedAI は XMLエディタさえあれば対応可能な規格ではあるが、録音操作のできるDAISYアプリ Tobi [^tobi] のような既存のアプリと連携し、それらを統合するような、使いやすいGUIを持つ ZedAI 書籍作成アプリがあれば、より多くの人が簡単に ZedAI 書籍を作成できるようになるだろう。
+しかし、そのようなアプリを開発しているという情報は見つからない。
 
 [^tobi]: [Tobi - The DAISY Consortium](https://daisy.org/info-help/guidance-training/tags/tobi/)
 
