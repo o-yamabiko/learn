@@ -81,7 +81,18 @@ math: false
 - [DAISYの種類とバージョン 2019年更新版 | kzakza](https://code.kzakza.com/2019/05/daisy-primer2019/)  
   個人の責任で書かれていますが、DAISY規格について検索して見つかる日本語での説明として、最も正確で包括的な記事。リンク先のページ上部の「Archives」リンクをたどると、この著者による他の記事も読めます。  
   上記サイト以外の、インターネット上で見つかるDAISYについての日本語情報は、団体等のウェブサイトを含め、読者に誤解を与えるような不正確かつ断片的な内容のものが多いです（2019年12月4日現在）。[（検索しても見つからないけれども正確なはずの記事は、やまびこ会員用に書きました。）](https://o-yamabiko.github.io/learn/daisy.html)
-
+- デイジー規格とその日本語訳
+  - [DAISY 2 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/daisy-2/)
+    - [DAISY 2.02 の日本語訳（訳者：kzakza）](https://code.kzakza.com/2014/06/daisy_202_jpn/)
+  - [DAISY 3 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/daisy-3/)
+    - [DAISY 3 の日本語訳（訳者：kzakza）](https://code.kzakza.com/2015/11/ansi_niso_z3986_jpn/)
+  - [Z39.98-2012 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/z39-98-2012/)
+    - [Z39.98-2012 の 1.3 Overview のみの日本語訳（訳者：kzakza）](https://code.kzakza.com/2012/08/ansiniso-z39-98-2012-overview-jp/)
+  - [EPUB 3.2](https://www.w3.org/publishing/epub3/epub-spec.html)  
+    [EPUB Accessibility 1.0](https://www.w3.org/Submission/epub-a11y/)  
+    [EPUB Accessibility Techniques 1.0](http://idpf.org/epub/a11y/techniques/techniques.html)  
+    [EPUB Accessibility Frequently Asked Questions](https://idpf.github.io/epub-guides/a11y-faq/)
+    - [EPUB 仕様書（EPUB 3.2, EPUB 3.0, EPUB 3.0.1, EPUB 3.1）および関連文書の日本語訳 （訳者：Wataru Yoshimura）](http://imagedrive.github.io/spec/index.html)
 
 ## ソフトウェア
 
@@ -142,11 +153,6 @@ math: false
   録音で音が小さすぎる部分を適正な音量に揃えたり、無音の追加や削除をしたりできます。  
   ChattyInfty で人の声を録音する際にも利用できます。
 
-## DAISY （デイジー、Digital Accessible Information SYstem）規格
-
-- [Daisy 2.02 仕様書](http://www.daisy.org/z3986/specifications/daisy_202.html)
-  - [正誤表](http://www.daisy.org/z3986/specifications/errataDaisy_202.html)
-- [DAISY Consortium （デイジー協会）](http://www.daisy.org/)
 
 ## 東京都北区が録音制作会社に外注している音声版広報
 
