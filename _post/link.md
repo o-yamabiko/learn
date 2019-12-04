@@ -81,7 +81,7 @@ math: false
 - [DAISYの種類とバージョン 2019年更新版 | kzakza](https://code.kzakza.com/2019/05/daisy-primer2019/)  
   個人の責任で書かれていますが、DAISY規格について検索して見つかる日本語での説明として、最も正確で包括的な記事。リンク先のページ上部の「Archives」リンクをたどると、この著者による他の記事も読めます。  
   上記サイト以外の、インターネット上で見つかるDAISYについての日本語情報は、団体等のウェブサイトを含め、読者に誤解を与えるような不正確かつ断片的な内容のものが多いです（2019年12月4日現在）。[（やまびこ会員用に書いた記事があり、比較的正確な内容のはずですが、やまびこの他の学習資料と同様に、検索しても見つからないようにしてあります。）](https://o-yamabiko.github.io/learn/daisy.html)
-- デイジー規格とその日本語訳
+- DAISY規格とその日本語訳
   - [DAISY 2 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/daisy-2/)
     - [DAISY 2.02 の日本語訳（訳者：kzakza）](https://code.kzakza.com/2014/06/daisy_202_jpn/)
   - [DAISY 3 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/daisy-3/)
