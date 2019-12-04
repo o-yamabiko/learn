@@ -4,7 +4,7 @@ category: misc
 docid: link
 title: 外部リンク集
 author: 水野光子
-date: 2019-05-14T14:24:00Z
+date: 2019-12-04T15:49:00Z
 iro: ff1362
 gra: fff3dd
 math: false
@@ -55,6 +55,8 @@ math: false
 - [著作権法の一部を改正する法律（平成30年法律第30号）について｜文化庁](http://www.bunka.go.jp/seisaku/chosakuken/hokaisei/h30_hokaisei/) 
 - [著作権｜文化庁](http://www.bunka.go.jp/seisaku/chosakuken/index.html) 
 - [著作権法｜電子政府の総合窓口e-Gov イーガブ](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=345AC0000000048) 
+- [図書館の障害者サービスにおける著作権法第37条第3項に基づく 著作物の複製等に関するガイドライン](https://www.jla.or.jp/portals/0/html/20100218.html)  
+  「著作権法第37条第3項ただし書」に該当するかどうかについて、日本図書館協会等の解釈による具体的な判断方法が書かれています。
 
 
 ### 個人情報保護法
@@ -67,6 +69,18 @@ math: false
   - [個人情報の保護に関する法律についてのガイドライン（通則編） (PDF : 592KB)](https://www.ppc.go.jp/files/pdf/190123_guidelines01.pdf)
   - [「個人情報の保護に関する法律についてのガイドライン」及び「個人データの漏えい等の事案が発生した場合等の対応について」に関するＱ＆Ａ (PDF : 1363KB)](https://www.ppc.go.jp/files/pdf/181225_APPI_QA.pdf)
   - 「お役立ちツール 中小企業向け」の「自己点検チェックリスト」
+
+
+## DAISY形式についての規格や指針
+
+- [「録音（DAISY）資料製作に関する全国基準」](https://www.jla.or.jp/portals/0/html/lsh/zenkokukijyun.html)  
+  やまびこから図書館に納品する録音図書は、原則としてこの基準に従っています。  
+  細かい点でやまびことして決めた基準もあり、それは[音訳グループやまびこ 学習資料集 目次 | learn](https://o-yamabiko.github.io/learn/)の「デイジー作業手順」の中におおかた盛り込まれています。今後もやまびこ会員の話し合いによって柔軟に改定されていく可能性があります。
+- [学術文献録音図書の製作｜国立国会図書館―National Diet Library](https://www.ndl.go.jp/jp/library/supportvisual/supportvisual-02.html)  
+  項目「7 学術文献を原本とした視覚障害者等用資料・データの製作仕様」に、国立国会図書館の責任で製作される音声デイジー、テキストデータ、EPUB、図表の代替テキストなどの仕様が説明されています。やまびこで製作するものをこの通りに作る必要はありませんが、困ったときの参考にはなるかもしれません。
+- [DAISYの種類とバージョン 2019年更新版 | kzakza](https://code.kzakza.com/2019/05/daisy-primer2019/)  
+  個人の責任で書かれていますが、DAISY規格について検索して見つかる日本語での説明として、最も正確で包括的な記事。リンク先のページ上部の「Archives」リンクをたどると、この著者による他の記事も読めます。  
+  上記サイト以外の、インターネット上で見つかるDAISYについての日本語情報は、団体等のウェブサイトを含め、読者に誤解を与えるような不正確かつ断片的な内容のものが多いです（2019年12月4日現在）。[（検索しても見つからないけれども正確なはずの記事は、やまびこ会員用に書きました。）](https://o-yamabiko.github.io/learn/daisy.html)
 
 
 ## ソフトウェア
