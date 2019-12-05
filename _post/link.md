@@ -119,9 +119,11 @@ math: false
   無料。
 - [プレクストーク » PLEXTALK Producer｜シナノケンシ株式会社](http://www.plextalk.com/jp/products/producer/)  
   45000円＋税。
+
+以下は、作成したEPUB3書籍がアクセシブルであるかどうかをチェックするアプリです。
+
 - [The Ace App | Ace, by DAISY](https://daisy.github.io/ace/getting-started/ace-app/)  
-  無料。  
-  作成したEPUB3書籍がアクセシブルであるかどうかをチェックするアプリ。
+  無料。
 
 ### デイジー図書の再生
 
