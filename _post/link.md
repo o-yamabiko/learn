@@ -75,7 +75,7 @@ math: false
 
 - [「録音（DAISY）資料製作に関する全国基準」](https://www.jla.or.jp/portals/0/html/lsh/zenkokukijyun.html)  
   やまびこから図書館に納品する録音図書は、原則としてこの基準に従っています。  
-  細かい点でやまびことして決めた基準もあり、それは[音訳グループやまびこ 学習資料集 目次 | learn](https://o-yamabiko.github.io/learn/)の「デイジー作業手順」の中におおかた盛り込まれています。今後もやまびこ会員の話し合いによって柔軟に改定されていく可能性があります。
+  細かい点でやまびことして決めた基準もあり、それは[「音訳グループやまびこ 学習資料集」](https://o-yamabiko.github.io/learn/)の「デイジー作業手順」の中におおかた盛り込まれています。今後もやまびこ会員の話し合いによって柔軟に改定されていく可能性があります。
 - [学術文献録音図書の製作｜国立国会図書館―National Diet Library](https://www.ndl.go.jp/jp/library/supportvisual/supportvisual-02.html)  
   項目「7 学術文献を原本とした視覚障害者等用資料・データの製作仕様」に、国立国会図書館の責任で製作される音声デイジー、テキストデータ、EPUB、図表の代替テキストなどの仕様が説明されています。やまびこで製作するものをこの通りに作る必要はありませんが、困ったときの参考にはなるかもしれません。
 - [DAISYの種類とバージョン 2019年更新版 | kzakza](https://code.kzakza.com/2019/05/daisy-primer2019/)  
