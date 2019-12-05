@@ -136,7 +136,7 @@ DAISY 2.02 より後のバージョンは、 DAISYコンソーシアムとアメ
 
 [^daisy3]: [DAISY 3 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/daisy-3/)
 
-DAISY 2.02 との大きな違いは、マルチメディアの技術的処理のために、よりふさわしい W3C の規格に適合するようにファイルの内容や構造を刷新したことである[^2002appendix1]。
+DAISY 2.02 との大きな違いは、文書の構造をより明確に指定できマルチメディアの技術的処理にもふさわしい W3C の規格に適合するように、ファイルの内容や構造を刷新したことである[^2002appendix1]。また、再生機が UTF-8 と UTF-16 の文字エンコーディングに対応するよう義務付けたことは、DAISY図書の国際的な相互利用のための大きな前進と言えるだろう。
 
 [^2002appendix1]: "Appendix 1 – DTBook DTD" of [DAISY ANSI/NISO Z39.86-2002 - The DAISY Consortium](https://daisy.org/info-help/document-archive/archived-projects/daisy-ansi-niso-z39-86-2002-archived/)
 
