@@ -4,7 +4,7 @@ category: misc
 docid: daisy
 title: DAISYとは
 author: 水野光子
-date: 2019-11-26T12:20:32Z
+date: 2019-12-05T00:20:32Z
 iro: 21358b
 gra: a0aad6
 math: true
@@ -82,7 +82,7 @@ DAISYのような情報システムの開発はスウェーデン以外でも関
 
 そして1996年5月、 TPB の呼びかけに応じた各国の機関をメンバーとして、ストックホルムに DAISY Consortium （DAISYコンソーシアム）という国際機関が設立された。設立時のメンバーは、日本、スペイン、イギリス、スイス、オランダ、スウェーデンの6カ国からの機関だった。日本から参加したのは全国視覚障害者情報提供施設協議会 (Japanese Association of Libraries for the Blind) である。10月にはドイツの機関もメンバーに加わった。
 
-利用者自身が当初からDAISY規格の開発に関わっていたことは、特筆すべきだろう[^kawamura2006]。1995年12月にDAISYコンソーシアム設立準備の会議には、 World Blind Union （WBU, 世界盲人連合）の書記長 Pedro Zurita が参加して、視覚障害者グループを代表して設立を奨励した。さらに、ウルグアイの Norma Toucedo、オランダの Yaap 、スウェーデンの Eva Bjork と Kicki Nordstrom など、 WBU を代表して DAISY 開発に協力した人々がいる。
+利用者自身が当初からDAISY規格の開発に関わっていたことは、特筆すべきだろう[^kawamura2006]。1995年12月のDAISYコンソーシアム設立準備の会議には、 World Blind Union （WBU, 世界盲人連合）の書記長 Pedro Zurita が参加して、視覚障害者グループを代表して設立を奨励した。さらに、ウルグアイの Norma Toucedo、オランダの Yaap 、スウェーデンの Eva Bjork と Kicki Nordstrom など、 WBU を代表して DAISY 開発に協力した人々がいる。
 
 DAISYコンソーシアムの目的は次のように定められた[^history]。
 
@@ -136,7 +136,9 @@ DAISY 2.02 より後のバージョンは、 DAISYコンソーシアムとアメ
 
 [^daisy3]: [DAISY 3 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/daisy-3/)
 
-DAISY 2.02 との大きな違いは、より新しい W3C の規格に適合するようにファイルの内容や構造を刷新したことである。これによって、マルチメディアの技術的処理がより簡単になった。
+DAISY 2.02 との大きな違いは、マルチメディアの技術的処理のために、よりふさわしい W3C の規格に適合するようにファイルの内容や構造を刷新したことである[^2002appendix1]。
+
+[^2002appendix1]: "Appendix 1 – DTBook DTD" of [DAISY ANSI/NISO Z39.86-2002 - The DAISY Consortium](https://daisy.org/info-help/document-archive/archived-projects/daisy-ansi-niso-z39-86-2002-archived/)
 
 DAISY 2002 や DAISY 3 の仕様は DAISY 2.02 と大きく異なるため、録音図書の作成・再生環境を新たに対応させる必要がある。再生環境は DAISY 3 に対応したものがすでに多くの種類作られている[^kzakzadaisyepub]。また、マルチメディアデイジー図書作成環境も DAISY 3 に対応している。しかし、音声デイジー図書作成環境については、日本で普及している PLEXTALK 製品 (DR-1 や PRS Pro) が DAISY 3 に対応していない。
 
