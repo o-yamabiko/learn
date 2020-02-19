@@ -4,7 +4,7 @@ category: misc
 docid: link
 title: 外部リンク集
 author: 水野光子
-date: 2019-12-04T17:09:00Z
+date: 2020-02-19T06:04:00Z
 iro: ff1362
 gra: fff3dd
 math: false
@@ -83,11 +83,12 @@ math: false
   上記サイト以外の、インターネット上で見つかるDAISYについての日本語情報は、団体等のウェブサイトを含め、読者に誤解を与えるような不正確かつ断片的な内容のものが多いです（2019年12月4日現在、断片的ではあるものの正確な情報は[日本点字図書館](https://www.nittento.or.jp/about/scene/recording.html)と[働く障害者団体協議会](https://www.doushokyo.org/daisy%E9%8C%B2%E9%9F%B3%E5%9B%B3%E6%9B%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/)に見つかりました）。  
   [やまびこ会員用に書いた記事があり、これは比較的正確な内容のはずですが、やまびこの他の学習資料と同様に、検索しても見つからないようにしてあります。](https://o-yamabiko.github.io/learn/daisy.html)
 - DAISY規格とその日本語訳
-  - [DAISY 2 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/daisy-2/)
+  - [DAISY 2 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/daisy-2/) (2001年に勧告)
     - [DAISY 2.02 の日本語訳（訳者：kzakza）](https://code.kzakza.com/2014/06/daisy_202_jpn/)
-  - [DAISY 3 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/daisy-3/)
+  - [DAISY 2.02 Skippable Structures Recommendation - The DAISY Consortium](https://daisy.org/activities/standards/daisy/daisy-2/daisy-2-02-skippable-structures-recommendation/) (2003年に勧告)
+  - [DAISY 3 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/daisy-3/) (2002年に勧告、2005年に改訂)
     - [DAISY 3 の日本語訳（訳者：kzakza）](https://code.kzakza.com/2015/11/ansi_niso_z3986_jpn/)
-  - [Z39.98-2012 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/z39-98-2012/)
+  - [Z39.98-2012 - The DAISY Consortium](https://daisy.org/activities/standards/daisy/z39-98-2012/) (Authoring and Interchange Framework for Adaptive XML Publishing Specification (Z39.98-AI); 2012年に勧告)
     - [Z39.98-2012 の 1.3 Overview のみの日本語訳（訳者：kzakza）](https://code.kzakza.com/2012/08/ansiniso-z39-98-2012-overview-jp/)
   - [EPUB 3.2](https://www.w3.org/publishing/epub3/epub-spec.html)  
     [EPUB Accessibility 1.0](https://www.w3.org/Submission/epub-a11y/)  

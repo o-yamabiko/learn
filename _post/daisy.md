@@ -4,7 +4,7 @@ category: misc
 docid: daisy
 title: DAISYとは
 author: 水野光子
-date: 2019-12-05T00:20:32Z
+date: 2020-02-19T06:04:00Z
 iro: 21358b
 gra: a0aad6
 math: true
@@ -127,6 +127,16 @@ DAISY 2.02 [^daisy202] とそれ以降のバージョンの仕様は、録音図
 このように、2001年以降のDAISYは "Audio-based" 「音声を基盤とする」という表現に収まりきらない情報システムになってきたので、 DAISYコンソーシアムの2001年11月の役員会で、DAISYの正式名称を **Digital Accessible Information SYstem** （デジタルでアクセシブルな情報システム）に変更することが決まった[^planet200812]。
 
 [^planet200812]: "Dear DAISY" in [Planet 2008-12 - DAISY Consortium](https://web.archive.org/web/20170705161836/http://www.daisy.org/planet-2008-12)
+
+
+DAISY 2.02 の2001年時点の仕様では、1つのフレーズに付ける1つの「グループ」あるいは「ブロック」と呼ばれる構造が規定されているが、この構造は、複数のフレーズのまとまりの始まりと終わりを区別しないので、そのまとまり全体を再生機で自動的にスキップすることができない。
+
+これは利用者にとって非常に不便であるため、利用者からの強い要望に答える形で、2003年にDAISY 2.02 に追加された仕様がある[^daisy2022003]。利用者にとって、原本の注や音訳者注・音訳者による図表の説明などが不要であれば、再生機で自動的にスキップするように設定できるようにするための構造が規定されている。もちろん、利用者が必要なときには、スキップした部分の内容を聞くことができる。
+
+[^daisy2022003]: [DAISY 2.02 Skippable Structures Recommendation - The DAISY Consortium](https://daisy.org/activities/standards/daisy/daisy-2/daisy-2-02-skippable-structures-recommendation/)
+
+この追加仕様は、2001年の規格に置き換わるものではなく、単なる機能の追加である。しかし、日本で普及している DAISY 2.02 に準拠した録音・再生機器は、[2004年10月に発売されたという](http://www.plextalk.com/jp/2004/10/12/2970/) PRS Pro でも、2003年の追加仕様に対応していない。
+
 
 ### DAISY 2002, DAISY 3
 
