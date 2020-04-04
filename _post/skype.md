@@ -20,9 +20,13 @@ gra: 33c1ff
 
 ## 1. お手元の機器から以下のリンク先を開き、 Skype をインストールする。
 
+ただし、すでに Skype を利用しサインインされている方は[「18. 「連絡先」を押す。」](#18-連絡先を押す)の説明に飛んでください。
+
+インストールのためのリンク：
+
 - [Android のスマートフォンやタブレットの場合](https://play.google.com/store/apps/details?id=com.skype.raider)
-- [iphone, ipod touch の場合](https://apps.apple.com/jp/app/skype-for-iphone/id304878510)
-- [ipad の場合](https://apps.apple.com/jp/app/skype-for-ipad/id442012681)
+- [iPhone, iPod Touch の場合](https://apps.apple.com/jp/app/skype-for-iphone/id304878510)
+- [iPad の場合](https://apps.apple.com/jp/app/skype-for-ipad/id442012681)
 - [パソコン (Windows、Mac OS X、Linux) の場合](https://www.skype.com/ja/get-skype/download-skype-for-desktop/)
 
 以下では Android の機器に表示される画面で説明します。他の機器でも設定方法は同じです。
@@ -37,7 +41,7 @@ gra: 33c1ff
 
 ## 4. 「作成」を押す。
 
-ただし、すでにアカウントを持っている場合は、普通にサインインして[「13. 好きな色合いを選ぶ。」](#13-好きな色合いを選ぶ)の説明に飛んでください。
+ただし、すでにアカウントを持っている方は、普通にサインインして[「13. 好きな色合いを選ぶ。」](#13-好きな色合いを選ぶ)の説明に飛んでください。
 
 ![サインイン](media/skype/003.png){: .naka}
 
