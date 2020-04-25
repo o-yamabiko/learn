@@ -54,7 +54,7 @@ math: false
   一般向けセミナーの実施計画のリストもあります。 
 - [著作権法の一部を改正する法律（平成30年法律第30号）について｜文化庁](http://www.bunka.go.jp/seisaku/chosakuken/hokaisei/h30_hokaisei/) 
 - [著作権｜文化庁](http://www.bunka.go.jp/seisaku/chosakuken/index.html) 
-- [著作権法｜電子政府の総合窓口e-Gov イーガブ](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=345AC0000000048) 
+- [著作権法｜電子政府の総合窓口e-Gov イーガブ](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=345AC0000000048) 
 - [図書館の障害者サービスにおける著作権法第37条第3項に基づく 著作物の複製等に関するガイドライン](https://www.jla.or.jp/portals/0/html/20100218.html)  
   「著作権法第37条第3項ただし書」に該当するかどうかについて、日本図書館協会等の解釈による具体的な判断方法が書かれています。
 
