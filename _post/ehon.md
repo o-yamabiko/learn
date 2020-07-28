@@ -5,8 +5,8 @@ docid: ehon
 title: 絵本デイジー作製手順書
 author: 大川薫／石田澄子／下山桂子／水野光子
 date: 2020-07-26T23:09:32Z
-iro: 1FA40F
-gra: FEFF9D
+iro: 148e06
+gra: ffffdf
 pdf: ehon.pdf
 version: 1
 ---
