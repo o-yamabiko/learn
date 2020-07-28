@@ -13,7 +13,7 @@ version: 1
 
 # 【絵本】デイジー作製手順書
 
-<span style="float:right;" markdown="1">作成:2020年7月</span>
+<span style="float:right;" markdown="1">作成: 2020年 7月</span>
 
 <div class="tejun" markdown="1">
 
