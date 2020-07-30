@@ -4,7 +4,7 @@ category: daisy
 docid: ehon
 title: 絵本デイジー作製手順書
 author: 大川薫／石田澄子／下山桂子／水野光子
-date: 2020-07-30T05:27:32Z
+date: 2020-07-30T05:27:33Z
 iro: 148e06
 gra: ffffdf
 pdf: ehon.pdf
