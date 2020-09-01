@@ -20,7 +20,7 @@ gra: ffe8fa
 ## 使い方
 
 1. [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) をインストールします。
-  - [Windows 10 では Windows ストアからインストールできます。](https://www.microsoft.com/ja-jp/p/thorium-reader/)
+  - [Windows 10 では Windows ストアからインストールできます。](https://www.microsoft.com/ja-jp/p/thorium-reader/9nfzp1g7m2sc?activetab=pivot:overviewtab)
   - それ以外のOSをご利用の方は、[上記の Thorium Reader のページ](https://www.edrlab.org/software/thorium-reader/) から適切なものを選んでダウンロードしてインストールしてください。
 1. [ここから sampleniken.epub をパソコンにダウンロードします。](media/epub/sampleniken.epub)
 1. インストールした Thorium Reader を起動します。
