@@ -22,8 +22,8 @@ gra: ffe8fa
 1. [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) をインストールします。
   - [Windows 10 では Windows ストアからインストールできます。](https://www.microsoft.com/ja-jp/p/thorium-reader/9nfzp1g7m2sc?activetab=pivot:overviewtab)
   - それ以外のOSをご利用の方は、[上記の Thorium Reader のページ](https://www.edrlab.org/software/thorium-reader/) から適切なものを選んでダウンロードしてインストールしてください。
-1. [ここから sampleniken.epub をパソコンにダウンロードします。](media/epub/sampleniken.epub)
-1. インストールした Thorium Reader を起動します。
+1. [ここからサンプル書籍 sampleniken.epub をパソコンにダウンロードします。](media/epub/sampleniken.epub)
+1. Thorium Reader を起動します。
 1. Thorium Reader の画面上部の + マークを押すか、 sampleniken.epub を Thorium Reader のウィンドウ内にドラッグすることによって、この書籍を「わたしの本」のリストに追加できます。  
   ![Thorium画面1](media/epub/thorium1.png){: .naka}
 1. リストに入った本の表紙をクリックすると、本が開きます。  
