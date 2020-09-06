@@ -52,7 +52,8 @@ gra: ffe8fa
 EPUB 形式の「全国基準」は出ていないので、どうするかは国会図書館と相談しながらやまびこで判断する必要があると思います。
 
 追記 2020-09-06
-: やまびこのような[外部団体から国立国会図書館に納本するEPUB形式の基準](https://www.ndl.go.jp/jp/library/supportvisual/supportvisual-10_01.html#a511)は大雑把なもので、具体的な指示は少ないです。それとは別に[国立国会図書館が製作するテキストベースのEPUB形式の基準](https://www.ndl.go.jp/jp/library/supportvisual/supportvisual-02.html)があり、やまびこから納品するような EPUB with Media Overlays （音声連動EPUB） に適用するためには更に解釈が必要なものの、大筋の考え方について参考になります。例えば独自に追加した注は〔製作者注：内容。注、終わり〕の形式で全角亀甲括弧で囲むのが基本だそうです。
+: やまびこのような[外部団体から国立国会図書館に納本するEPUB形式の基準](https://www.ndl.go.jp/jp/library/supportvisual/supportvisual-10_01.html#a511)は大雑把なもので、具体的な指示は少ないです。それとは別に[国立国会図書館が製作するテキストベースのEPUB形式の基準](https://www.ndl.go.jp/jp/library/supportvisual/supportvisual-02.html)があり、大筋の考え方について参考になります。例えば独自に追加した注は〔製作者注：内容。注、終わり〕の形式で全角亀甲括弧で囲むのが基本だそうです。  
+ただし、やまびこから納品するような EPUB with Media Overlays （音声連動EPUB） に適用するためには更に解釈が必要です。
 
 
 ## ソフトウェアの利用
