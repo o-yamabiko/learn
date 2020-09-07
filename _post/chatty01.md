@@ -4,7 +4,7 @@ category: daisy
 docid: chatty01
 title: ChattyInfty3 利用方法
 author: 水野光子
-date: 2020-09-10T23:09:32Z
+date: 2020-09-07T23:09:32Z
 iro: 719300
 gra: f2f5b2
 pdf: chatty01.pdf
