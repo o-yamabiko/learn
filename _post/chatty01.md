@@ -60,7 +60,7 @@ DAISY の種類の違いがわからない方は「[DAISYとは](https://o-yamab
 
 <div class="tablewidth" markdown="1">
 
-|    | PLEXTALK Producer | ChattyInfty3 |
+| 日本語に 無い 文字を 扱う 項目 | PLEXTALK Producer | ChattyInfty3 |
 |:---|:------------------|:-------------|
 |テキスト 編集画面|フォントを 適切に 選べば 表示可能|デフォルトで 正常に 表示|
 |外国語 合成音声|話者を 適切に 選べば 正しく 読み上げる|話者を 適切に 選んでも 正しく 読み上げない|
