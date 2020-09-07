@@ -20,7 +20,7 @@ GoogleやYahooなどの検索には掛かりませんが、URLを渡せば誰で
 {% for item in subpage %}
 1. {{ item.title }}  
 <span style="font-size:small;">（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author }}）</span>  
-[画面で読む (html)](.{{ item.url }}) | [印刷する (pdf)](media{{ item.id }}.pdf)
+[画面で読む (html)](.{{ item.url }}){% if item.pdf %} | [印刷する (pdf)](media{{ item.id }}.pdf){% endif %}
 {% endfor %}
 
 ## 合成音声
