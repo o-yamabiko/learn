@@ -7,6 +7,7 @@ author: 水野光子
 date: 2020-09-10T23:09:32Z
 iro: 719300
 gra: f2f5b2
+pdf: chatty01.pdf
 version: 1
 ---
 
