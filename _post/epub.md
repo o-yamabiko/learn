@@ -4,7 +4,7 @@ category: misc
 docid: epub
 title: マルチメディアデイジー EPUB3 サンプル
 author: 水野光子
-date: 2020-09-02T03:27:33Z
+date: 2020-09-11T03:27:33Z
 iro: 1986fa
 gra: ffe8fa
 ---
@@ -21,39 +21,27 @@ gra: ffe8fa
 
 ## 使い方
 
+1. [サンプル書籍 sample20200911.epub](media/epub/sample20200911.epub) をパソコンにダウンロードします。
 1. [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) をインストールします。
   - [Windows 10 では Windows ストアからインストールできます。](https://www.microsoft.com/ja-jp/p/thorium-reader/9nfzp1g7m2sc?activetab=pivot:overviewtab)
   - それ以外のOSをご利用の方は、[上記の Thorium Reader のページ](https://www.edrlab.org/software/thorium-reader/) から適切なものを選んでダウンロードしてインストールしてください。
-1. [サンプル書籍1 sampleniken1.epub](media/epub/sampleniken1.epub) または [サンプル書籍2 sampleniken2.epub](media/epub/sampleniken2.epub) をパソコンにダウンロードします。  
-  サンプル書籍1は音訳者説明が表示されないもの、サンプル書籍2は音訳者説明が（（二重まるかっこ））付きで表示されるものです。
 1. Thorium Reader を起動します。
-1. Thorium Reader の画面上部の + マークを押すか、 sampleniken.epub を Thorium Reader のウィンドウ内にドラッグすることによって、この書籍を「わたしの本」のリストに追加できます。  
+1. Thorium Reader の画面上部の + マークを押すか、 sample20200911.epub を Thorium Reader のウィンドウ内にドラッグすることによって、この書籍を「わたしの本」のリストに追加できます。  
   ![Thorium画面1](media/epub/thorium1.png){: .naka}
 1. リストに入った本の表紙をクリックすると、本が開きます。  
   ![Thorium画面2](media/epub/thorium2.png){: .naka}
 1. 開いた画面上部のスピーカーのようなマークを押すと、読み上げのための操作盤が表示され、読み上げが始まります。
-1. 音訳者の説明を読み飛ばす設定ができます。上部右の方にある aa マークをクリックし、「本文の読み上げ」「読み飛ばし機能」のチェックボックスをクリックして、オン・オフを切り替えます。  
+1. サンプル書籍では、音訳者が追加した部分が〔全角亀甲括弧〕付きで表示されています。それらのうち本文中の追加部分は、読み飛ばし機能をオンにすると読み上げないようになります。  
+  Thorium画面上部右の方にある aa マークをクリックし、「本文の読み上げ」「読み飛ばし機能」のチェックボックスをクリックして、オン・オフを切り替えます。  
   ![Thorium画面3](media/epub/thorium3.png){: .naka}
 
 
-## 問題点
+## 考察
 
-[サンプル書籍1](media/epub/sampleniken1.epub)では読み飛ばし機能をオフにすると、音訳者の説明がある間は、画面上に対応する文字がないためか、表示部分が上方にずれています。
-画面を見ない利用者にはどうでも良いことですが、図を見ながら説明を聞きたい場合は困りますね。
-
-表紙の説明は、表紙だけで1セクション使っているので、表示部分のズレがありません。
-
-絵本を作成する場合は、絵だけで1セクションにしたほうが、表示部分のズレが無く、利用しやすいかもしれません。
-
-この形式の場合、点字ディスプレイなどを利用して読みたい場合に、音訳者説明を利用できないことになるので、アクセシビリティの観点からは良くないと思います。
-
-[サンプル書籍2](media/epub/sampleniken2.epub)では、音訳者の説明を見えるようにし、原本と違う部分であることがわかるように、（（二重のまるかっこ））で囲いました。読み飛ばし機能を使うと、著作権ガイド以外の音訳者の追加部分は読み上げられません。
-
-EPUB 形式の「全国基準」は出ていないので、どうするかは国会図書館と相談しながらやまびこで判断する必要があると思います。
-
-追記 2020-09-06
-: やまびこのような[外部団体から国立国会図書館に納本するEPUB形式の基準](https://www.ndl.go.jp/jp/library/supportvisual/supportvisual-10_01.html#a511)は大雑把なもので、具体的な指示は少ないです。それとは別に[国立国会図書館が製作するテキストベースのEPUB形式の基準](https://www.ndl.go.jp/jp/library/supportvisual/supportvisual-02.html)があり、大筋の考え方について参考になります。例えば独自に追加した注は〔製作者注：内容。注、終わり〕の形式で全角亀甲括弧で囲むのが基本だそうです。  
-ただし、やまびこから納品するような EPUB with Media Overlays （音声連動EPUB） に適用するためには更に解釈が必要です。
+- ChattyInfty3 機能の図説明は、画像が表示され、その説明が読み上げられるが、説明に対応する文字はEPUB書籍内に存在しない。この形式の場合、点字ディスプレイなどから音訳者説明を利用することができないので、アクセシビリティの観点から問題がある。この機能は使わないことにする。
+- Tobi 機能の図説明は、デフォルトで隠されているが、ワンタッチで文の表示を展開できるようになっている。ただし、読み飛ばし機能が付かない。
+- EPUB 形式についての「全国基準」は出ていない。やまびこのような[外部団体から国立国会図書館に納本するEPUB形式の基準](https://www.ndl.go.jp/jp/library/supportvisual/supportvisual-10_01.html#a511)は大雑把なもので、具体的な指示は少ない。
+- それとは別に[国立国会図書館が製作するテキストベースのEPUB形式の基準](https://www.ndl.go.jp/jp/library/supportvisual/supportvisual-02.html)があり、著作権法に従うための方法など、大筋の考え方について参考になる。ただし、やまびこから納品するような EPUB with Media Overlays （音声連動EPUB） に応用するためには更に解釈が必要。
 
 
 ## ソフトウェアの利用
