@@ -99,6 +99,7 @@ E	データ形式について…お願い
 
 ### 国立国会図書館が作成しているデータの仕様を参考にした、音声付き EPUB のための仕様案
 
+
 #### 1. EPUBに関する仕様
 
 [学術文献の視覚障害者等用EPUB製作仕様書（ver.2020.1）（PDF: 1.5MB）](https://www.ndl.go.jp/jp/library/supportvisual/docs/ac_epub_spec.pdf)を参考にする。
