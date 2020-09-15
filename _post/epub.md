@@ -77,7 +77,8 @@ PLEXTALK Producer で同じサンプルを作ろうとしたが、
 
 ### 国立国会図書館納品の基準
 
-- [納本を受け入れる基準](https://www.ndl.go.jp/jp/library/supportvisual/supportvisual-10_01.html#a511)は厳しくない。マルチメディアデイジー特有の仕様は次のとおり。  
+- [納本を受け入れる基準](https://www.ndl.go.jp/jp/library/supportvisual/supportvisual-10_01.html#a511)は厳しくない。マルチメディアデイジー特有の仕様は次のとおり。
+
 ```
 E	データ形式について…お願い
 同じ資料（タイトル）で異なる形式のものがある場合は、次の形式を優先としてください。
@@ -94,8 +95,10 @@ E	データ形式について…お願い
 音声圧縮形式： MP3
 文字コードセット： UTF-8
 ```
+
 - [国立国会図書館が作成しているデータ仕様](https://www.ndl.go.jp/jp/library/supportvisual/supportvisual-02.html)がある。  
     やまびこのような外部団体から納本するものがこれに従う必要はないが、参考にする。
+
 
 ### 国立国会図書館が作成しているデータの仕様を参考にした、音声付き EPUB のための仕様案
 
