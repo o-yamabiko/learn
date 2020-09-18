@@ -56,7 +56,7 @@ ChattyInfty3 と Tobi を使ってサンプルを作成した。
 
 PLEXTALK Producer で同じサンプルを作ろうとしたが、
 : やはり Ace by DAISY では問題点が確認される。
-: PLEXTALK Producer で音訳者説明をスキップできるフレーズとして設定しても、 EPUB with Media Overlays の規格上でスキップできると指定されている形にならず（というよりむしろ規格上避けたいものと指定されている形になっている）、 Thorium Reader のスキップ機能が働かない。2020年7月31日の PLEXTALK Producer アップデートをしてもこの問題が出るので、アプリケーション製作者の EPUB 規格解釈が間違っているのか、何らかの理由でわざと無視していると思われる。
+: PLEXTALK Producer で音訳者説明をスキップできるフレーズとして設定しても、 EPUB with Media Overlays の規格上でスキップできると指定されている形にならず（というよりむしろ[規格で難ありと指定されている`help`](https://idpf.github.io/epub-vocabs/structure/#asides)になっている）、 Thorium Reader のスキップ機能が働かない。2020年7月31日の PLEXTALK Producer アップデートをしてもこの問題が出るので、アプリケーション製作者の EPUB 規格解釈が間違っているのか、何らかの理由でわざと無視していると思われる。
 : PLEXTALK Producer での音声ファイルの割り当て作業が、 Tobi に比べると格段に煩わしい。音声ファイル割り当てに利用するアプリケーションは Tobi に統一したほうが良さそう。
 
 ## 技術的メモ
