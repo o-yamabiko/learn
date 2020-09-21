@@ -27,10 +27,21 @@ gra: ffe8fa
   - [Ace by DAISY](https://daisy.github.io/ace/getting-started/ace-app/) を使って、アクセシビリティに関する構造に問題ないことを確認しています。
   - [WCAG 2.1 クイックリファレンス](https://www.w3.org/WAI/WCAG21/quickref/)によれば、「著作権ガイド」「終わりアナウンス」など全てのセクションのタイトルを表示して読み上げる、すべての漢字にルビを付ける、などの処置をするとレベル AAA （トリプル エー）に成れそうです。ただし、ガイドラインはランク付けの基準を出しているだけで、 AAA でなければアクセシブルでないというわけではないです。
 
+1. [サンプル書籍 sample20200920.epub](media/epub/sample20200920.epub)
+2. 比較対象 [DAISY2.02 マルチメディア](media/epub/sample202multi.zip)
+3. 比較対象 [DAISY2.02 音声とセクション構造のみ](media/epub/sample202audio.zip)
+
+1 はEPUBファイルなので、ディスレクシアでも視覚に不便がある方でも聴覚に不便がある方でも利用できます。音訳者注の不要な利用者は、EPUBの自動読み飛ばし機能を使えば便利に利用できます。
+
+2 と 3 は DAISY 2.02 の規格に準拠したデータなので、自動読み飛ばし機能が付けられません。そのため、 2 は対象をディスレクシアに特化し、図や漢字の説明を削除したマルチメディアデイジー、 3 は対象を視覚に不便があり聴覚には不便のない方に特化し、図や漢字の説明を残し、本文の文字を削除した音声デイジーという形に作り分けています。
+
+視覚にも聴覚にも不便のある方は 1 の EPUB 利用が可能であることを願うばかりです。
+
+DAISY 2.02 は2001年の規格であり、20年も前の技術に合わせて製作者側が余計な手間を掛ける必要がある事態は解消されるべきですが、利用者に対するIT教育が普及してEPUB利用が一般的になるまでは、EPUB と同時に DAISY 2.02 の2種類も納本するのが、利用者の利益に沿うものだと思います。
 
 ## 使い方
 
-1. [サンプル書籍 sample20200911.epub](media/epub/sample20200911.epub) をパソコンにダウンロードします。
+1. [サンプル書籍 sample20200920.epub](media/epub/sample20200920.epub) をパソコンにダウンロードします。
 1. [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) をインストールします。
   - [Windows 10 では Windows ストアからインストールできます。](https://www.microsoft.com/ja-jp/p/thorium-reader/9nfzp1g7m2sc?activetab=pivot:overviewtab)
   - それ以外のOSをご利用の方は、[上記の Thorium Reader のページ](https://www.edrlab.org/software/thorium-reader/) から適切なものを選んでダウンロードしてインストールしてください。
