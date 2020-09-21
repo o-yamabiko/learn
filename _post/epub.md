@@ -4,7 +4,7 @@ category: misc
 docid: epub
 title: マルチメディアデイジー EPUB3 サンプル
 author: 水野光子
-date: 2020-09-15T03:27:33Z
+date: 2020-09-21T00:24:33Z
 iro: 1986fa
 gra: ffe8fa
 ---
