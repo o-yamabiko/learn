@@ -27,9 +27,11 @@ gra: ffe8fa
   - [Ace by DAISY](https://daisy.github.io/ace/getting-started/ace-app/) を使って、アクセシビリティに関する構造に問題ないことを確認しています。
   - [WCAG 2.1 クイックリファレンス](https://www.w3.org/WAI/WCAG21/quickref/)によれば、「著作権ガイド」「終わりアナウンス」など全てのセクションのタイトルを表示して読み上げる、すべての漢字にルビを付ける、などの処置をするとレベル AAA （トリプル エー）に成れそうです。ただし、ガイドラインはランク付けの基準を出しているだけで、 AAA でなければアクセシブルでないというわけではないです。
 
-1. [サンプル書籍 sample20200920.epub](media/epub/sample20200920.epub)
-2. 比較対象 [DAISY2.02 マルチメディア](media/epub/sample202multi.zip)
-3. 比較対象 [DAISY2.02 音声とセクション構造のみ](media/epub/sample202audio.zip)
+## サンプル書籍ダウンロード
+
+1. [EPUB 3.2 sample20200920.epub](media/epub/sample20200920.epub)
+2. 比較対象 [DAISY 2.02 マルチメディア](media/epub/sample202multi.zip)
+3. 比較対象 [DAISY 2.02 音声とセクション構造のみ](media/epub/sample202audio.zip)
 
 1 はEPUBファイルなので、ディスレクシアでも視覚に不便がある方でも聴覚に不便がある方でも利用できます。音訳者注の不要な利用者は、EPUBの自動読み飛ばし機能を使えば便利に利用できます。
 
