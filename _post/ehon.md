@@ -2,7 +2,7 @@
 layout: caymanyomi
 category: daisy
 docid: ehon
-title: 絵本デイジー作製手順書
+title: 絵本デイジー作製手順書
 author: 大川薫／石田澄子／下山桂子／水野光子
 date: 2020-07-30T05:27:33Z
 iro: 148e06
@@ -11,7 +11,7 @@ pdf: ehon.pdf
 version: 3
 ---
 
-# 【絵本】デイジー作製手順書
+# 【絵本】デイジー作製手順書
 
 <br /><span style="float:right;" markdown="1">作成: 2020年 7月</span>
 
