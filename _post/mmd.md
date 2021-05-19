@@ -217,6 +217,7 @@ WCAGの簡単なチェック項目については[クイックリファレンス
 この形式は、「5. Ace by DAISY の検査に合格するための措置」において、 EPUB 3.2 及び WCAG 2.2 の観点から正しいEPUB図書になるように、加工しやすくするための形式である。 スクリプトの改良にしたがって、 formXX.imlx の内容を変更する可能性がある。
 
 #### 使い方
+{:.no_toc}
 
 1. form\*.imlx の最新版をダウンロードしておく。
 2. 図書のデイジー編集をする imlx ファイルをChattyInfty3で開いて、メニューの「ファイル＞追加読み込み」を使って form\*.imlx のセクションを末尾に入れる。
@@ -233,6 +234,7 @@ Chatty の EPUB エクスポートのウィンドウに書誌情報の記入欄�
 そのため、書誌情報は[共有フォルダにある「書誌情報書式」](https://drive.google.com/drive/folders/1lQOdyBPgECghazdSIF-zWrg5ktukqLJa?usp=sharing)に示した形式を使う。
 
 #### 使い方
+{:.no_toc}
 
 1. 「書誌情報書式」を xlsx などの形式でダウンロードする。ダウンロードしたファイルを、自分で区別しやすいファイル名に変更する。
 2. そのファイルを、 Microsoft Excel, Google Sheets, LibreOffice Calc などの好きな表計算アプリで開く。
