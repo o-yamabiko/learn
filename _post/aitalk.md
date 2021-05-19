@@ -355,13 +355,13 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 この図書の中で他の読み方がありえないなら、優先度を「高」にして良い。
 
 単語登録 GAFAM：
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552411407?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="単語登録 GAFAM"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552411407?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="単語登録 GAFAM"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 単語登録したい文字列を複数の文節に分けたい場合もある。単語登録の範囲内で分節を分けるには、アクセントの丸い印を右クリックして切断する。
 これを切断しなかったり、不適切なところで切断したりすると、まったく思い通りのアクセントは作れない。
 
 単語登録 東京特許許可局：
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552412326?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="単語登録 東京特許許可局"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552412326?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="単語登録 東京特許許可局"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ChattyInfty3 に付属している AITalk は、単体で売られている AITalk と違って、登録できる単語の品詞が限られている。名詞と記号だけを登録でき、動詞や形容詞などは登録できない。
 動詞や形容詞などを名詞として登録してしまうと、前後の文脈の中で名詞としてのアクセント変化が起き、読み上げが不自然になるし、活用形にも対応できない。
@@ -369,12 +369,12 @@ ChattyInfty3 に付属している AITalk は、単体で売られている AITa
 それ以外の場合は、後述の読み設定で調整する。
 
 単語登録 エモい歌詞：
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552413620?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="単語登録 エモい歌詞"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552413620?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="単語登録 エモい歌詞"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 単語登録で、名詞の最後の拍を高くすると、普通は平板型として登録される。つまり文中の読み上げではその名詞の次の助詞が高い拍で始まる。
 
 単語登録 エモい山脈：
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552414850?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="単語登録 エモい山脈"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552414850?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="単語登録 エモい山脈"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ただし、1つの拍だけからなる名詞を高い拍として単語登録すると、その名詞の拍はアクセント核と見なされ、文中の読み上げでは次の助詞が低い拍になる。
 逆に、その名詞を低い拍として単語登録すると、その名詞にはアクセント核が無いものと見なされ、次の助詞は高い拍で始まる。
@@ -382,13 +382,13 @@ ChattyInfty3 に付属している AITalk は、単体で売られている AITa
 単語登録機能のこの性質を応用すると、複数の拍からなる名詞でも、尾高型として登録することが可能になる。つまり、登録語句の最後の単語を尾高型にするには、その単語の最後の1拍を切り離し、単独の高い拍であるかのように見せかけて登録すれば良い。
 
 単語登録 エモい山：
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552415964?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="単語登録 エモい山"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552415964?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="単語登録 エモい山"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 単語登録では、名詞の種類を細かく指定できる。これをできるだけ正確に指定すれば、 AITalk は前後の文脈の中で比較的適切なアクセントを判断してくれる。
 例えば、地名を「名詞　一般」として単語登録すると、他の地名の後に付くときにアクセントが消えてしまうが、「名詞　固有名詞　地域　一般」として単語登録すると、文脈の中で適切なアクセントになる。
 
 単語登録の名詞の種類：
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552417650?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="単語登録の名詞の種類"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552417650?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="単語登録の名詞の種類"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 #### 3.4.5. 読み設定
@@ -406,7 +406,7 @@ ChattyInfty3 に付属している AITalk は、単体で売られている AITa
 - アクセント核の直後に全角アポストロフィを入れる。
 
 読み設定の基本：
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552419106?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="読み設定の基本"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552419106?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="読み設定の基本"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ##### 読み設定の便利な使い方
 {:.no_toc}
@@ -418,7 +418,7 @@ ChattyInfty3 に付属している AITalk は、単体で売られている AITa
 こうすると、 AITalk は前後の文脈の間に読み替え部分を挿入した形で構文解析するので、自然な読み上げに仕上がる。
 
 読み設定の便利な使い方：
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552419877?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="読み設定の便利な使い方"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552419877?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="読み設定の便利な使い方"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 #### 3.4.6. 外国語
 
@@ -449,24 +449,25 @@ ChattyInfty3 のデフォルトの入力モードはテキストモードにな�
 数式モードであっても、その読み上げは音訳として正しくない。「設定＞読み上げ定義の編集」である程度修正できそうではある。これをいじらない場合は、以下の例のような音訳的読み替えを数式に当てるという方法が考えられる。
 
 数式：
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552421208?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="数式"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552421208?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="数式"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ### 3.5. フレーズの結合
 
 ハイライト結合 `Ctrl Shift +` は、句点や括弧などで自動的にフレーズが切れるように設定してある場合に、その箇所だけ切らないでつなげたいときに使う。
+
 例えば「設定＞音声設定」で、括弧はじめの前でフレーズが切れるように設定している場合：
-![括弧の前で切れる設定の例](media/aitalk/highlightset.png){: .naka}
+: ![括弧の前で切れる設定の例](media/aitalk/highlightset.png){: .naka}
 
 この設定では、曜日が括弧で表されているところもフレーズが切れる。その前の日付けとつなげて読み上げさせるには、括弧はじめの前でハイライト結合をする。
 
 日付と曜日のハイライト結合：
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552422086?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="日付と曜日のハイライト結合"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552422086?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="日付と曜日のハイライト結合"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ある部分を選択してフレーズ結合 `Ctrl *` すると、選択した部分の中ではハイライトが切れず、選択した部分の直前直後がハイライト区切りになる。
 読点や括弧が含まれるセクションタイトルを1フレーズにしたいときに使える。
 
 セクションタイトルのフレーズ結合：
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552441703?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="セクションタイトルのフレーズ結合"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552441703?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="セクションタイトルのフレーズ結合"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ### 3.6. セクションの操作
 
