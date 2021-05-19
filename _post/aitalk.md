@@ -154,7 +154,7 @@ ChattyInfty3 では テキストファイル \*.txt か EPUB3 形式のファイ
   ```
 
 Chatty 編集画面の表示：
-![ルビ](media/aitalk/ruby.png){: .naka}
+: ![ルビ](media/aitalk/ruby.png){: .naka}
 
 音声デイジー製作の場合は、ルビが付いていても構わないが、無くても良い。ルビは読み上げに一切影響しない。
 本文の漢字の読みが、ルビの形にならずに本文中にひらがなで挿入されてしまうと、それを手で消さないといけないのでとても煩わしい。
@@ -201,11 +201,14 @@ ChattyInfty3 AITalk版では「せいじ」「のぞみ」「かほ」の3人の
 スペースを入れることによって、日本語の構文上の区切りを読み上げエンジン AITalk に教えることができる。スペースを入れると、その直後のプロミネンスが立つことが多い。
 
 スペースとショートポーズの違い：
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552406833?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="スペースとショートポーズの違い"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552406833?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="スペースとショートポーズの違い"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 スペースは必ずしもポーズにならない。 AITalk が構文解析をした結果、そのスペースの位置にポーズを入れるのが妥当であると判断した場合はポーズになる。
 
-もともと自然にポーズが入っているところにスペースを入れても、ポーズが長くなることはない。ただし、音声設定で、連続したスペースをハイライト区切りに設定してある場合は、そのせいでスペース2個がポーズになる。ショートポーズ `Ctrl Shift S` やロングポーズ `Ctrl Shift L` は、どこに入れても入れた個数だけ長いポーズができる。
+もともと自然にポーズが入っているところにスペースを入れても、ポーズが長くなることはない。
+（ただし、音声設定で、連続したスペースをハイライト区切りに設定してある場合は、そのせいでスペース2個がポーズになる。）
+
+ショートポーズ `Ctrl Shift S` やロングポーズ `Ctrl Shift L` は、どこに入れても入れた個数だけ長いポーズができる。
 
 行末にポーズを入れたいときは句点などの記号の直前に入れる。記号の後にいれると、そのポーズだけで無音のフレーズを構成してしまうので、デイジー図書としての出来が悪くなる。
 
@@ -213,20 +216,20 @@ ChattyInfty3 AITalk版では「せいじ」「のぞみ」「かほ」の3人の
 
 構文解析による自然なポーズ、強制的に入れるショートポーズやロングポーズのほか、読点や句点、改行などでもポーズが入る。
 それぞれのポーズの長さを、デイジーエクスポートした音声ファイルで測定してみると、短い方から以下の表に示した順番で長くなる（測定値なので誤差はある）。
+
 ここに示したポーズの長さはデイジー図書の完成品に反映される長さであり、編集画面で聞こえてくるポーズの長さと必ずしも一致しない。
 これは、編集画面では特に改行のポーズの長さがパソコンの処理速度に依存するせいである。
 
 表：ポーズの長さの比較
-
-ショートボーズ `Ctrl Shift S` | 171 ms
-ロングポーズ `Ctrl Shift L` | 365 ms
-ハイライト区切りしない設定にした読点「、」 | 385 ms
-ハイライト区切り `Ctrl Shift /` | 517 ms
-読点「、」 | 517 ms
-フレーズ区切りしない設定にした句点「。」 | 800 ms
-改行 | 1015 ms
-句点「。」 | 1315 ms
-セクション末 | 2161 ms
+: ショートボーズ `Ctrl Shift S` | 171 ms
+  ロングポーズ `Ctrl Shift L` | 365 ms
+  ハイライト区切りしない設定にした読点「、」 | 385 ms
+  ハイライト区切り `Ctrl Shift /` | 517 ms
+  読点「、」 | 517 ms
+  フレーズ区切りしない設定にした句点「。」 | 800 ms
+  改行 | 1015 ms
+  句点「。」 | 1315 ms
+  セクション末 | 2161 ms
 
 デフォルト設定では読点・句点・改行でフレーズも切れる。
 
