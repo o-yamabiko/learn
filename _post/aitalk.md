@@ -1,6 +1,6 @@
 ---
 layout: caymanyomi
-category: daisy
+category: ai
 docid: aitalk
 title: ChattyInfty3 AITalk版の操作方法
 author: 水野光子

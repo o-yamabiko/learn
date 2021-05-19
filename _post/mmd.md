@@ -6,7 +6,7 @@ title: やまびこ式マルチメディアデイジー図書の作成手順
 author: 水野光子
 date: 2021-05-03T12:20:32Z
 iro: ba0c5b
-gra: ecbed3
+gra: bedfec
 math: true
 ---
 
