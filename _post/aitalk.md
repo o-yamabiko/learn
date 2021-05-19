@@ -287,14 +287,14 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 
 花：アクセント核2、いわゆる尾高型
 : ![花](media/aitalk/hana2.png){: .naka}
-  <audio controls  class="naka">
+: <audio controls  class="naka">
   <source src="media/aitalk/hana2.ogg" type="audio/ogg">
   <source src="media/aitalk/hana2.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
 鼻：アクセント核0、いわゆる平板型
 : ![鼻](media/aitalk/hana0.png){: .naka}
- <audio controls  class="naka">
+: <audio controls  class="naka">
   <source src="media/aitalk/hana0.ogg" type="audio/ogg">
   <source src="media/aitalk/hana0.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
@@ -304,14 +304,14 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 
 気：アクセント核0、いわゆる平板型
 : ![気](media/aitalk/ki0.png){: .naka}
- <audio controls  class="naka">
+: <audio controls  class="naka">
   <source src="media/aitalk/ki0.ogg" type="audio/ogg">
   <source src="media/aitalk/ki0.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
 木：アクセント核1、それ自体がアクセント核
 : ![木](media/aitalk/ki1.png){: .naka}
- <audio controls  class="naka">
+: <audio controls  class="naka">
   <source src="media/aitalk/ki1.ogg" type="audio/ogg">
   <source src="media/aitalk/ki1.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
@@ -320,7 +320,7 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 
 リュックサック：アクセント核4、「サ」がアクセント核
 : ![リュックサック](media/aitalk/ruck4.png){: .naka}
- <audio controls  class="naka">
+: <audio controls  class="naka">
   <source src="media/aitalk/ruck4.ogg" type="audio/ogg">
   <source src="media/aitalk/ruck4.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
@@ -332,14 +332,14 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 
 複合名詞
 : ![感染拡大](media/aitalk/kansen.png){: .naka}
- <audio controls  class="naka">
+: <audio controls  class="naka">
   <source src="media/aitalk/kansen.ogg" type="audio/ogg">
   <source src="media/aitalk/kansen.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
 複合動詞
 : ![走り回る](media/aitalk/hasiri.png){: .naka}
- <audio controls  class="naka">
+: <audio controls  class="naka">
   <source src="media/aitalk/hasiri.ogg" type="audio/ogg">
   <source src="media/aitalk/hasiri.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
