@@ -189,7 +189,7 @@ ChattyInfty3 AITalk版では「せいじ」「のぞみ」「かほ」の3人の
 英語の文章を英語音声で読み上げさせるには、英語の文章を選択して `Ctrl Shift V` または右クリックで話者切り替えをする。
 
 音声のバリエーション：
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552352829?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="音声のバリエーション"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552352829?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="音声のバリエーション"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 日本語 AITalk の音声は、 ChattyInfty3 や音声辞書の更新によって読み上げ方が変わることがある。
 そのため、1つのプロジェクトに一緒に関わる Chatty ファイル作成者と校正者は、必ず同じバージョンを使わなければいけない。
@@ -239,13 +239,14 @@ ChattyInfty3 AITalk版では「せいじ」「のぞみ」「かほ」の3人の
 
 デフォルト設定では読点でハイライト区切りになるが、音訳講習でよく指摘されるとおり、フレーズの切れ目として適切ではないところにも読点は出現する。
 そこでフレーズを切って良いかどうかを判断をするためには文の意味を理解する必要がある。それは AITalk にできない仕事なので、人間が読解してフレーズの切れ目を調整しなければならない。
+
 音訳者として切るべきではないところに読点がある場合、対処法は2種類ある。
 
 1. 切りたくない読点の後にハイライト結合 `Ctrl Shift +` を入れる。ポーズが消えるわけではないが、直後のプロミネンスが弱くなる。
 2. その読点を無音範囲 `Ctrl 0` に設定する。場合により、無音設定の直後にスペースを入れて読みを調整する必要がある。
 
 切りたくない読点（例文出典：北区障害者計画2021）：
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552409996?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="切りたくない読点"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552409996?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="切りたくない読点"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 #### 3.4.3. 日本語のアクセント規則
@@ -285,15 +286,15 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 新明解国語辞典のアクセント記号は、アクセント核がその単語の何番目の拍にあるかを四角囲みの数字で表している。四角囲みの0は、その単語にアクセント核が無い、つまり平板型であるということを表す。
 
 花：アクセント核2、いわゆる尾高型
-![花](media/aitalk/hana2.png){: .naka}
-<audio controls style="naka">
+: ![花](media/aitalk/hana2.png){: .naka}
+  <audio controls  class="naka">
   <source src="media/aitalk/hana2.ogg" type="audio/ogg">
   <source src="media/aitalk/hana2.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
 鼻：アクセント核0、いわゆる平板型
-![鼻](media/aitalk/hana0.png){: .naka}
-<audio controls style="naka">
+: ![鼻](media/aitalk/hana0.png){: .naka}
+ <audio controls  class="naka">
   <source src="media/aitalk/hana0.ogg" type="audio/ogg">
   <source src="media/aitalk/hana0.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
@@ -302,15 +303,15 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 次の助詞のほうが低くなれば、その名詞自体がアクセント核である。これを頭高型と呼ぶのは構わないが、そもそも1拍しか無いので頭か尾かの区別は無意味である。
 
 気：アクセント核0、いわゆる平板型
-![気](media/aitalk/ki0.png){: .naka}
-<audio controls style="naka">
+: ![気](media/aitalk/ki0.png){: .naka}
+ <audio controls  class="naka">
   <source src="media/aitalk/ki0.ogg" type="audio/ogg">
   <source src="media/aitalk/ki0.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
 木：アクセント核1、それ自体がアクセント核
-![木](media/aitalk/ki1.png){: .naka}
-<audio controls style="naka">
+: ![木](media/aitalk/ki1.png){: .naka}
+ <audio controls  class="naka">
   <source src="media/aitalk/ki1.ogg" type="audio/ogg">
   <source src="media/aitalk/ki1.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
@@ -318,8 +319,8 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 促音（つまる音）を含む単語で、促音の前後で高さが変わる場合、促音自体の拍はその直後の拍と同じ高さと見なされる。つまり促音の拍はアクセント核になり得ない。
 
 リュックサック：アクセント核4、「サ」がアクセント核
-![リュックサック](media/aitalk/ruck4.png){: .naka}
-<audio controls style="naka">
+: ![リュックサック](media/aitalk/ruck4.png){: .naka}
+ <audio controls  class="naka">
   <source src="media/aitalk/ruck4.ogg" type="audio/ogg">
   <source src="media/aitalk/ruck4.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
@@ -330,15 +331,15 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 2つの単語が隣り合って複合語と見なされる場合は、複合語内部では文節が切れず、複合語内部で高い拍の山が2つに分かれないようにアクセントが変化する。
 
 複合名詞
-![感染拡大](media/aitalk/kansen.png){: .naka}
-<audio controls style="naka">
+: ![感染拡大](media/aitalk/kansen.png){: .naka}
+ <audio controls  class="naka">
   <source src="media/aitalk/kansen.ogg" type="audio/ogg">
   <source src="media/aitalk/kansen.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
 複合動詞
-![走り回る](media/aitalk/hasiri.png){: .naka}
-<audio controls style="naka">
+: ![走り回る](media/aitalk/hasiri.png){: .naka}
+ <audio controls  class="naka">
   <source src="media/aitalk/hasiri.ogg" type="audio/ogg">
   <source src="media/aitalk/hasiri.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
