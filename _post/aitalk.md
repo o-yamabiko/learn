@@ -149,9 +149,9 @@ ChattyInfty3 では テキストファイル \*.txt か EPUB3 形式のファイ
 テキストのルビが以下の形式で書かれていれば、テキストインポート後の編集画面では、すでにルビ設定ができた状態になっている。
 
 テキストの記述：
-```
-一度｜浅間《あさま》の爆発を
-```
+: ```
+  一度｜浅間《あさま》の爆発を
+  ```
 
 Chatty 編集画面の表示：
 ![ルビ](media/aitalk/ruby.png){: .naka}
@@ -241,7 +241,7 @@ ChattyInfty3 AITalk版では「せいじ」「のぞみ」「かほ」の3人の
 1. 切りたくない読点の後にハイライト結合 `Ctrl Shift +` を入れる。ポーズが消えるわけではないが、直後のプロミネンスが弱くなる。
 2. その読点を無音範囲 `Ctrl 0` に設定する。場合により、無音設定の直後にスペースを入れて読みを調整する必要がある。
 
-切りたくない読点（北区障害者計画2021より）：
+切りたくない読点（例文出典：北区障害者計画2021）：
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552409996?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="切りたくない読点"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
@@ -254,7 +254,7 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 日本語には高低アクセントがある。音の高さは、1つの拍 (mora) に対して高低どちらか1つが決まる。高い拍が連続したり、低い拍が連続したりすることもある。
 
 ![高低アクセント](media/aitalk/accent.png){: .naka}
-<audio controls style="naka">
+<audio controls class="naka">
   <source src="media/aitalk/accent.ogg" type="audio/ogg">
   <source src="media/aitalk/accent.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
