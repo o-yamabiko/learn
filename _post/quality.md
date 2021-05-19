@@ -170,28 +170,28 @@ USBマイクやオーディオ・インターフェイスには、 PAD (Passive 
 {: .note}
 
 大きい声、PADスイッチ 0
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/prsL_0.ogg" type="audio/ogg">
   <source src="media/quality/prsL_0.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>  
     部屋の反響が入っているように聞こえる。
 
 大きい声、PADスイッチ -10
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/prsL_-10.ogg" type="audio/ogg">
   <source src="media/quality/prsL_-10.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>  
     反響が抑えられたように聞こえる。
 
 小さい声、PADスイッチ 0
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/prsS_0.ogg" type="audio/ogg">
   <source src="media/quality/prsS_0.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>  
     口中音が目立つかもしれない。
 
 小さい声、PADスイッチ -10
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/prsS_-10.ogg" type="audio/ogg">
   <source src="media/quality/prsS_-10.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>  
@@ -208,7 +208,7 @@ USBマイクやオーディオ・インターフェイスには、 PAD (Passive 
 まず、大きい声の録音を比較する。
 
 1.&nbsp;SHURE SM58 + DR-1
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/dr1L.ogg" type="audio/ogg">
   <source src="media/quality/dr1L.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
@@ -217,7 +217,7 @@ USBマイクやオーディオ・インターフェイスには、 PAD (Passive 
 
 
 2.&nbsp;CAD Audio U37 感度低減 + パソコン PRS Pro
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/prsL.ogg" type="audio/ogg">
   <source src="media/quality/prsL.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
@@ -233,7 +233,7 @@ USBマイクやオーディオ・インターフェイスには、 PAD (Passive 
 次に、小さい声の録音を比較する。
 
 1.&nbsp;SHURE SM58 + DR-1
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/dr1S.ogg" type="audio/ogg">
   <source src="media/quality/dr1S.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
@@ -242,7 +242,7 @@ USBマイクやオーディオ・インターフェイスには、 PAD (Passive 
 
 
 2.&nbsp;CAD Audio U37 感度低減 + パソコン PRS Pro
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/prsS.ogg" type="audio/ogg">
   <source src="media/quality/prsS.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
@@ -376,7 +376,7 @@ DR-1 では 22.05 kHz, PRS Pro では 44.1 kHz までしかサンプリング周
 {: .note}
 
 48 kHz
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/48000.ogg" type="audio/ogg">
   <source src="media/quality/48000.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
@@ -385,7 +385,7 @@ DR-1 では 22.05 kHz, PRS Pro では 44.1 kHz までしかサンプリング周
 
 
 44.1 kHz
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/44100.ogg" type="audio/ogg">
   <source src="media/quality/44100.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
@@ -394,7 +394,7 @@ DR-1 では 22.05 kHz, PRS Pro では 44.1 kHz までしかサンプリング周
 
 
 22.05 kHz
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/22050.ogg" type="audio/ogg">
   <source src="media/quality/22050.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
@@ -403,7 +403,7 @@ DR-1 では 22.05 kHz, PRS Pro では 44.1 kHz までしかサンプリング周
 
 
 11.025 kHz
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/11025.ogg" type="audio/ogg">
   <source src="media/quality/11025.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
@@ -412,7 +412,7 @@ DR-1 では 22.05 kHz, PRS Pro では 44.1 kHz までしかサンプリング周
 
 
 8 kHz
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/8000.ogg" type="audio/ogg">
   <source src="media/quality/8000.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
@@ -444,42 +444,42 @@ MP3方式では、人間の聴覚では再生音の劣化を感じにくいよ�
 実際に、圧縮した音声ファイルを聴き比べてみよう。
 
 圧縮前 PCM 22.05 kHz 16 bit
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/prsL.wav" type="audio/wav">
   お使いのブラウザでは表示できません。</audio>
 
 ![圧縮前 PCM 22.05 kHz 16 bitの周波数スペクトル](media/quality/prsL.png){: .naka}
 
 MP3, 128 kbps
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/prsL128.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
 ![MP3 128 kbpsの周波数スペクトル](media/quality/prsL128.png){: .naka}
 
 MP3, 64 kbps
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/prsL64.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
 ![MP3 64 kbpsの周波数スペクトル](media/quality/prsL64.png){: .naka}
 
 MP3, 32 kbps
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/prsL32.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
 ![MP3 32 kbpsの周波数スペクトル](media/quality/prsL32.png){: .naka}
 
 MP3, 16 kbps
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/prsL16.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
 ![MP3 16 kbpsの周波数スペクトル](media/quality/prsL16.png){: .naka}
 
 MP3, 8 kbps
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/prsL8.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
@@ -490,7 +490,7 @@ MP3, 8 kbps
 また、同じビットレートでも圧縮を重ねると、1回だけ圧縮したものとの違いが感じられるようになる。
 
 32 kbps での圧縮を20回重ねたもの
-: <audio controls style="naka">
+: <audio controls class="naka">
   <source src="media/quality/prsLrepeat20.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
 
