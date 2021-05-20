@@ -41,7 +41,7 @@ DAISY2.02 の製作では、どんなに複雑な書籍でもセクションレ�
 一方、 EPUB3 にはグループ機能が無い。セクションレベルが多くても、深い階層を使いたくない人は使わずに済ませば良いので、セクションレベルを 4以上にすることに再生操作上の問題があるとは考えにくい。ただし、階層が増えればどんな利用者にとってもわかりにくい構造になることは考慮する必要がある。基本的には、原本書籍の目次どおりの階層を付けるのが無難と思われる。EPUB形式上はレベル6までの階層を付けることが可能になっている。
 
 
-### 1.1. 音訳表に記入
+### 1.1. 音訳票に記入
 
 プロジェクトリーダー（やまびこでは基本的に読み手またはChatty編集者、分担する場合は統括する人）は、[音訳票の最新版 onyakuhyo\*.xlsx.zip をダウンロードする](https://drive.google.com/drive/folders/1lQOdyBPgECghazdSIF-zWrg5ktukqLJa?usp=sharing)。ファイル名の数字が大きいほうが新しい。ダウンロードしたファイルを展開すると xlsx ファイルが出てくる。その xlsx ファイルを、自分で区別しやすい名前に変更する。
 
@@ -54,15 +54,15 @@ DAISY2.02 の製作では、どんなに複雑な書籍でもセクションレ�
 
 使用する機器やソフトウェアは、以下のとおり。
 
-1. [PRSPro](http://www.plextalk.com/jp/products/prspro/) または [DR-1](http://www.plextalk.com/jp/support/dr1/)
-2. スキャナ（デジタル書籍が無い場合）
-3. 製品版OCR： [読取革命 Ver.15](https://www.panasonic.com/jp/company/pstc/products/yomikaku.html) または [e.Typist v.15.0](https://mediadrive.jp/products/et)（デジタル書籍が無い場合）
-4. テキストエディタ（デジタル書籍が無い場合。 メモ帳、 ワードパッド、 Google Docs、 Microsoft Word、 LibreOffice Writer、 Vim、 Emacs などのうち、好きなもの）
-5. [ChattyInfty3](https://www.sciaccess.net/jp/ChattyInfty/index.html) (AITalk版でもSAPI5版でも良い)
-6. [Tobi](https://daisy.org/activities/software/tobi/)
-7. 自作の自動修正スクリプト（Linuxで使えるものしか作っていない）
-8. [pagina EPUB-Checker](https://www.pagina.gmbh/produkte/epub-checker/)
-9. [Ace by DAISY](https://daisy.github.io/ace/)
+- [PRSPro](http://www.plextalk.com/jp/products/prspro/) または [DR-1](http://www.plextalk.com/jp/support/dr1/)
+- スキャナ（デジタル書籍が無い場合）
+- 製品版OCR： [読取革命 Ver.15](https://www.panasonic.com/jp/company/pstc/products/yomikaku.html) または [e.Typist v.15.0](https://mediadrive.jp/products/et)（デジタル書籍が無い場合）
+- テキストエディタ（デジタル書籍が無い場合。 メモ帳、 ワードパッド、 Google Docs、 Microsoft Word、 LibreOffice Writer、 Vim、 Emacs などのうち、好きなもの）
+- [ChattyInfty3](https://www.sciaccess.net/jp/ChattyInfty/index.html) (AITalk版でもSAPI5版でも良い)
+- [Tobi](https://daisy.org/activities/software/tobi/)
+- 自作の自動修正スクリプト（Linuxで使えるものしか作っていない）
+- [pagina EPUB-Checker](https://www.pagina.gmbh/produkte/epub-checker/)
+- [Ace by DAISY](https://daisy.github.io/ace/)
 
 音声チームとテキストチームで分担し、以下の手順で製作する。
 
@@ -87,15 +87,15 @@ DAISY2.02 の製作では、どんなに複雑な書籍でもセクションレ�
 
 使用する機器やソフトウェアは、以下のとおり。
 
-1. スキャナ（デジタル書籍が無い場合）
-2. 製品版OCR： [読取革命 Ver.15](https://www.panasonic.com/jp/company/pstc/products/yomikaku.html) または [e.Typist v.15.0](https://mediadrive.jp/products/et)（デジタル書籍が無い場合）
-3. テキストエディタ（デジタル書籍が無い場合。 メモ帳、 ワードパッド、 Google Docs、 Microsoft Word、 LibreOffice Writer、 Vim、 Emacs などのうち、好きなもの）
-4. [ChattyInfty3](https://www.sciaccess.net/jp/ChattyInfty/index.html) (AITalk版。英語以外の外国語を含む場合はSAPI5版を併用。)
-5. 自作の自動修正スクリプト（Linuxで使えるものしか作っていない）
-6. [pagina EPUB-Checker](https://www.pagina.gmbh/produkte/epub-checker/)
-7. [Ace by DAISY](https://daisy.github.io/ace/)
+- スキャナ（デジタル書籍が無い場合）
+- 製品版OCR： [読取革命 Ver.15](https://www.panasonic.com/jp/company/pstc/products/yomikaku.html) または [e.Typist v.15.0](https://mediadrive.jp/products/et)（デジタル書籍が無い場合）
+- テキストエディタ（デジタル書籍が無い場合。 メモ帳、 ワードパッド、 Google Docs、 Microsoft Word、 LibreOffice Writer、 Vim、 Emacs などのうち、好きなもの）
+- [ChattyInfty3](https://www.sciaccess.net/jp/ChattyInfty/index.html) (AITalk版。英語以外の外国語を含む場合はSAPI5版を併用。)
+- 自作の自動修正スクリプト（Linuxで使えるものしか作っていない）
+- [pagina EPUB-Checker](https://www.pagina.gmbh/produkte/epub-checker/)
+- [Ace by DAISY](https://daisy.github.io/ace/)
 
-合成音声でのデイジー版製作では、上の 1.1節の手順として示した 4ステップのうち、2と4に相当するステップだけで完成する。ただし、人間の声を使わない代わりに、合成音声の読み上げを調整する必要がある。
+合成音声でのデイジー版製作では、上の「1.2. 人間の声が入ったマルチメディアデイジー製作の概要」で手順として示した 4ステップのうち、2と4に相当するステップだけで完成する。ただし、人間の声を使わない代わりに、合成音声の読み上げを調整する必要がある。
 
 1. テキストチームは、Chatty編集者、Chatty校正者から成る。  
   原本のデジタル版が無い場合は、スキャン者、OCR者、テキスト修正者も必要。  
