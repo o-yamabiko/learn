@@ -279,10 +279,12 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 日本語には高低アクセントがある。音の高さは、1つの拍 (mora) に対して高低どちらか1つが決まる。高い拍が連続したり、低い拍が連続したりすることもある。
 
 ![高低アクセント](media/aitalk/accent.png){: .naka}
-<audio class="naka" controls>
+<div class="naka">
+<audio id="wplayer" controls>
   <source src="media/aitalk/accent.ogg" type="audio/ogg">
   <source src="media/aitalk/accent.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
+</div>
 
 日本語の音声を細かく区切ろうとするとき、意味が通じる最小単位を文節と呼ぶ。「ね」を挟んでも通じるところが文節の切れ目だと教える人もいる。
 
@@ -309,17 +311,21 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 
 花：アクセント核2、いわゆる尾高型
 : ![花](media/aitalk/hana2.png){: .naka}
-: <audio controls  class="naka">
+: <div class="naka">
+  <audio id="wplayer" controls>
   <source src="media/aitalk/hana2.ogg" type="audio/ogg">
   <source src="media/aitalk/hana2.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
+  </div>
 
 鼻：アクセント核0、いわゆる平板型
 : ![鼻](media/aitalk/hana0.png){: .naka}
-: <audio controls  class="naka">
+: <div class="naka">
+  <audio id="wplayer" controls>
   <source src="media/aitalk/hana0.ogg" type="audio/ogg">
   <source src="media/aitalk/hana0.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
+  </div>
 
 名詞が1拍だけでできている場合、その名詞よりも次の助詞のほうが高くなれば、その名詞にはアクセント核が無い、つまり平板型と見なされる。
 
@@ -327,26 +333,32 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 
 気：アクセント核0、いわゆる平板型
 : ![気](media/aitalk/ki0.png){: .naka}
-: <audio controls  class="naka">
+: <div class="naka">
+  <audio id="wplayer" controls>
   <source src="media/aitalk/ki0.ogg" type="audio/ogg">
   <source src="media/aitalk/ki0.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
+  </div>
 
 木：アクセント核1、それ自体がアクセント核
 : ![木](media/aitalk/ki1.png){: .naka}
-: <audio controls  class="naka">
+: <div class="naka">
+  <audio id="wplayer" controls>
   <source src="media/aitalk/ki1.ogg" type="audio/ogg">
   <source src="media/aitalk/ki1.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
+  </div>
 
 促音（つまる音）を含む単語で、促音の前後で高さが変わる場合、促音自体の拍はその直後の拍と同じ高さと見なされる。つまり促音の拍はアクセント核になり得ない。
 
 リュックサック：アクセント核4、「サ」がアクセント核
 : ![リュックサック](media/aitalk/ruck4.png){: .naka}
-: <audio controls  class="naka">
+: <div class="naka">
+  <audio id="wplayer" controls>
   <source src="media/aitalk/ruck4.ogg" type="audio/ogg">
   <source src="media/aitalk/ruck4.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
+  </div>
 
 
 
@@ -355,17 +367,21 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 
 複合名詞
 : ![感染拡大](media/aitalk/kansen.png){: .naka}
-: <audio controls  class="naka">
+: <div class="naka">
+  <audio id="wplayer" controls>
   <source src="media/aitalk/kansen.ogg" type="audio/ogg">
   <source src="media/aitalk/kansen.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
+  </div>
 
 複合動詞
 : ![走り回る](media/aitalk/hasiri.png){: .naka}
-: <audio controls  class="naka">
+: <div class="naka">
+  <audio id="wplayer" controls>
   <source src="media/aitalk/hasiri.ogg" type="audio/ogg">
   <source src="media/aitalk/hasiri.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
+  </div>
 
 
 #### 3.4.4. 単語登録
