@@ -283,6 +283,7 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
   <source src="media/aitalk/accent.ogg" type="audio/ogg">
   <source src="media/aitalk/accent.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
+{: .naka}
 
 日本語の音声を細かく区切ろうとするとき、意味が通じる最小単位を文節と呼ぶ。「ね」を挟んでも通じるところが文節の切れ目だと教える人もいる。
 
