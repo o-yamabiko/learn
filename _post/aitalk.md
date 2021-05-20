@@ -279,7 +279,7 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 日本語には高低アクセントがある。音の高さは、1つの拍 (mora) に対して高低どちらか1つが決まる。高い拍が連続したり、低い拍が連続したりすることもある。
 
 ![高低アクセント](media/aitalk/accent.png){: .naka}
-<audio controls class="naka">
+<audio controls>
   <source src="media/aitalk/accent.ogg" type="audio/ogg">
   <source src="media/aitalk/accent.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
