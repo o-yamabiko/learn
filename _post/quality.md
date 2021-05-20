@@ -212,8 +212,7 @@ USBマイクやオーディオ・インターフェイスには、 PAD (Passive 
   <source src="media/quality/dr1L.ogg" type="audio/ogg">
   <source src="media/quality/dr1L.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
-
-![DR-1, 大きい声の周波数スペクトル](media/quality/dr1L.png){: .naka}
+: ![DR-1, 大きい声の周波数スペクトル](media/quality/dr1L.png){: .naka}
 
 
 2.&nbsp;CAD Audio U37 感度低減 + パソコン PRS Pro
@@ -221,8 +220,7 @@ USBマイクやオーディオ・インターフェイスには、 PAD (Passive 
   <source src="media/quality/prsL.ogg" type="audio/ogg">
   <source src="media/quality/prsL.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
-
-![パソコン, 大きい声の周波数スペクトル](media/quality/prsL.png){: .naka}
+: ![パソコン, 大きい声の周波数スペクトル](media/quality/prsL.png){: .naka}
 
 大きい声で録音する場合には、どちらの機械を使っても、大して違いがない。
 
@@ -237,8 +235,7 @@ USBマイクやオーディオ・インターフェイスには、 PAD (Passive 
   <source src="media/quality/dr1S.ogg" type="audio/ogg">
   <source src="media/quality/dr1S.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
-
-![DR-1, 小さい声の周波数スペクトル](media/quality/dr1S.png){: .naka}
+: ![DR-1, 小さい声の周波数スペクトル](media/quality/dr1S.png){: .naka}
 
 
 2.&nbsp;CAD Audio U37 感度低減 + パソコン PRS Pro
@@ -246,8 +243,7 @@ USBマイクやオーディオ・インターフェイスには、 PAD (Passive 
   <source src="media/quality/prsS.ogg" type="audio/ogg">
   <source src="media/quality/prsS.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
-
-![パソコン, 小さい声の周波数スペクトル](media/quality/prsS.png){: .naka}
+: ![パソコン, 小さい声の周波数スペクトル](media/quality/prsS.png){: .naka}
 
 言葉の子音や小さい声では、高い周波数の成分が相対的に強いので、大きい声の録音より、機械の違いが鮮明になる。
 
@@ -380,8 +376,7 @@ DR-1 では 22.05 kHz, PRS Pro では 44.1 kHz までしかサンプリング周
   <source src="media/quality/48000.ogg" type="audio/ogg">
   <source src="media/quality/48000.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
-
-![48 kHz の周波数スペクトル](media/quality/48000.png){: .naka}
+: ![48 kHz の周波数スペクトル](media/quality/48000.png){: .naka}
 
 
 44.1 kHz
@@ -389,8 +384,7 @@ DR-1 では 22.05 kHz, PRS Pro では 44.1 kHz までしかサンプリング周
   <source src="media/quality/44100.ogg" type="audio/ogg">
   <source src="media/quality/44100.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
-
-![44.1 kHz の周波数スペクトル](media/quality/44100.png){: .naka}
+: ![44.1 kHz の周波数スペクトル](media/quality/44100.png){: .naka}
 
 
 22.05 kHz
@@ -398,8 +392,7 @@ DR-1 では 22.05 kHz, PRS Pro では 44.1 kHz までしかサンプリング周
   <source src="media/quality/22050.ogg" type="audio/ogg">
   <source src="media/quality/22050.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
-
-![22.05 kHz の周波数スペクトル](media/quality/22050.png){: .naka}
+: ![22.05 kHz の周波数スペクトル](media/quality/22050.png){: .naka}
 
 
 11.025 kHz
@@ -407,8 +400,7 @@ DR-1 では 22.05 kHz, PRS Pro では 44.1 kHz までしかサンプリング周
   <source src="media/quality/11025.ogg" type="audio/ogg">
   <source src="media/quality/11025.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
-
-![11.025 kHz の周波数スペクトル](media/quality/11025.png){: .naka}
+: ![11.025 kHz の周波数スペクトル](media/quality/11025.png){: .naka}
 
 
 8 kHz
@@ -416,8 +408,7 @@ DR-1 では 22.05 kHz, PRS Pro では 44.1 kHz までしかサンプリング周
   <source src="media/quality/8000.ogg" type="audio/ogg">
   <source src="media/quality/8000.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
-
-![8 kHz の周波数スペクトル](media/quality/8000.png){: .naka}
+: ![8 kHz の周波数スペクトル](media/quality/8000.png){: .naka}
 
 
 サンプリング周波数が 22.05 kHz よりも下がると、子音の不明瞭さが際立ってくる。
@@ -447,43 +438,37 @@ MP3方式では、人間の聴覚では再生音の劣化を感じにくいよ�
 : <audio controls class="naka">
   <source src="media/quality/prsL.wav" type="audio/wav">
   お使いのブラウザでは表示できません。</audio>
-
-![圧縮前 PCM 22.05 kHz 16 bitの周波数スペクトル](media/quality/prsL.png){: .naka}
+: ![圧縮前 PCM 22.05 kHz 16 bitの周波数スペクトル](media/quality/prsL.png){: .naka}
 
 MP3, 128 kbps
 : <audio controls class="naka">
   <source src="media/quality/prsL128.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
-
-![MP3 128 kbpsの周波数スペクトル](media/quality/prsL128.png){: .naka}
+: ![MP3 128 kbpsの周波数スペクトル](media/quality/prsL128.png){: .naka}
 
 MP3, 64 kbps
 : <audio controls class="naka">
   <source src="media/quality/prsL64.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
-
-![MP3 64 kbpsの周波数スペクトル](media/quality/prsL64.png){: .naka}
+: ![MP3 64 kbpsの周波数スペクトル](media/quality/prsL64.png){: .naka}
 
 MP3, 32 kbps
 : <audio controls class="naka">
   <source src="media/quality/prsL32.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
-
-![MP3 32 kbpsの周波数スペクトル](media/quality/prsL32.png){: .naka}
+: ![MP3 32 kbpsの周波数スペクトル](media/quality/prsL32.png){: .naka}
 
 MP3, 16 kbps
 : <audio controls class="naka">
   <source src="media/quality/prsL16.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
-
-![MP3 16 kbpsの周波数スペクトル](media/quality/prsL16.png){: .naka}
+: ![MP3 16 kbpsの周波数スペクトル](media/quality/prsL16.png){: .naka}
 
 MP3, 8 kbps
 : <audio controls class="naka">
   <source src="media/quality/prsL8.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
-
-![MP3 8 kbpsの周波数スペクトル](media/quality/prsL8.png){: .naka}
+: ![MP3 8 kbpsの周波数スペクトル](media/quality/prsL8.png){: .naka}
 
 ビットレートが 32 kbps あたりから下の値になると、元の音声との違いが感じられるようになる。 周波数成分のグラフを見ると、ビットレートが小さいほど、空白の部分が増えている。
 
@@ -493,8 +478,7 @@ MP3, 8 kbps
 : <audio controls class="naka">
   <source src="media/quality/prsLrepeat20.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio>
-
-![32 kbps での圧縮を20回繰り返したものの周波数スペクトル](media/quality/prsLrepeat20.png){: .naka}
+: ![32 kbps での圧縮を20回繰り返したものの周波数スペクトル](media/quality/prsLrepeat20.png){: .naka}
 
 
 
