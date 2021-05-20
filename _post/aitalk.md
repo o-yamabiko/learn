@@ -386,6 +386,7 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 
 ChattyInfty3 に付属している AITalk は、単体で売られている AITalk と違って、登録できる単語の品詞が限られている。名詞と記号だけを登録でき、動詞や形容詞などは登録できない。
 動詞や形容詞などを名詞として登録してしまうと、前後の文脈の中で名詞としてのアクセント変化が起き、読み上げが不自然になるし、活用形にも対応できない。
+
 そういう品詞のアクセントを変更したい場合、特定の名詞句の内部に現れるだけなら、その名詞句全体を名詞として単語登録すればよい。
 それ以外の場合は、後述の読み設定で調整する。
 
@@ -442,7 +443,7 @@ ChattyInfty3 に付属している AITalk は、単体で売られている AITa
 読み設定の「アクセント制御」チェックボックスをオフにして、読み替えを普通の漢字かな交じり表記で記入する。
 こうすると、 AITalk は前後の文脈の間に読み替え部分を挿入した形で構文解析するので、自然な読み上げに仕上がる。
 
-読み設定の便利な使い方：
+読み設定の便利な使い方（例文出典：[渡辺 温『<ruby>遺書<rp>《</rp><rt>かきおき</rt><rp>》</rp></ruby>に<ruby>就<rp>《</rp><rt>つい</rt><rp>》</rp></ruby>て』青空文庫.](https://www.aozora.gr.jp/cards/000020/card2570.html)）：
 : <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552419877?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="読み設定の便利な使い方"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 #### 3.4.6. 外国語
@@ -474,7 +475,7 @@ ChattyInfty3 のデフォルトの入力モードはテキストモードにな�
 
 数式モードであっても、その読み上げは音訳として正しくない。「設定＞読み上げ定義の編集」である程度修正できそうではある。これをいじらない場合は、以下の例のような音訳的読み替えを手動で記述し、数式に当てるという方法が考えられる。
 
-数式：
+数式（例文出典：西成 活裕『東大の先生! 文系の私に超わかりやすく数学を教えてください!』かんき出版, 2019.）：
 : <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552421208?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="数式"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ### 3.5. フレーズの結合
