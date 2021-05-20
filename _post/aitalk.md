@@ -264,7 +264,7 @@ ChattyInfty3 AITalk版では「せいじ」「のぞみ」「かほ」の3人の
 
 1. 切りたくない読点の後にハイライト結合 `Ctrl Shift +` を入れる。ポーズが消えるわけではないが、直後のプロミネンスが弱くなる。
 2. その読点を無音範囲 `Ctrl 0` に設定する。場合により、無音設定の直後にスペースを入れて読みを調整する必要がある。
-3. 「設定＞音声設定」の「ハイライト（日本語）」タブで「読点で分割」のチェックボックスをオフにする。読点で切るべき場合も多いので、一般にはおすすめしない。
+3. 「設定＞音声設定」の「ハイライト（日本語）」タブで「読点で分割」のチェックボックスをオフにする。読点で切るべき場合も多いので、おすすめしない。
 
 切りたくない読点（例文出典：北区障害者計画2021）：
 : <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552409996?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="切りたくない読点"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
