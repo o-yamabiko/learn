@@ -467,6 +467,9 @@ ChattyInfty3 に付属している AITalk は、単体で売られている AITa
 読み設定の便利な使い方（例文出典：[渡辺 温『<ruby>遺書<rp>《</rp><rt>かきおき</rt><rp>》</rp></ruby>に<ruby>就<rp>《</rp><rt>つい</rt><rp>》</rp></ruby>て』青空文庫.](https://www.aozora.gr.jp/cards/000020/card2570.html)）：
 : <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552419877?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="読み設定の便利な使い方"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+ここでは読み設定の説明のため、「遺書」を「カキオキ」と読ませることに読み設定を使ったが、「遺書」は名詞として使われているので、普通は単語登録で読みを修正する。
+{: .note}
+
 #### 3.4.6. 外国語
 
 英語以外の言語を正しく読み上げさせるには、 ChattyInfty3 SAPI5版を使う。
