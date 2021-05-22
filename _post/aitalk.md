@@ -85,7 +85,10 @@ SAPI5版の操作方法としては、 AITalk版より少し機能が少ない�
 
 新規プロジェクトに取り掛かる前に、アプリをアップデートする。
 
-[ChattyInftyの概要](https://www.sciaccess.net/jp/ChattyInfty/index.html#Download)のページを開き、以下のものについて、手元のバージョンより新しいものが出ていれば、それらをダウンロードし展開して、それぞれの中の `*.exe` ファイルを実行する。音訳票には、利用する Chatty のバーション番号を記入する。音訳票は[やまびこの共有フォルダ](https://drive.google.com/drive/folders/1lQOdyBPgECghazdSIF-zWrg5ktukqLJa?usp=sharing)から `onyakuhyo*.xlsx.zip` をダウンロードし展開して書き込む。
+[ChattyInftyの概要](https://www.sciaccess.net/jp/ChattyInfty/index.html#Download)のページを開き、以下のものについて、手元のバージョンより新しいものが出ていれば、それらをダウンロードし展開して、それぞれの中の `*.exe` ファイルを実行する。
+
+音訳票には、利用する Chatty のバーション番号を記入する。音訳票は[やまびこの共有フォルダ](https://drive.google.com/drive/folders/1lQOdyBPgECghazdSIF-zWrg5ktukqLJa?usp=sharing)から `onyakuhyo*.xlsx.zip` をダウンロードし展開して書き込む。
+{: .note}
 
 バージョンアップにより操作方法が変わることもあるので、「更新内容」の pdf も確認する。
 
