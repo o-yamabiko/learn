@@ -13,6 +13,8 @@ math: true
 # やまびこ式マルチメディアデイジー図書の作成手順
 {:.no_toc}
 
+__このページは未完成です。__
+
 ## 目次
 {:.no_toc}
 
@@ -58,6 +60,7 @@ DAISY2.02 の製作では、どんなに複雑な書籍でもセクションレ�
 - スキャナ（デジタル書籍が無い場合）
 - 製品版OCR： [読取革命 Ver.15](https://www.panasonic.com/jp/company/pstc/products/yomikaku.html) または [e.Typist v.15.0](https://mediadrive.jp/products/et)（デジタル書籍が無い場合）
 - テキストエディタ（デジタル書籍が無い場合。 メモ帳、 ワードパッド、 Google Docs、 Microsoft Word、 LibreOffice Writer、 Vim、 Emacs などのうち、好きなもの）
+- EPUBリーダー： [Thorium Reader](https://www.edrlab.org/software/thorium-reader/)（デジタル書籍がある場合）
 - [ChattyInfty3](https://www.sciaccess.net/jp/ChattyInfty/index.html) (AITalk版でもSAPI5版でも良い)
 - [Tobi](https://daisy.org/activities/software/tobi/)
 - 自作の自動修正スクリプト（Linuxで使えるものしか作っていない）
@@ -90,6 +93,7 @@ DAISY2.02 の製作では、どんなに複雑な書籍でもセクションレ�
 - スキャナ（デジタル書籍が無い場合）
 - 製品版OCR： [読取革命 Ver.15](https://www.panasonic.com/jp/company/pstc/products/yomikaku.html) または [e.Typist v.15.0](https://mediadrive.jp/products/et)（デジタル書籍が無い場合）
 - テキストエディタ（デジタル書籍が無い場合。 メモ帳、 ワードパッド、 Google Docs、 Microsoft Word、 LibreOffice Writer、 Vim、 Emacs などのうち、好きなもの）
+- EPUBリーダー： [Thorium Reader](https://www.edrlab.org/software/thorium-reader/)（デジタル書籍がある場合）
 - [ChattyInfty3](https://www.sciaccess.net/jp/ChattyInfty/index.html) (AITalk版。英語以外の外国語を含む場合はSAPI5版を併用。)
 - 自作の自動修正スクリプト（Linuxで使えるものしか作っていない）
 - [pagina EPUB-Checker](https://www.pagina.gmbh/produkte/epub-checker/)
@@ -186,7 +190,14 @@ WCAGの簡単なチェック項目については[クイックリファレンス
 3. DRM 解除した azw3 ファイルをパソコンで epub3 に変換する。
 4. epub3 を ChattyInfty3 にインポートする。
 
-上の手順4がエラーになる場合は、手順3で epub3 の代わりにテキストファイルに変換したものを ChattyInfty3 にインポートしても良い。その場合、画像などは書籍データから抽出して ChattyInfty3 編集画面で挿入する。
+上の手順4がエラーになる場合は、手順3で変換の設定を少し変えてやり直してみる。
+
+どうしてもインポートのエラーが解消できない場合は、 epub3 の代わりにテキストファイルに変換したものを ChattyInfty3 にインポートしても良い。その場合、画像などは書籍データから抽出して ChattyInfty3 編集画面で挿入する。
+
+無事にインポートできた場合でも、原本の一部が欠けた形でインポートされていることがある。インポートした内容を原本と照合し、同じ内容であるかを必ず確認する必要がある。
+
+原本と照合するには、ChattyInfty3 をインストールしたパソコンと同じパソコンで Thorium Reader を起動し、そこに原本のEPUBファイルを開いておく。
+ChattyInfty3 も開き、インポートした原稿を原本のEPUBと見比べる。不足があれば、その部分を Thorium Reader 上でコピーし、 ChattyInfty3 上で貼り付ける。
 
 
 ### 3.2. ChattyInfty3 で編集
