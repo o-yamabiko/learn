@@ -1,6 +1,6 @@
 ---
 layout: caymanyomi
-category: daisy
+category: ai
 docid: chatty01
 title: ChattyInfty3 利用方法
 author: 水野光子
@@ -13,6 +13,9 @@ version: 1
 
 # ChattyInfty3 利用方法
 {:.no_toc}
+
+ここでは ChattyInfty3 を音訳に活用する方法について書かれています。
+[ChattyInfty3 の操作方法については別ページをご覧ください。](aitalk.html)
 
 ## 目次
 {:.no_toc}
