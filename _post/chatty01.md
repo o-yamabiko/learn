@@ -122,8 +122,8 @@ ChattyInfty3 の合成音声機能を使う作業の場合、原稿作成者と�
 
 上記のように、 ChattyInfty3 で何を作るかによって、やるべき操作・やると無駄な操作が決まる。それぞれの目的に応じた作業手順を別ページに載せる。
 
-- [やまびこ式マルチメディアデイジー図書の作成手順（人の声や合成音声で図書館納品に適合するマルチメディアデイジー作成する方法）](https://o-yamabiko.github.io/learn/mmd.html)
-- [ChattyInfty3で音声デイジー：グループ作業指針](https://o-yamabiko.github.io/learn/chatty_group.html)
-- [やまびこ通信用Chatty原稿の形式（「やまびこ通信」のウェブページ用の合成音声マルチメディアデイジー作成に特化した説明。それ以外の用途には適さない。）](https://o-yamabiko.github.io/learn/ctusin.html)
+- マルチメディアデイジー作成：[やまびこ式マルチメディアデイジー図書の作成手順](https://o-yamabiko.github.io/learn/mmd.html)
+- 音声デイジー作成：[ChattyInfty3で音声デイジー：グループ作業指針](https://o-yamabiko.github.io/learn/chatty_group.html)
+- やまびこ通信作成：[やまびこ通信用Chatty原稿の形式](https://o-yamabiko.github.io/learn/ctusin.html)
 
 
