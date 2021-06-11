@@ -63,11 +63,11 @@ math: false
 
 [やまびこ通信2019年3月号](https://o-yamabiko.github.io/tusin201903.html)からの転載を含みます。
 
-- [個人情報保護（METI/経済産業省）](https://www.meti.go.jp/policy/it_policy/privacy/)より、特に以下の部分：
-  - [「個人情報」の「取扱いのルール」が改正されます！（パンフレット）（PDF形式：19,330KB）](http://www.meti.go.jp/policy/it_policy/privacy/downloadfiles/01kaiseikojinjohopamphlet.pdf)
+- [個人情報保護（METI/経済産業省）: リンク切れのため WayBackMachine のアーカイブより](https://web.archive.org/web/20190514182415/https://www.meti.go.jp/policy/it_policy/privacy/)より、特に以下の部分：
+  - [「個人情報」の「取扱いのルール」が改正されます！（パンフレット）（PDF形式：19,330KB）: リンク切れのため WayBackMachine のアーカイブより](https://web.archive.org/web/20170110051754/http://www.meti.go.jp/policy/it_policy/privacy/downloadfiles/01kaiseikojinjohopamphlet.pdf)
 - [法令･ガイドライン等｜個人情報保護委員会](https://www.ppc.go.jp/personalinfo/legal/)より、特に以下の部分：
-  - [個人情報の保護に関する法律についてのガイドライン（通則編） (PDF : 592KB)](https://www.ppc.go.jp/files/pdf/190123_guidelines01.pdf)
-  - [「個人情報の保護に関する法律についてのガイドライン」及び「個人データの漏えい等の事案が発生した場合等の対応について」に関するＱ＆Ａ (PDF : 1363KB)](https://www.ppc.go.jp/files/pdf/181225_APPI_QA.pdf)
+  - [個人情報の保護に関する法律についてのガイドライン（通則編）](https://www.ppc.go.jp/personalinfo/legal/2009_guidelines_tsusoku/)
+  - [「個人情報の保護に関する法律についてのガイドライン」及び「個人データの漏えい等の事案が発生した場合等の対応について」に関するＱ＆Ａ](https://www.ppc.go.jp/personalinfo/faq/2009_APPI_QA/)
   - 「お役立ちツール 中小企業向け」の「自己点検チェックリスト」
 
 
