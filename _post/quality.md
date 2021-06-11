@@ -23,7 +23,7 @@ math: true
 
 「製品の音質」の定義をした研究者は多いが、その定義の仕方には共通点がある[^porter1997]。
 
-[^porter1997]: [Porter, N.&nbsp;D. and Berry, B.&nbsp;F.: A study of standard methods for measuring the sound quality of industrial products: final report. *CIRA (EXT) 021*, 1997. p.&nbsp;5.](http://publications.npl.co.uk/dbtw-wpd/exec/dbtwpub.dll?&QB0=AND&QF0=ID&QI0=%20000912%20&TN=NPLPUBS&RF=WFullRecordDetails&DL=0&RL=0&NP=4&AC=QBE_QUERY)
+[^porter1997]: [Porter, N.&nbsp;D. and Berry, B.&nbsp;F.: A study of standard methods for measuring the sound quality of industrial products: final report. *CIRA (EXT) 021*, 1997. p.&nbsp;5.]( A study of standard methods for measuring the sound quality of industrial products: final report.)
 
 以下の3種類の定義は、20世紀の終わり頃に発表されたものだ。
 
@@ -67,8 +67,8 @@ Sound Quality (SQ) is the perceptual reaction to the sound of a product that ref
 
 音質がどういうものから構成されるかということについて、決定的な説明は存在しない[^coxSIRC]。
 
-[^coxSIRC]: [Cox, T.: *Sound quality - making products sound better.* Acoustics Reserarch Centre, Salford Innovation Research Centre (SIRC), University of Salford, Manchester, 2018.](https://www.salford.ac.uk/research/sirc/research-groups/acoustics/psychoacoustics/sound-quality-making-products-sound-better)  
-    Page "An introduction to Sound Quality testing. Defining sound quality."
+[^coxSIRC]: [Cox, T.: *Sound quality - making products sound better.* Acoustics Research Centre, Salford Innovation Research Centre (SIRC), University of Salford, Manchester, 2018.](https://web.archive.org/web/20171108161004/http://www.salford.ac.uk/research/sirc/research-groups/acoustics/psychoacoustics/sound-quality-making-products-sound-better)  
+    Page "An introduction to Sound Quality testing. [Defining sound quality.](https://web.archive.org/web/20200215041403/https://www.salford.ac.uk/research/sirc/research-groups/acoustics/psychoacoustics/sound-quality-making-products-sound-better/accordion/sound-quality-testing/defining-sound-quality)"
 
 
 それでも、「1. 音質とは？」で紹介した定義を考慮すると、
@@ -324,11 +324,11 @@ UA-1G の入力感度に幅があるのは、ダイヤルで調整できるか�
 母音は 500 Hz から 1 kHz 前後の周波数成分が主体となる。 子音が含む周波数成分はもっと高く、高いものでは 5 kHz 付近の周波数成分が主体となる子音もある[^siin]。
 
 [^siin]:
-    [Mannell, R.: *Speech Spectra and Spectrograms.* Macquarie University, 2008.](http://clas.mq.edu.au/speech/acoustics/speech_spectra/index.html) Page "6. Some consonant spectra. c. Fricatives."  
+    [Mannell, R.: *Speech Spectra and Spectrograms.* Macquarie University, 2008. (Archive)](https://web.archive.org/web/20190123114131/http://clas.mq.edu.au/speech/acoustics/speech_spectra/index.html) (Renewed Page: "[Some consonant spectra. c. Fricatives.](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/medicine-and-health-sciences/departments-and-centres/department-of-linguistics/our-research/phonetics-and-phonology/speech/acoustics/speech-acoustics/fricatives)")  
     日本語の音声については、  
     [『言語について』 補聴器サービス, 2010.](http://ha-service.jp/gengo.html)  
     個人が趣味で公開している研究成果もある。  
-    [Nakayama, T.: 『音声認識～周波数スペクトルで音素を判別』 2012.](http://www.geocities.jp/myonsei/index.html)  
+    [Nakayama, T.: 『音声認識～周波数スペクトルで音素を判別』 2012. (Archive)](https://web.archive.org/web/20171115070142/http://www.geocities.jp/myonsei/index.html)  
     「子音の音声認識」のページ。
 
 
@@ -342,7 +342,7 @@ UA-1G の入力感度に幅があるのは、ダイヤルで調整できるか�
 
 一般的な再生環境では、 16 bit の量子化ビット数でも十分な精度があると考えられる[^bit]。
 
-[^bit]: [Monty (Montgomery, C.): *24/192 Music Downloads ...and why they make no sense.* xiph, 2012.](https://people.xiph.org/~xiphmont/demo/neil-young.html)  
+[^bit]: [Monty (Montgomery, C.): *24/192 Music Downloads ...and why they make no sense.* xiph, 2012.](https://web.archive.org/web/20200426050432/https://people.xiph.org/~xiphmont/demo/neil-young.html)  
     日本語での記事は  
     [「192kHz/24bitのハイレゾ無圧縮音源は本当に聴き分けられるものなのか？」, Gigazine, 2014.](https://gigazine.net/news/20141203-hi-rez-audio/)
 
@@ -521,9 +521,9 @@ MP3, 8 kbps
 それにもかかわらず、「DR-1の録音図書はパソコン録音よりも音質が良い」という意見がある[^zenkoku]。その原因として、
 
 1. 音の柔らかさ、心地よさなど、再現性以外の音の性質に重みを置いた評価をしている
-2. オーディオ・インターフェイスを使っているが、その設定の仕方が適切ではない
-3. 性能の低い機器を接続している
-4. 機器の使い方が間違っている
+2. 録音時にオーディオ・インターフェイスを使っているが、その設定の仕方が適切ではない
+3. 録音時に性能の低い機器を接続している
+4. 録音機器の使い方が間違っている
 
 などの可能性が考えられる。
 
