@@ -124,10 +124,12 @@ math: false
 - [プレクストーク » PLEXTALK Producer｜シナノケンシ株式会社](http://www.plextalk.com/jp/products/producer/)  
   45000円＋税。
 
-以下は、作成したEPUB3書籍がアクセシブルであるかどうかをチェックするアプリです。
+以下は、作成したEPUB3書籍が規格どおりであるかをチェックするアプリです。
 
+- [pagina EPUB-Checker](https://www.pagina.gmbh/produkte/epub-checker/)  
+  EPUB3規格通りであるかどうかをチェック。無料。
 - [The Ace App | Ace, by DAISY](https://daisy.github.io/ace/getting-started/ace-app/)  
-  無料。
+  [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) に基づくアクセシビリティのガイドラインが守られているかどうかをチェック。無料。
 
 ### デイジー図書の再生
 
