@@ -553,7 +553,7 @@ ChattyInfty3 のデフォルトの入力モードはテキストモードにな�
 セクションタイトルのフレーズ結合：
 : <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552441703?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="セクションタイトルのフレーズ結合"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-### 3.6. 複数の Chatty ファイルの統合
+### 3.7. 複数の Chatty ファイルの統合
 
 1つの図書を複数の人員で分配して部分ごとに Chatty ファイルを編集した場合、ある段階で Chatty ファイルを統合する必要がある。
 
@@ -576,7 +576,7 @@ ChattyInfty3 のデフォルトの入力モードはテキストモードにな�
 
 1個ずつ単語設定を検討しないですべてインポートする場合は、最も信用しているファイルの単語辞書を最後にインポートすれば、重複する単語設定はすべて、信用しているほうの設定で上書きされる。
 
-### 3.7. セクションやページ番号の操作
+### 3.8. セクションやページ番号の操作
 
 セクションの個数が多いほど、文書全体の検索置換処理が遅くなるので、セクション分割はなるべく編集作業の終盤でするほうが良い。
 
