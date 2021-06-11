@@ -63,7 +63,7 @@ math: false
 
 [やまびこ通信2019年3月号](https://o-yamabiko.github.io/tusin201903.html)からの転載を含みます。
 
-- [個人情報保護（METI/経済産業省）: リンク切れのため WayBackMachine のアーカイブより](https://web.archive.org/web/20190514182415/https://www.meti.go.jp/policy/it_policy/privacy/)より、特に以下の部分：
+- [個人情報保護（METI/経済産業省）: リンク切れのため WayBackMachine のアーカイブより](https://web.archive.org/web/20190514182415/https://www.meti.go.jp/policy/it_policy/privacy/)、特に以下の部分：
   - [「個人情報」の「取扱いのルール」が改正されます！（パンフレット）（PDF形式：19,330KB）: リンク切れのため WayBackMachine のアーカイブより](https://web.archive.org/web/20170110051754/http://www.meti.go.jp/policy/it_policy/privacy/downloadfiles/01kaiseikojinjohopamphlet.pdf)
 - [法令･ガイドライン等｜個人情報保護委員会](https://www.ppc.go.jp/personalinfo/legal/)より、特に以下の部分：
   - [個人情報の保護に関する法律についてのガイドライン（通則編）](https://www.ppc.go.jp/personalinfo/legal/2009_guidelines_tsusoku/)
