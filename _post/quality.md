@@ -23,7 +23,7 @@ math: true
 
 「製品の音質」の定義をした研究者は多いが、その定義の仕方には共通点がある[^porter1997]。
 
-[^porter1997]: [Porter, N.&nbsp;D. and Berry, B.&nbsp;F.: A study of standard methods for measuring the sound quality of industrial products: final report. *CIRA (EXT) 021*, 1997. p.&nbsp;5.]( A study of standard methods for measuring the sound quality of industrial products: final report.)
+[^porter1997]: [Porter, N.&nbsp;D. and Berry, B.&nbsp;F.: A study of standard methods for measuring the sound quality of industrial products: final report. *CIRA (EXT) 021*, 1997. p.&nbsp;5.](https://eprintspublications.npl.co.uk/694/)
 
 以下の3種類の定義は、20世紀の終わり頃に発表されたものだ。
 
