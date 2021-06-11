@@ -67,7 +67,7 @@ Sound Quality (SQ) is the perceptual reaction to the sound of a product that ref
 
 音質がどういうものから構成されるかということについて、決定的な説明は存在しない[^coxSIRC]。
 
-[^coxSIRC]: [Cox, T.: *Sound quality - making products sound better.* Acoustics Research Centre, Salford Innovation Research Centre (SIRC), University of Salford, Manchester, 2018.](https://web.archive.org/web/20171108161004/http://www.salford.ac.uk/research/sirc/research-groups/acoustics/psychoacoustics/sound-quality-making-products-sound-better)  
+[^coxSIRC]: [Cox, T.: *Sound quality - making products sound better.* Acoustics Research Centre, Salford Innovation Research Centre (SIRC), University of Salford, Manchester, 2018. (Archive)](https://web.archive.org/web/20171108161004/http://www.salford.ac.uk/research/sirc/research-groups/acoustics/psychoacoustics/sound-quality-making-products-sound-better)  
     Page "An introduction to Sound Quality testing. [Defining sound quality.](https://web.archive.org/web/20200215041403/https://www.salford.ac.uk/research/sirc/research-groups/acoustics/psychoacoustics/sound-quality-making-products-sound-better/accordion/sound-quality-testing/defining-sound-quality)"
 
 
