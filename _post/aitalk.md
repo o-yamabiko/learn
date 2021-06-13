@@ -504,7 +504,25 @@ ChattyInfty3 のデフォルトの入力モードはテキストモードにな�
 数式（例文出典：西成 活裕『東大の先生! 文系の私に超わかりやすく数学を教えてください!』かんき出版, 2019.）：
 : <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552421208?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="数式"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-### 3.5. コメントの挿入
+### 3.5. フレーズの結合
+
+ハイライト結合 `Ctrl Shift +` は、句点や括弧などで自動的にフレーズが切れるように設定してある場合に、その箇所だけ切らないでつなげたいときに使う。
+
+例えば「設定＞音声設定」で、括弧はじめの前でフレーズが切れるように設定している場合：
+: ![括弧の前で切れる設定の例](media/aitalk/highlightset.png){: .naka}
+
+この設定では、曜日が括弧で表されているところもフレーズが切れる。その前の日付けとつなげて読み上げさせるには、括弧はじめの前でハイライト結合をする。
+
+日付と曜日のハイライト結合：
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552422086?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="日付と曜日のハイライト結合"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+ある部分を選択してフレーズ結合 `Ctrl *` すると、選択した部分の中ではハイライトが切れず、選択した部分の直前直後がハイライト区切りになる。
+読点や括弧が含まれるセクションタイトルを1フレーズにしたいときに使える。
+
+セクションタイトルのフレーズ結合：
+: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552441703?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="セクションタイトルのフレーズ結合"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+### 3.6. コメントの挿入
 
 以下の形式で、デイジーデータに影響しないコメントを入れることができる。この方法は、校正や自分用のメモなどに使うことができる。
 
@@ -533,25 +551,8 @@ ChattyInfty3 のデフォルトの入力モードはテキストモードにな�
 ![コメント化](media/aitalk/comment2.png){: .naka}
 
 実は、音声デイジーの場合に限り、 `!--` と `--` で挟まなくても、コメント文をHTMLタグモードにするだけで、デイジーデータに影響しないコメントを付けられる。
+{: .note}
 
-
-### 3.6. フレーズの結合
-
-ハイライト結合 `Ctrl Shift +` は、句点や括弧などで自動的にフレーズが切れるように設定してある場合に、その箇所だけ切らないでつなげたいときに使う。
-
-例えば「設定＞音声設定」で、括弧はじめの前でフレーズが切れるように設定している場合：
-: ![括弧の前で切れる設定の例](media/aitalk/highlightset.png){: .naka}
-
-この設定では、曜日が括弧で表されているところもフレーズが切れる。その前の日付けとつなげて読み上げさせるには、括弧はじめの前でハイライト結合をする。
-
-日付と曜日のハイライト結合：
-: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552422086?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="日付と曜日のハイライト結合"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-ある部分を選択してフレーズ結合 `Ctrl *` すると、選択した部分の中ではハイライトが切れず、選択した部分の直前直後がハイライト区切りになる。
-読点や括弧が含まれるセクションタイトルを1フレーズにしたいときに使える。
-
-セクションタイトルのフレーズ結合：
-: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552441703?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="セクションタイトルのフレーズ結合"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ### 3.7. 複数の Chatty ファイルの統合
 
