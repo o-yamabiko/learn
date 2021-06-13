@@ -495,7 +495,7 @@ ChattyInfty3 に付属している AITalk は、単体で売られている AITa
 読み設定機能を使って、他のアプリ等で作成した音声ファイルを、フレーズ単位で当てはめることができる。
 
 AITalk版では読み上げられない文字列に音声ファイルを当てる：
-: <div style="padding:55.87% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/562408878?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="フレーズに音声ファイルを当てる"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+: <div style="padding:56.04% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/562408878?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="フレーズに音声ファイルを当てる"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 他に、 [NEUTRINO](https://n3utrino.work/238/) などで歌わせて作成した音声ファイルや、自分の声の録音ファイルなども当てはめることができる。
 
