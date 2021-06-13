@@ -270,7 +270,7 @@ AITalk の音声でマルチメディアデイジーを作成する場合は、�
 7. 今開いているセクションの音声をすべて当て終わったら、保存（`Ctrl S`）してから File ＞ Project Spine を開き（`Ctrl U`）、次のセクションを選んで同様の作業をする。
 8. すべてのセクションの音声を当てて保存したら Tobi を閉じ、作業ファイルと元データを次の作業者に渡す。
 
-ステップ2から7を再現するビデオ
+ステップ2から7を再現する（ビデオ内 右下 Vimeoロゴの横に現れるマークで 全画面表示）
 : <div style="padding:55.94% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/562343719" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## 5. EPUB3 マルチメディアデイジーと DAISY 2.02 音声デイジーの仕上げ
