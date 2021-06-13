@@ -4,7 +4,7 @@ category: daisy
 docid: mmd
 title: やまびこ式マルチメディアデイジー図書の作成手順
 author: 水野光子
-date: 2021-05-03T12:20:32Z
+date: 2021-06-13T12:20:32Z
 iro: ba0c5b
 gra: bedfec
 math: true
