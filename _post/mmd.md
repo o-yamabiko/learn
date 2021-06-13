@@ -109,7 +109,11 @@ DAISY2.02 の製作では、どんなに複雑な書籍でもセクションレ�
   受け取ったChattyのデータから、EPUB3（音声あり）、mp3, 64kbpsとしてエクスポートする。そのEPUB3ファイルはWCAGの基準を満たしていない。  
   自作の自動修正スクリプト等を使ってデータを改変することによって、アクセシブルなデジタル図書としての形式を整える。  
   pagina EPUB-Checker と Ace by DAISY を使って、図書館に納める製品として間違いのないマルチメディアデイジー EPUB3（音声あり）になっていることを確認する。  
-  さらに、DAISY2.02マルチメディアデイジーとしてWAVでエクスポートし、それをPRSProでデイジーインポートしてから、mp3, 64kbpsとして音声エクスポートして音声デイジーを完成させる。この回りくどい措置は、ChattyInfty3でエクスポートした音声デイジーをChattyBooksで再生する際、条件により不具合が生じることがあるため（2021年2月25日現在、[sAccessNet](https://www.sciaccess.net/jp/index.html)に報告済）。ただしPRSProでのデイジーインポートでも一部のセクションがごっそり欠ける不具合が生じたことがあるので、最終的にデータが揃っているかを必ずチェックする。
+  さらに、DAISY2.02マルチメディアデイジーとしてWAVでエクスポートし、それをPRSProでデイジーインポートしてから、mp3, 64kbpsとして音声エクスポートして音声デイジーを完成させる。
+
+この回りくどい措置は、ChattyInfty3でエクスポートした音声デイジーをChattyBooksで再生する際、条件により不具合が生じることがあるため（2021年2月25日現在、[sAccessNet](https://www.sciaccess.net/jp/index.html)に報告済）。ただしPRSProでのデイジーインポートでも一部のセクションがごっそり欠ける不具合が生じたことがあるので、最終的にデータが揃っているかを必ずチェックする。
+{: .note}
+
 
 ## 2. 音声チームの仕事
 
@@ -270,7 +274,8 @@ AITalk の音声でマルチメディアデイジーを作成する場合は、�
 7. 今開いているセクションの音声をすべて当て終わったら、保存（`Ctrl S`）してから File ＞ Project Spine を開き（`Ctrl U`）、次のセクションを選んで同様の作業をする。
 8. すべてのセクションの音声を当てて保存したら Tobi を閉じ、作業ファイルと元データを次の作業者に渡す。
 
-ステップ2から7を再現する（ビデオ内 右下 Vimeoロゴの横に現れるマークで 全画面表示）
+ステップ2から7を再現する  
+（ビデオ内 右下 Vimeoロゴの横に現れるマークで 全画面表示）
 : <div style="padding:55.94% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/562343719" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## 5. EPUB3 マルチメディアデイジーと DAISY 2.02 音声デイジーの仕上げ
