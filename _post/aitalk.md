@@ -494,7 +494,7 @@ ChattyInfty3 に付属している AITalk は、単体で売られている AITa
 
 読み設定機能を使って、他のアプリ等で作成した音声ファイルを、フレーズ単位で当てはめることができる。
 
-AITalk版では読み上げられない文字列に音声ファイルを当てる：
+AITalk版では読み上げられない文字列に、音声ファイルを当てる：
 : （ビデオ内 右下 Vimeoロゴの横に現れるマークで 全画面表示）
 : <div style="padding:56.04% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/562408878?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="フレーズに音声ファイルを当てる"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -688,7 +688,10 @@ CDなどの媒体にデイジーデータを書き込むとき、デイジーデ
 </html>
 ```
 
+上の条件のどれかを満たしていない場合は、Chatty から出力形式「DAISY 2.02 （マルチメディア）」として出力したデータを、PRSPro からDAISYインポートして仕上げの作業をする。
+
 完成品は必ず [PTN2](http://www.plextalk.com/jp/support/ptn2/) や [AMIS](https://daisy.org/info-help/document-archive/archived-projects/amis/download-and-installation/) などで正常に再生できるか確認してから納品する。
+
 
 #### 3.9.2. マルチメディアデイジー
 
