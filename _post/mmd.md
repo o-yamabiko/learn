@@ -319,10 +319,10 @@ Chatty で imlx ファイルを開き、マルチメディアデイジー用の�
 
 DAISY 2.02（音声のみ）、 64kbps の mp3、 __エンコード utf-8 で__ エクスポートする。書誌情報は、受け取っているtsvファイルに従って記入する。
 
-shift_jis ではなく utf-8 にするのは、文中に1文字でも shift_jis に含まれない文字が書かれていると、DAISY 2.02 （音声のみ）のエクスポートデータに utf-8 と shift_jis が混在し、正しくないデータとなるため。（2021年2月25日現在、[sAccessNet](https://www.sciaccess.net/jp/index.html)に報告済）。
+`Shift_JIS` ではなく `UTF-8` にするのは、文中に1文字でも `Shift_JIS` に含まれない文字が書かれていると、DAISY 2.02 （音声のみ）のエクスポートデータに utf-8 と `Shift_JIS` が混在し、正しくないデータとなるため。（2021年2月25日現在、[sAccessNet](https://www.sciaccess.net/jp/index.html)に報告済）。
 {: .note}
 
-- 国立国会図書館では DAISY 2.02 のエンコーディングとして Shift_JIS しか受け付けないので、エクスポートしたフォルダ内のテキストファイルをすべて shift_jis に変換する。
+- 国立国会図書館では DAISY 2.02 のエンコーディングとして `Shift_JIS` しか受け付けないので、エクスポートしたフォルダ内のテキストファイルをすべて `Shift_JIS` に変換する。
 - 同時に discinfo.html も作る。
 
 この2つの作業はスクリプトで自動化する。
@@ -341,10 +341,10 @@ shift_jis ではなく utf-8 にするのは、文中に1文字でも shift_jis 
 
 DAISY 2.02（マルチメディア）、mp3への変換なし（wav）、 __エンコード utf-8 で__ エクスポートする。書誌情報は、受け取っているtsvファイルに従って記入する。
 
-shift_jis ではなく utf-8 にするのは、1文字でも shift_jis に無い文字が含まれていると、DAISY 2.02 （マルチメディア）のエクスポートがエラーで中断されるため（2021年2月25日現在、[sAccessNet](https://www.sciaccess.net/jp/index.html)に報告済）。
+`Shift_JIS` ではなく `UTF-8` にするのは、1文字でも `Shift_JIS` に無い文字が含まれていると、DAISY 2.02 （マルチメディア）のエクスポートがエラーで中断されるため（2021年2月25日現在、[sAccessNet](https://www.sciaccess.net/jp/index.html)に報告済）。
 {: .note}
 
-PRSPro では utf-8 エンコーディングのデイジーデータをインポートするが、編集後にエクスポートするときには、書誌情報の記入欄で Shift_JIS を選んでおく。
+PRSPro では `UTF-8` エンコーディングのデイジーデータをインポートするが、編集後にエクスポートするときには、書誌情報の記入欄で `Shift_JIS` を選んでおく。
 
 編集後の作業は「5.2.2. 人の声で録音した場合」と同じ。
 
