@@ -575,10 +575,10 @@ $ \hat{H} | \psi_n (t) \rangle = i \hbar \frac{\partial}{\partial t} | \psi_n (t
 ```
 
 Chatty編集画面にコピー＆ペーストした状態：
-: ![コピペだけではhbarが数式化されていない](media/aitalk/schroedinder1.png){: .naka}
+: ![コピペだけではhbarが数式化されていない](media/aitalk/schroedinger1.png){: .naka}
 
 数式化に失敗している `\hbar` の部分を、Chatty 編集画面上で消して、そこに `\hbar` をタイピングで入力すると、正しい表示が選択肢に出るので、それを選択すると以下のように修正できる：
-: ![hbarが修正された状態](media/aitalk/schroedinder2.png){: .naka}
+: ![hbarが修正された状態](media/aitalk/schroedinger2.png){: .naka}
 
 以上のように数式を LaTeX コマンドで直接取り込む機能は、コピー＆ペーストの操作によって利用できるが、 File Import では利用できない。
 
