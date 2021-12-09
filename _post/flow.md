@@ -5,8 +5,8 @@ docid: flow
 title: デイジー制作フローチャート
 author: 水野光子
 date: 2021-12-09T12:13:20Z
-iro: 0b8f7b
-gra: d6fcf7
+iro: 009e3c
+gra: ffc5e0
 pdf: flow3.pdf
 version: 1
 ---
