@@ -13,6 +13,6 @@ version: 1
 
 # デイジー制作フローチャート
 
-やまびこのデイジー制作のフローチャートです。
+やまびこのデイジー制作のフローチャート。画像をクリックかタップすると画像のみ表示。
 
-<img src="media/flow/flow3.png" alt="フローチャート" srcset="media/flow/flow3.svg" class="fullw" />
+<a href="media/flow/flow3.png"><img src="media/flow/flow3.png" alt="フローチャート" srcset="media/flow/flow3.svg" class="fullw" /></a>
