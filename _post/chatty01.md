@@ -2,7 +2,7 @@
 layout: caymanyomi
 category: ai
 docid: chatty01
-title: ChattyInfty3 利用方法
+title: ChattyInfty3 活用方法
 author: 水野光子
 date: 2020-09-07T23:09:32Z
 iro: 678600
@@ -11,7 +11,7 @@ pdf: chatty01.pdf
 version: 1
 ---
 
-# ChattyInfty3 利用方法
+# ChattyInfty3 活用方法
 {:.no_toc}
 
 ここでは ChattyInfty3 を音訳に活用する方法について書かれています。
