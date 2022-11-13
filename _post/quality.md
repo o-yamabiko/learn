@@ -4,6 +4,7 @@ category: misc
 docid: quality
 title: 音質を考慮した録音製作
 author: 水野光子
+ccbysa: true
 date: 2018-12-03T12:20:32Z
 iro: 00585f
 gra: cde4e6

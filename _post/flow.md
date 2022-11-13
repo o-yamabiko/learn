@@ -4,6 +4,7 @@ category: daisy
 docid: flow
 title: デイジー制作フローチャート
 author: 水野光子
+ccbysa: true
 date: 2021-12-09T12:13:20Z
 iro: 009e3c
 gra: ffc5e0

@@ -4,6 +4,7 @@ category: ai
 docid: pproducer
 title: PLEXTALK Producer と ChattyInfty3 の比較
 author: 水野光子
+ccbysa: true
 date: 2018-12-26T07:25:00Z
 iro: 005f1a
 gra: f4ffd7

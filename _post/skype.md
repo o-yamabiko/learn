@@ -4,6 +4,7 @@ category: misc
 docid: skype
 title: Skype でやまびこ例会に参加する方法
 author: 水野光子
+ccbysa: true
 date: 2020-04-04T08:00:00Z
 iro: 026d9c
 gra: 33c1ff

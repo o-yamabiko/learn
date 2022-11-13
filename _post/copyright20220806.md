@@ -4,6 +4,7 @@ category: report
 docid: copyright20220806
 title: 音訳ボランティアのための著作権セミナー（2022年）参加報告
 author: 水野光子
+ccbysa: true
 date: 2022-09-07T04:40:32Z
 iro: 1e60c6
 gra: deffc7

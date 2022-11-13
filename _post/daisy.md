@@ -4,6 +4,7 @@ category: misc
 docid: daisy
 title: DAISYとは
 author: 水野光子
+ccbysa: true
 date: 2020-02-19T06:04:00Z
 iro: 21358b
 gra: a0aad6

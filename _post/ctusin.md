@@ -4,6 +4,7 @@ category: ai
 docid: ctusin
 title: やまびこ通信用Chatty原稿の形式
 author: 水野光子
+ccbysa: true
 date: 2019-09-22T08:41:32Z
 iro: cb5300
 gra: feffcf

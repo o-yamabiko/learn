@@ -4,6 +4,7 @@ category: misc
 docid: link
 title: 外部リンク集
 author: 水野光子
+ccbysa: true
 date: 2020-02-19T06:04:00Z
 iro: ff1362
 gra: fff3dd

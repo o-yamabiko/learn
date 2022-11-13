@@ -4,6 +4,7 @@ category: report
 docid: chukyu
 title: 「平成29年度音訳者講習（中級研修）」受講報告
 author: 水野光子
+ccbysa: true
 date: 2017-11-30T01:13:20Z
 ---
 # 「平成29年度音訳者講習（中級研修）」受講報告
