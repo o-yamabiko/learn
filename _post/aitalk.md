@@ -4,6 +4,7 @@ category: ai
 docid: aitalk
 title: ChattyInfty3 AITalk版の操作方法
 author: 水野光子
+ccbysa: true
 date: 2021-08-12T06:20:32Z
 iro: 085b73
 gra: c6e67d

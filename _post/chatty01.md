@@ -4,6 +4,7 @@ category: ai
 docid: chatty01
 title: ChattyInfty3 活用方法
 author: 水野光子
+ccbysa: true
 date: 2020-09-07T23:09:32Z
 iro: 678600
 gra: f2f5b2
