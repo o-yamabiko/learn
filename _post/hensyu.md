@@ -8,18 +8,16 @@ ccbysa: true
 date: 2023-04-04T05:09:32Z
 iro: 0b8f7b
 gra: d6fcf7
-pdf: hensyu.pdf
+pdf: hensyu_slides.pdf
 version: 3
 ---
 
 # デイジー編集作業手順
 {:.no_toc}
 
-このページは2019年に書いたものですが、その後、著者のスキルが少し上がったので、内容を大幅に更新したスライドショーを以下のところに置きました。それの pdf 版も作成しました。ご自由にお使いください。
+このページは2019年に書いたものですが、その後、著者のスキルが少し上がったので、内容を大幅に更新したスライドショーを以下のところに置きました。ご自由にお使いください。
 
 [2023年版スライドショー（スライドショーボタンのプレゼンター表示を選ぶと一部スライドの説明も表示されます）](https://docs.google.com/presentation/d/1mJxZ2P-yAjBsihS26X893GW0M_lt7moiSDH-d7FevD4/edit?usp=sharing)
-
-[2023年版スライドショーpdfファイル](./media/hensyu/hensyu_slides.pdf)
 
 スライドショーの内容：音声デイジー編集の方法
 - 完成品の概要  
@@ -49,6 +47,8 @@ version: 3
 
 # 以下は2019年の内容
 {:.no_toc}
+
+[2019年版 pdf ファイル](./media/hensyu/hensyu.pdf)
 
 ## 目次
 {:.no_toc}
