@@ -15,7 +15,7 @@ gra: ffe3a8
 
 ## デイジー作業手順
 
-{% assign subpage = (site.post | sort: 'date' | reverse) | where: 'category', 'daisy' %}
+{% assign subpage = (site.post | sort: 'date') | reverse | where: 'category', 'daisy' %}
 {% for item in subpage %}
 1. {{ item.title }}  
 <span style="font-size:small;">（{{ item.date | date: "%Y年%m月%d日" }}、{{ item.author }}）</span>  
