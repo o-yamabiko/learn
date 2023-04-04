@@ -17,9 +17,11 @@ version: 3
 
 このページは2019年に書いたものですが、その後、著者のスキルが少し上がったので、内容を大幅に更新したスライドショーを以下のところに置きました。それの pdf 版も作成しました。ご自由にお使いください。
 
-[2023年版スライドショー（スライドショーをする際にプレゼンタービューを選ぶと一部スライドの説明も表示されます）](https://docs.google.com/presentation/d/1mJxZ2P-yAjBsihS26X893GW0M_lt7moiSDH-d7FevD4/edit?usp=sharing)・[pdfファイル](./media/hensyu/hensyu_slides.pdf)
+[2023年版スライドショー（スライドショーボタンのプレゼンター表示を選ぶと一部スライドの説明も表示されます）](https://docs.google.com/presentation/d/1mJxZ2P-yAjBsihS26X893GW0M_lt7moiSDH-d7FevD4/edit?usp=sharing)
 
-内容：音声デイジー編集の方法
+[2023年版スライドショーpdfファイル](./media/hensyu/hensyu_slides.pdf)
+
+スライドショーの内容：音声デイジー編集の方法
 - 完成品の概要  
   音声デイジー編集でやること・本の構造・タイトルコール・著作権ガイド・録音図書凡例・終わりアナウンス・製作施設名など。
 - 著作権法を考慮する  
