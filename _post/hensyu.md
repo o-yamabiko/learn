@@ -5,11 +5,11 @@ docid: hensyu
 title: デイジー編集作業手順
 author: 水野光子
 ccbysa: true
-date: 2023-04-06T03:09:32Z
+date: 2023-04-07T18:09:32Z
 iro: 0b8f7b
 gra: d6fcf7
 pdf: hensyu_slides.pdf
-version: 4
+version: 5
 ---
 
 # デイジー編集作業手順
