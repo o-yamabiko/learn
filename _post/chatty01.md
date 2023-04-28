@@ -28,7 +28,7 @@ version: 1
 
 テキストデータを入力して、DAISY図書を出力することができる。DAISY 2.02 音声デイジー、DAISY 2.02 マルチメディアデイジー、 EPUB 3 マルチメディアデイジー、 EPUB 3 テキストデイジーなど。 DAISY 3 も機能として存在するが、2020年9月6日現在、出力ファイルに不具合あり（すぐに手で直せる程度の不具合）。
 
-DAISY の種類の違いがわからない方は「[DAISYとは](https://o-yamabiko.github.io/learn/daisy.html)」を参照。
+DAISY の種類の違いがわからない方は「[DAISYとは](media/daisy20191125.pdf)」を参照。
 
 ## 2. 音訳グループやまびこでの利用
 
@@ -123,7 +123,7 @@ ChattyInfty3 の合成音声機能を使う作業の場合、原稿作成者と�
 
 上記のように、 ChattyInfty3 で何を作るかによって、やるべき操作・やると無駄な操作が決まる。それぞれの目的に応じた作業手順を別ページに載せる。
 
-- マルチメディアデイジー作成：[やまびこ式マルチメディアデイジー図書の作成手順](https://o-yamabiko.github.io/learn/mmd.html)
+- マルチメディアデイジー作成：[マルチメディアデイジー制作のための理論と実践（外部サイト）](https://docs.google.com/presentation/d/17-BF2mJ7k7RQVpR8Y9X-wNqfBrpimvtT0cgDwRQwjZI/edit?usp=sharing)
 - 音声デイジー作成：[ChattyInfty3で音声デイジー：グループ作業指針](https://o-yamabiko.github.io/learn/chatty_group.html)
 - やまびこ通信作成：[やまびこ通信用Chatty原稿の形式](https://o-yamabiko.github.io/learn/ctusin.html)
 

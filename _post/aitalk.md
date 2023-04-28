@@ -756,11 +756,11 @@ CDなどの媒体にデイジーデータを書き込むとき、最上位の階
 
 #### 3.9.2. マルチメディアデイジー
 
-やまびこから国立国会図書館に納本するマルチメディアデイジーは DAISY 2.02 ではなく EPUB3 である。
+やまびこから国立国会図書館に納本するマルチメディアデイジーは DAISY 2.02 と EPUB3 である。
 
  Chattyメニューの「ファイル＞EPUB出力」の出力形式「EPUB（音声あり）」によって、 EPUB3 with Media Overlays 形式のマルチメディアデイジーを作成できる。
 
-ただし、これによって作られる epub ファイルは [WCAG](https://ja.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines) を考慮しない作りになっているので、国立国会図書館に納本するためには多少の改変が必要である。詳しい方法は[やまびこ式マルチメディアデイジー図書の作成手順](mmd.html)を参照。
+ただし、これによって作られる epub ファイルは [WCAG](https://ja.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines) を考慮しない作りになっているので、国立国会図書館に納本するためには多少の改変が必要である。詳しい方法は[マルチメディアデイジー制作のための理論と実践（外部サイト）](https://docs.google.com/presentation/d/17-BF2mJ7k7RQVpR8Y9X-wNqfBrpimvtT0cgDwRQwjZI/edit?usp=sharing)を参照。
 
 
 
