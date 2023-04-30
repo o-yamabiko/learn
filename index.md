@@ -40,6 +40,7 @@ gra: ffe3a8
 
 ## その他
 
+1. [DAISYとは（pdf）](media/daisy20191125.pdf)
 {% assign subpage = (site.post | sort: 'date') | reverse | where: 'category', 'misc' %}
 {% for item in subpage %}
 1. [{{ item.title }}](.{{ item.url }})  
